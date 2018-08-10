@@ -129,8 +129,27 @@
   .office-info {
     width: 40%;
 /*    border-top: 70px solid #ffffff;*/
-
   }
+
+  /* email form */
+ /*   .error{
+                padding: 5px 9px;
+                border: 1px solid red;
+                color: red;
+                border-radius: 3px;
+              }
+
+              .success{
+                padding: 5px 9px;
+                border: 1px solid green;
+                color: green;
+                border-radius: 3px;
+              }
+
+              form span{
+                color: red;
+              }*/
+
 
 /*
  * Masthead for nav
@@ -233,6 +252,40 @@
 
 }
 
+/* resources page */
+.search {
+  float: left;
+  width: 33%;
+  padding: 10px;
+  height: 30px; 
+  text-align: left;
+  margin-bottom: 1000px;
+
+}
+
+.seo-content {
+  float: left;
+  width: 25%;
+  padding: 10px;
+  height: 200px; 
+  text-align: left;
+  background-color:#DCDCDC;
+  margin-bottom: 15px;
+  margin-left: 10px;
+}
+
+.industry-content {
+  float: left;
+  width: 25%;
+  padding: 10px;
+  height: 200px; 
+  text-align: left;
+  background-color:#428bca;
+  margin-top: 50px;
+  margin-bottom: 15px;
+  margin-left: 10px;
+}
+
 
 
 /* good smiley - homepage pic */
@@ -290,6 +343,10 @@ height: 300px;*/
 .blog-post-title {
   margin-bottom: 5px;
   font-size: 40px;
+}
+.blog-post-search {
+  margin-bottom: 5px;
+  font-size: 20px;
 }
 .client-review-title {
   margin-bottom: 5px;
