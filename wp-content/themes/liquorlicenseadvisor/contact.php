@@ -44,22 +44,21 @@ if(!$human == 0){
     else {
 
       //validate email
-    	if(!filter_var($email, FILTER_VALIDATE_EMAIL))
-    		my_contact_form_generate_response("error", $email_invalid);
-      else //email is valid
-      {
+    	// if(!filter_var($email, FILTER_VALIDATE_EMAIL))
+    	// 	// my_contact_form_generate_response("error", $email_invalid);
+     //  	else //email is valid
+     //  {
         //validate presence of name and message
-      	if(empty($name) || empty($message)){
-      		my_contact_form_generate_response("error", $missing_content);
-      	}
-        else //ready to go!
-        {
-        	// $sent = wp_mail($to, $subject, strip_tags($message), $headers);
-        	$sent = wp_mail('shrlyhe@gmail.com', 'testtest', 'tttetsttt');
-          if($sent) my_contact_form_generate_response("success", $message_sent); //message sent!
-          else my_contact_form_generate_response("error", $message_unsent); //message wasn't sent
-      }
-   }
+      	// if(empty($name) || empty($message)){
+      	// 	my_contact_form_generate_response("error", $missing_content);
+      	// }
+       //  else //ready to go!
+       //  {
+         // $sent = wp_mail($to, $subject, strip_tags($message), $headers);
+          // if($sent) my_contact_form_generate_response("success", $message_sent); //message sent!
+          // else my_contact_form_generate_response("error", $message_unsent); //message wasn't sent
+      // }
+   // }
  }
 }
 else if ($_POST['submitted']) my_contact_form_generate_response("error", $missing_content);
@@ -83,19 +82,20 @@ else if ($_POST['submitted']) my_contact_form_generate_response("error", $missin
 						<h1 class="entry-title"><?php the_title(); ?></h1>
 					</header>
 
-					<div class="col-sm-10 office-info">
+					<div>
 						<?php the_content(); ?>
 
 						<style type="text/css">
 							.error{
-								padding: 5px 9px;
+								margin: 25px 550px 25px 700px;
 								border: 1px solid red;
 								color: red;
 								border-radius: 3px;
+								text-align: center;
 							}
 
 							.success{
-								padding: 5px 9px;
+								margin: 25px 550px 25px 700px;
 								border: 1px solid green;
 								color: green;
 								border-radius: 3px;

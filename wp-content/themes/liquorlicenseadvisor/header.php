@@ -33,8 +33,9 @@
 		</div>
 	</div>
 	
-	<div class="container">
+<!-- 	<div class="container">
 
 		<div class="blog-header">
 			
 		</div>
+ -->
