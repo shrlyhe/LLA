@@ -37,5 +37,3 @@ get_header(); ?>
 
 
 </div> <!-- /.row -->
-
-<?php get_footer(); ?>
