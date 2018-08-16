@@ -36,6 +36,7 @@
     margin-right: 3%;
     background-color: #f0f8ff;
   }
+
   .main {
     margin-left:3%;
     margin-right:3%;
@@ -222,12 +223,11 @@ box-shadow: inset 0 -2px 5px rgba(0,0,0,.1);*/
 .blog-nav li {
   position: relative;
   display: inline-block;
-  margin-top: 100px;
-  padding: 20px;
+  margin-top: 200px;
+  padding:20px;
   font-weight: 400; 
   float: left;
   font-size: 150%;
-
 }
 .blog-nav li a {
   color: black;
@@ -239,12 +239,25 @@ box-shadow: inset 0 -2px 5px rgba(0,0,0,.1);*/
   position: relative;
   display: inline-block;
   padding: 20px;
-  margin-top: 100px;
+  margin-top: 200px;
   font-weight: 400;
   color: black;
   float: left;
   font-size: 150%;
 }
+
+#lla-logo { /* LLA logo image */
+  width: 400px;
+  height: 400px;
+ /* padding-top: 5%;*/
+  padding-bottom: 10%;
+  padding-left: 5%;
+  position: absolute;
+  overflow: hidden;
+  display: inline-block;
+  float: left;
+}
+
 .blog-nav-item:hover,
 .blog-nav-item:focus {
   color: black;

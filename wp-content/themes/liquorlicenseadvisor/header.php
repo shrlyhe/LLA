@@ -15,20 +15,22 @@
 	<!--[if lt IE 9]>
       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-    <![endif]-->
-	<?php wp_head();?>
-</head>
+      <![endif]-->
+      <?php wp_head();?>
+  </head>
 
-<body>
+  <body>
 
-	<div class="blog-masthead">
-		<div class="container-header">
-			<nav class="blog-nav">
-				<a class="blog-nav-item active" href="<?php echo get_bloginfo( 'wpurl' );?>">HOME</a>
-				<?php wp_list_pages( '&title_li=' ); ?>
-			</nav>
-		</div>
-	</div>
+  	<div class="blog-masthead">
+  		
+  		<nav class="blog-nav">
+  			<img id="lla-logo" src="<?php echo get_stylesheet_directory_uri(); ?>/images/LLA-logo.png"/> 
+  			<div class="container-header">
+  				<a class="blog-nav-item active" href="<?php echo get_bloginfo( 'wpurl' );?>">HOME</a>
+  				<?php wp_list_pages( '&title_li=' ); ?>
+  			</nav>
+  		</div>
+  	</div>
 <!-- 	
 	<div class="container">
 
