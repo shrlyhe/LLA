@@ -22,15 +22,15 @@
 <body>
 
 	<div class="blog-masthead">
-		<div class="container">
+		<div class="container-header">
 			<nav class="blog-nav">
 				<a class="blog-nav-item active" href="<?php echo get_bloginfo( 'wpurl' );?>">HOME</a>
 				<?php wp_list_pages( '&title_li=' ); ?>
 			</nav>
 		</div>
 	</div>
-	
-<!-- 	<div class="container">
+<!-- 	
+	<div class="container">
 
 		<div class="blog-header">
 			
