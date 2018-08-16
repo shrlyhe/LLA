@@ -27,19 +27,20 @@
 
  @media (min-width: 1200px) {
   .container {
-    width: 960px;
+    width: 100%;
     margin: 0;
+    background-color: #f0f8ff;
   }
   .container-header {
-    width: 960px;
     float: right;
+    margin-right: 3%;
+    background-color: #f0f8ff;
   }
   .main {
-    margin-left:100px;
-    margin-right: 200px;
-    /*background-color:black;*/
+    margin-left:3%;
+    margin-right:3%;
     background-image: url("images/adobe-stock.jpg");
-    width: 80%;
+    width: 93%;
     height: 300px;
   }
   /*about page*/
@@ -65,7 +66,7 @@
     width: 30%;
     height: 400px;
   }
- /* services page */
+  /* services page */
   .services { /*overview*/
     margin-top:30px;
     margin-left:100px;
@@ -76,7 +77,7 @@
     width: 55%;
     padding: 0px;
     height: 500px;
- }
+  }
 
   .job { /*job specific services*/
     margin-top:30px;
@@ -92,16 +93,16 @@
   }
 
   .begin { /* don't know where to begin? banner */
-    margin-top:10px;
-    margin-left:100px;
-    background-color: #606060;
-    text-align: center;
-    float: left;
-    width: 55%;
-    padding: 0px;
-    height: 100px;
-    border-top: 15px solid #ffffff;
-  }
+  margin-top:10px;
+  margin-left:100px;
+  background-color: #606060;
+  text-align: center;
+  float: left;
+  width: 55%;
+  padding: 0px;
+  height: 100px;
+  border-top: 15px solid #ffffff;
+}
 
 }
 
@@ -110,16 +111,11 @@
  */
 
  .descriptor { /* LLA descriptor/tagline box */
-   margin:0;
-/*   background-color:#428bca;*/
+   margin-right:3%;
    text-align: center;
    width: 35%;
    padding: 0px;
    height: 400px;
- /*  border-top: 30px solid #DCDCDC;
-   border-bottom: 30px solid #DCDCDC;
-   border-left: 50px solid #DCDCDC;
-   border-right: 30px solid #DCDCDC;*/
  }
 
  .license-buy { /* sell license buttons */
@@ -133,7 +129,7 @@
   border-radius: 10px;
 }
 
- .license-sell { /* sell license buttons */
+.license-sell { /* sell license buttons */
   margin:0;
   background-color:#800000;
   color: white;
@@ -152,7 +148,7 @@
  * services page (other half) 
  */
 
-.banner { /* CTA banner */
+ .banner { /* CTA banner */
   margin:0;
   background-color:#DCDCDC;
   text-align: center;
@@ -164,18 +160,18 @@
   border-right: 50px solid #ffffff;
   border-bottom: 50px solid #ffffff;*/
 }
- .specific { /* specific services */
-   margin:0;
-   background-color:#428bca;
-   text-align: center;
-   width: 100%;
-   padding: 0px;
-   height: 100px;
-   border-top: 15px solid #DCDCDC;
-   border-bottom: 15px solid #DCDCDC;
-   border-left: 30px solid #DCDCDC;
-   border-right: 30px solid #DCDCDC;
- }
+.specific { /* specific services */
+ margin:0;
+ background-color:#428bca;
+ text-align: center;
+ width: 100%;
+ padding: 0px;
+ height: 100px;
+ border-top: 15px solid #DCDCDC;
+ border-bottom: 15px solid #DCDCDC;
+ border-left: 30px solid #DCDCDC;
+ border-right: 30px solid #DCDCDC;
+}
 
  /*
   * Contact page
@@ -185,7 +181,7 @@
     margin-left: 120px;
     margin-top: 50px;
     margin-bottom: 200px;
-/*    border-top: 70px solid #ffffff;*/
+    /*    border-top: 70px solid #ffffff;*/
   }
   .entry-title {
     margin-left: 10px;
@@ -210,7 +206,7 @@
 
               form span{
                 color: red;
-              }*/
+                }*/
 
 
 /*
@@ -218,9 +214,9 @@
  */
 
  .blog-masthead {
-/*  background-color: #428bca;*/
+  /*  background-color: #428bca;*/
 /*  -webkit-box-shadow: inset 0 -2px 5px rgba(0,0,0,.1);
-  box-shadow: inset 0 -2px 5px rgba(0,0,0,.1);*/
+box-shadow: inset 0 -2px 5px rgba(0,0,0,.1);*/
 }
 
 .blog-nav li {
@@ -231,8 +227,6 @@
   font-weight: 400; 
   float: left;
   font-size: 150%;
-
-
 
 }
 .blog-nav li a {
@@ -274,7 +268,7 @@
 /* Active state gets a caret at the bottom */
 /*.blog-nav .active {
   color: #fff;
-}*/
+  }*/
 /*.blog-nav .active:after {
   position: absolute;
   bottom: 0;
@@ -324,20 +318,24 @@
 .review-column {
   float: left;
   width: 33%;
-  padding: 10px;
+  padding-top: 5%;
+  padding-right: 3%;
   height: 300px; 
   text-align: center;
+}
 
+.review-column p {
+  font-size: 120%;
 }
 
 .column-quote {
   float: right;
   padding-top: 10%;
-  padding-left: 40%;
+  padding-left: 20%;
   font-size: 150%;
- /* margin-right: -100px;*/
-  /*white-space: nowrap;*/
-  /*overflow: hidden;*/
+  margin: 0;
+  padding-right: 5%;
+  padding-bottom: 10%;
 }
 
 .column-quote h3{
@@ -347,12 +345,7 @@
 .column-dan {
   padding-top: 10%;
   float: left;
- /* width: 50%;*/
-/*  padding: 10px;*/
- /* height: 300px;*/ 
- /* margin-left: 100px;*/
 }
-
 
 /* services page */
 .services-overview {
@@ -409,7 +402,7 @@
   overflow: hidden;
   border-radius: 90%;
   display: inline-block;
-  margin-left: 40%;
+  margin-left: 25%;
   float: left;
 }
 
@@ -454,7 +447,7 @@ height: 300px;*/
  * Main site
  */
 
-.blog-post {
+ .blog-post {
   margin-bottom: 60px;
 }
 .blog-post-title {
