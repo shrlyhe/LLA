@@ -1,6 +1,7 @@
 <?php get_header(); ?>
 <div class="container">
   <div class="row">
+  <div class="main-underline"></div>
 
     <div class="col-sm-12 main">
       <div class="descriptor">

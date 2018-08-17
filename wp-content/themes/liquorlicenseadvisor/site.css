@@ -37,13 +37,7 @@
     background-color: #f0f8ff;
   }
 
-  .main {
-    margin-left:3%;
-    margin-right:3%;
-    background-image: url("images/adobe-stock.jpg");
-    width: 93%;
-    height: 300px;
-  }
+
   /*about page*/
   .about-overview {
     margin-top:10px;
@@ -106,6 +100,28 @@
 }
 
 }
+
+  .main-underline {
+    content: "";
+    display: block;
+    width: 93%;
+    margin-left: 3%;
+    margin-top: 20%;
+   /* margin-bottom: 60px;*/
+    border-bottom: 2px solid black;
+    -webkit-box-shadow:0px 2px 2px #696969;
+    -moz-box-shadow:0px 2px 2px #696969;
+    box-shadow:0px 2px 2px #696969;
+  }
+
+  .main {
+    margin-left:3%;
+    margin-right:3%;
+    margin-top: 3%;
+    background-image: url("images/adobe-stock.jpg");
+    width: 93%;
+    height: 300px;
+  }
 
 /* 
  * home page 
@@ -407,6 +423,7 @@ box-shadow: inset 0 -2px 5px rgba(0,0,0,.1);*/
   width: 33%;
   padding-top: 5%;
   padding-right: 3%;
+  padding-left: 3%;
   padding-bottom: 30%;
   height: 300px; 
   text-align: center;
@@ -506,10 +523,16 @@ box-shadow: inset 0 -2px 5px rgba(0,0,0,.1);*/
   text-align: center;
   position: relative;
   display: inline-block;
+  
+}
+
+.footer li {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: 500;
   color: #333;
   font-size: 150%;
+  padding-left: 13%;
+
 }
 
 .footer:before {
