@@ -7,30 +7,37 @@
 
 get_header(); ?>
 
-<div class="row">
-	<div class="col-sm-12 office-info">
-		<h3 class="blog-post-title">Office Info</h3>
-		<h2> 111111 Sample St. </h2>
-		<h2> Sample Sample 011111 </h2>
-		<h2> (123) 456 - 789 </h2>
-	</div>
+<div class="container">
+	<div class="row">
+		<div class="col-sm-12 contact-header">
+			<h1>CONTACT US</h1>
+		</div>
 
 
-	<div id="primary" class="site-content">
-		<div id="content" role="main">
-
-			<header class="entry-header">
-				<h1 class="entry-title"><?php the_title(); ?></h1>
-			</header>
-
-			<?php if (have_posts()) : while (have_posts()) : the_post(); ?>
-				<div class="col-sm-6 entry">
-					<?php the_content(); ?>
-				</div><!-- entry -->
-			<?php endwhile; ?>
-		<?php endif; ?>
+		<div class="col-sm-8 message-box">
+			<div role="main">
+				<?php if (have_posts()) : while (have_posts()) : the_post(); ?>
+					<div class="col-sm-8 message-box-header">
+						<h2>SEND US A MESSAGE</h2>
+						<?php the_content(); ?>
+					</div><!-- entry -->
+				<?php endwhile; ?>
+			<?php endif; ?>
 
 		</div><!-- #content -->
 	</div><!-- #primary -->
 
+	<div class="divider"></div>
+
+	<div class="col-sm-4 office-info">
+		<h2>DETAILS</h2>
+		<h3> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nec pellentesque ante. In rhoncus, dui consectetur fermentum maximus, neque odio elementum tortor, ut tristique tortor nisl at dui. Aliquam vel ipsum quis sem fermentum tristique. Nam eget molestie risus. Curabitur volutpat ante non auctor efficitur. Pellentesque nisl massa, tempus a egestas et, sagittis vulputate odio. Aenean commodo auctor tempus.</h3>
+	</div>
+
+
+
+
+	</div>
 </div>
+
+<?php get_footer(); ?>

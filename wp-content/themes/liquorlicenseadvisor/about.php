@@ -6,7 +6,7 @@
 
 get_header(); ?>
 
-
+<div class="container">
 <div class="row">
 	<div class="col-sm-12 about-overview">
 		<h3 class="blog-post-title">OVERVIEW</h3>
@@ -46,6 +46,8 @@ get_header(); ?>
 	<div class="review-column">
 		<h2> PERSON6 </h2>
 		<img id="good-smiley" src="<?php echo get_stylesheet_directory_uri(); ?>/images/good-smiley.png"/>
+	</div>
+
 	</div>
 
 

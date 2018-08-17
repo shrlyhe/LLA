@@ -6,6 +6,8 @@
 
 get_header(); ?>
 
+<div class="container">
+
 <div class="row">
 	<div class="col-sm-12 services">
 		<h3 class="blog-post-title">OVERVIEW</h3>
@@ -13,7 +15,7 @@ get_header(); ?>
 
 	<div class="col-sm-8 job">
 		<h3 class="blog-post-title">JOB SPECIFIC SERVICES</h3>
-		<h2 class="specific">LAWYERS</h3>
+		<h2 class="specific">LAWYERS</h2>
 		<h2 class="specific">LICENSING COORDINATORS</h2>
 		<h2 class="specific">MANAGERS</h2>
 		<h2 class="specific">FRANCHISE DEVELOPERS</h2>
@@ -34,6 +36,7 @@ get_header(); ?>
 
 </div>
 
+</div>
 
 
 </div> <!-- /.row -->
