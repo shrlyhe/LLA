@@ -39,28 +39,54 @@
 
 
   /*about page*/
-  .about-overview {
-    margin-top:10px;
-    margin-left:50px;
-    padding:0;
-    background-color:#DCDCDC;
-    text-align: center;
-    float: left;
-    width: 60%;
-    padding: 0px;
-    height: 400px;
+  .about-header {
+    padding-top: 5%;
+    padding-left: 5%;
+    padding-bottom: 3%;
+    padding-right: 4%;
+    float:left;
+
   }
 
-  .about-twitter {
-    margin-top: 10px;
-    margin-right: 50px;
-    padding:0;
-    background-color:#DCDCDC;
-    text-align: center;
-    float: right;
-    width: 30%;
-    height: 400px;
+  .about-header h1 {
+    font-size: 300%;
+    font-weight: 500;
   }
+
+  .about-overview {
+    margin-top:10px;
+    margin-left:5%;
+    padding:0;
+    text-align: left;
+    float: left;
+    width: 45%;
+    padding: 0px;
+
+  }
+
+  .about-service {
+    margin-top: 10px;
+    padding:0;
+    float: right;
+    width: 40%;
+    padding-left: 120px;
+  /*  height: 400px;*/
+  }
+
+  .about-service li {
+    -webkit-columns: 2;
+    -moz-columns: 2;
+    display: list-item
+  }
+  .about-service ul {
+    columns: 2;
+
+  }
+  .about-service h3 {
+    font-size: 150%;
+    font-weight: 500;
+  }
+
   /* services page */
   .services { /*overview*/
     margin-top:30px;
@@ -101,27 +127,27 @@
 
 }
 
-  .main-underline {
-    content: "";
-    display: block;
-    width: 93%;
-    margin-left: 3%;
-    margin-top: 20%;
-   /* margin-bottom: 60px;*/
-    border-bottom: 2px solid black;
-    -webkit-box-shadow:0px 2px 2px #696969;
-    -moz-box-shadow:0px 2px 2px #696969;
-    box-shadow:0px 2px 2px #696969;
-  }
+.main-underline {
+  content: "";
+  display: block;
+  width: 93%;
+  margin-left: 3%;
+  margin-top: 20%;
+  /* margin-bottom: 60px;*/
+  border-bottom: 2px solid black;
+  -webkit-box-shadow:0px 2px 2px #696969;
+  -moz-box-shadow:0px 2px 2px #696969;
+  box-shadow:0px 2px 2px #696969;
+}
 
-  .main {
-    margin-left:3%;
-    margin-right:3%;
-    margin-top: 3%;
-    background-image: url("images/adobe-stock.jpg");
-    width: 93%;
-    height: 300px;
-  }
+.main {
+  margin-left:3%;
+  margin-right:3%;
+  margin-top: 3%;
+  background-image: url("images/adobe-stock.jpg");
+  width: 93%;
+  height: 300px;
+}
 
 /* 
  * home page 
