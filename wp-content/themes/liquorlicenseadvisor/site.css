@@ -125,52 +125,18 @@
   .about-awards:before {
     content: "";
     display: block;
-    width: 95%;
-    margin-left: 2%;
-    margin-right: 2%;
+    width: 100%;
+    /*margin-left: 2%;
+    margin-right: 2%;*/
     border-bottom: 2px solid #A9A9A9;
   }
 
-
-
-
-  /* services page */
-  .services { /*overview*/
-    margin-top:30px;
-    margin-left:100px;
-    padding:0;
-    background-color:#DCDCDC;
-    text-align: center;
-    float: left;
-    width: 55%;
-    padding: 0px;
-    height: 500px;
+  .services h3 {
+    font-weight: 500;
+    font-size: 200%;
+    margin-bottom: 3%;
   }
 
-  .job { /*job specific services*/
-    margin-top:30px;
-    margin-right:50px;
-    padding:0;
-    background-color:#DCDCDC;
-    text-align: center;
-    float: right;
-    width: 30%;
-    padding: 0px;
-    height: 610px;
-
-  }
-
-  .begin { /* don't know where to begin? banner */
-  margin-top:10px;
-  margin-left:100px;
-  background-color: #606060;
-  text-align: center;
-  float: left;
-  width: 55%;
-  padding: 0px;
-  height: 100px;
-  border-top: 15px solid #ffffff;
-}
 
 }
 
@@ -235,10 +201,85 @@
 
 
 /* 
- * services page (other half) 
+ * services page
  */
 
- .banner { /* CTA banner */
+ .services { /*overview*/
+  margin-top: 5%;
+  margin-left:100px;
+  padding:0;
+  text-align: left;
+  float: left;
+  width: 50%;
+  padding: 0px;
+  height: 500px;
+}
+
+
+.job { /*job specific services*/
+  margin-top: 5%;
+  margin-right:50px;
+  margin-bottom: 15%;
+  padding:0;
+  background-color:#DCDCDC;
+  text-align: center;
+  float: right;
+  width: 30%;
+  padding: 0px;
+  height: 500px;
+  border-radius: 5px;
+
+}
+
+.job h3 {
+  font-weight: 500;
+  font-size: 180%;
+  margin-top: 20%;
+
+}
+
+.specific { /* specific services */
+  margin:0;
+  background-color:#800000;
+  text-align: center;
+  width: 50%;
+  height: 50px;
+  border-radius: 6px;
+  margin-left: 15%;
+  margin-right: 15%;
+  margin-bottom: 3%;
+
+/*  border-top: 15px solid #DCDCDC;
+  border-bottom: 15px solid #DCDCDC;
+  border-left: 30px solid #DCDCDC;
+  border-right: 30px solid #DCDCDC;*/
+}
+
+.services-buttons {
+  margin-top: 10%;
+  margin-bottom: 10%;
+  font-weight: 300;
+  font-size: 130%;
+  color: white;
+}
+
+.begin-button { /* don't know where to begin? banner */
+margin-top:10px;
+margin-left:50px;
+background-color: #f0f8ff;
+text-align: center;
+float: center;
+width: 80%;
+padding: 0px;
+height: 70px;
+border: 2px solid #800000;
+border-radius: 5px;
+font-weight: 500;
+font-size: 140%;
+}
+
+
+.banner { /* CTA banner */
   margin:0;
   background-color:#DCDCDC;
   text-align: center;
@@ -250,18 +291,7 @@
   border-right: 50px solid #ffffff;
   border-bottom: 50px solid #ffffff;*/
 }
-.specific { /* specific services */
- margin:0;
- background-color:#428bca;
- text-align: center;
- width: 100%;
- padding: 0px;
- height: 100px;
- border-top: 15px solid #DCDCDC;
- border-bottom: 15px solid #DCDCDC;
- border-left: 30px solid #DCDCDC;
- border-right: 30px solid #DCDCDC;
-}
+
 
  /*
   * Contact page

@@ -9,34 +9,25 @@ get_header(); ?>
 <div class="container">
 
 <div class="row">
-	<div class="col-sm-12 services">
-		<h3 class="blog-post-title">OVERVIEW</h3>
+	<div class="col-sm-8 services">
+		<h3> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nec pellentesque ante. In rhoncus, dui consectetur fermentum maximus, neque odio elementum tortor, ut tristique tortor nisl at dui. Aliquam vel ipsum quis sem fermentum tristique. Nam eget molestie risus. Curabitur volutpat ante non auctor efficitur. Pellentesque nisl massa, tempus a egestas et, sagittis vulputate odio. Aenean commodo auctor tempus. In rhoncus, dui consectetur fermentum maximus, neque odio elementum tortor, ut tristique tortor nisl at dui. Aliquam vel ipsum quis sem fermentum tristique. Nam eget molestie risus. Curabitur volutpat ante non auctor efficitur.</h3>
+		<button type="button" class="begin-button">DON'T KNOW WHERE TO BEGIN? CLICK HERE</button>
 	</div>
 
-	<div class="col-sm-8 job">
-		<h3 class="blog-post-title">JOB SPECIFIC SERVICES</h3>
-		<h2 class="specific">LAWYERS</h2>
-		<h2 class="specific">LICENSING COORDINATORS</h2>
-		<h2 class="specific">MANAGERS</h2>
-		<h2 class="specific">FRANCHISE DEVELOPERS</h2>
-		<h2 class="specific">LIQUOR STORE OWNERS</h2>
+	<div class="col-sm-4 job">
+		<h3>JOB SPECIFIC SERVICES</h3>
+		<div class="services-buttons">
+		<button type="button" class="specific">Lawyers</button>
+		<button type="button" class="specific">Licensing Coordinators</button>
+		<button type="button" class="specific">Managers</button>
+		<button type="button" class="specific">Franchise Developers</button>
+		<button type="button" class="specific">Liquor Store Owners</button>
+		</div>
 
 	</div>
-
-
-	<div class="col-sm-8 begin">
-		<h3 class="blog-post-title">Don't Know Where to Begin? Start Here</h3>
-	</div>
-
-</div>
-
-<div class="banner">
-	<h3 class="blog-post-title">CTA BANNER</h3>
-
-
 </div>
 
 </div>
 
 
-</div> <!-- /.row -->
+<?php get_footer(); ?>
