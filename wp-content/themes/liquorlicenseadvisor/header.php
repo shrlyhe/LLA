@@ -17,20 +17,20 @@
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
       <![endif]-->
       <?php wp_head();?>
-  </head>
+    </head>
 
-  <body>
+    <body>
 
-  	<div class="blog-masthead">
-  		
-  		<nav class="blog-nav">
-  			<img id="lla-logo" src="<?php echo get_stylesheet_directory_uri(); ?>/images/LLA-logo.png"/> 
-  			<div class="container-header">
-  				<a class="blog-nav-item active" href="<?php echo get_bloginfo( 'wpurl' );?>">HOME</a>
-  				<?php wp_list_pages( '&title_li=' ); ?>
-  			</nav>
-  		</div>
-  	</div>
+     <div class="blog-masthead">
+
+      <nav class="blog-nav">
+       <img id="lla-logo" src="<?php echo get_stylesheet_directory_uri(); ?>/images/LLA-logo.png"/> 
+       <div class="container-header">
+        <a class="blog-nav-item active" href="<?php echo get_bloginfo( 'wpurl' );?>">HOME</a>
+        <?php wp_list_pages( '&title_li=&exclude=61,63,65,67,69' ); ?>
+      </nav>
+    </div>
+  </div>
 <!-- 	
 	<div class="container">
 
