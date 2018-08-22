@@ -29,7 +29,7 @@
        <div class="container-header">
         <img id="lla-logo" style="float: left;" src="<?php echo get_stylesheet_directory_uri(); ?>/images/LLA-logo.png"/> 
          <a class="blog-nav-item active" href="<?php echo get_bloginfo( 'wpurl' );?>">HOME</a>
-         <?php wp_list_pages( '&title_li=&exclude=61,63,65,67,69&sort_column=menu_order' ); ?>
+         <?php wp_list_pages( '&title_li=&exclude=21,23,25,27,29&sort_column=menu_order' ); ?>
       
        </nav>
     </div> <!-- end container-header -->
