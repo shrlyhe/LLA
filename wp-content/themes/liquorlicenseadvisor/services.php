@@ -17,21 +17,20 @@ get_header(); ?>
 		<div class="col-sm-4 job">
 			<h3>JOB SPECIFIC SERVICES</h3>
 			<div class="services-buttons">
-<!-- 		<a class="btn specific" href="<?php echo get_page_link(61); ?>">Link Title</a> 
--->		<a href="<?php echo get_page_link(61); ?>" style="color:white"><button type="button" class="specific">Lawyers</button></a>
+				<a href="<?php echo get_page_link(61); ?>" style="color:white"><button type="button" class="specific">Lawyers</button></a>
 
-<a href="<?php echo get_page_link(63); ?>" style="color:white"><button type="button" class="specific">Licensing Coordinators</button></a>
+				<a href="<?php echo get_page_link(63); ?>" style="color:white"><button type="button" class="specific">Licensing Coordinators</button></a>
 
-<a href="<?php echo get_page_link(65); ?>" style="color:white"><button type="button" class="specific">Managers</button></a>
+				<a href="<?php echo get_page_link(65); ?>" style="color:white"><button type="button" class="specific">Managers</button></a>
 
-<a href="<?php echo get_page_link(67); ?>" style="color:white"><button type="button" class="specific">Franchise Developers</button></a>
+				<a href="<?php echo get_page_link(67); ?>" style="color:white"><button type="button" class="specific">Franchise Developers</button></a>
 
-<a href="<?php echo get_page_link(69); ?>" style="color:white"><button type="button" class="specific">Liquor Store Owners</button></a>
+				<a href="<?php echo get_page_link(69); ?>" style="color:white"><button type="button" class="specific">Liquor Store Owners</button></a>
 
-</div>
+			</div>
 
-</div>
-</div>
+		</div>
+	</div>
 
 </div>
 

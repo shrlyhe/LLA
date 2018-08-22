@@ -8,7 +8,9 @@ get_header(); ?>
 
 <div class="container">
 	<div class="row">
-		<div class="col-sm-5 search">
+
+	<!-- SEARCH SECTION -->
+		<div class="col-sm-4 search">
 			<form role="search">
 				<div class="search-control">
 					<input type="search" id="site-search" name="q"
@@ -17,36 +19,22 @@ get_header(); ?>
 					<!-- <button>Search</button> -->
 				</div>
 			</form>
+			<h1> CATEGORIES </h1>
 		</div>
 
-		<div class="col-sm-8 seo-content">
-			<h2>Beginner SEO Content</h2>
-		</div>
-		<div class="col-sm-8 seo-content">	
-			<h2>Beginner SEO Content</h2>
-		</div>
-		<div class="col-sm-8 seo-content">
-			<h2>Beginner SEO Content</h2>
-		</div>
-		<div class="col-sm-8 seo-content">	
-			<h2>Beginner SEO Content</h2>
-		</div>
 
-		<br><br><br>
+	<!-- ARTICLES SECTION -->
+	<div class="col-sm-8 articles">
+		<div class="col-sm-8">
+			<h2>Beginner SEO Content</h2>
+		</div>
+		
 
-		<div class="col-sm-8 industry-content">
-			<h2>Industry/Job Specific Content</h2>
-		</div>
-		<div class="col-sm-8 industry-content">	
-			<h2>Industry/Job Specific Content</h2>
-		</div>
-		<div class="col-sm-8 industry-content">
-			<h2>Industry/Job Specific Content</h2>
-		</div>
-		<div class="col-sm-8 industry-content">	
-			<h2>Industry/Job Specific Content</h2>
-		</div>
+	</div>
 
 
 	</div>
 </div>
+
+
+<?php get_footer(); ?>
