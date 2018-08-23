@@ -10,7 +10,7 @@ get_header(); ?>
 	<div class="row">
 
 		<!-- SEARCH SECTION -->
-		<div class="col-sm-4 search">
+		<div class="col-sm-2 search">
 			<form role="search">
 				<div class="search-control">
 					<input type="search" id="site-search" name="q"
@@ -29,8 +29,8 @@ get_header(); ?>
 
 
 		<!-- ARTICLES SECTION -->
-		<div class="col-sm-8 articles">
-			<div class="col-sm-8">
+		<div class="col-sm-10 articles">
+			<div class="col-sm-10">
 			<!-- 	<h2>Beginner SEO Content</h2> -->
 				<?php if (have_posts()) : while (have_posts()) : the_post(); ?>
 						<?php the_content(); ?>
