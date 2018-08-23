@@ -28,6 +28,8 @@
     word-spacing: 9px;
 
   }
+ 
+  div { height: 100%; width: 100%;  }
 
 
 /*
@@ -173,7 +175,7 @@
   margin-top: 1%;
   background-image: url("images/adobe-stock.jpg");
   width: 93%;
-  height: 300px;
+  height: 40vh;
 
 }
 
@@ -186,7 +188,7 @@
    text-align: center;
    width: 35%;
    padding: 0px;
-   height: 400px;
+   height: 55vh;
  }
 
  .license-buy { /* sell license buttons */
@@ -196,8 +198,9 @@
   text-align: center;
   width: 60%;
   margin-top: 5%;
-  height: 60px;
+  height: 15%;
   border-radius: 10px;
+  border-color: #800000;
 }
 
 .license-sell { /* sell license buttons */
@@ -208,9 +211,10 @@
   text-align: center;
   width: 60%;
   padding: 0px;
-  height: 60px;
+  height: 15%;
   border-radius: 10px;
   margin-top: 5%;
+  border-color: #800000;
 }
 
 
@@ -678,14 +682,16 @@ input#s{
 
 /* pic of dan - homepage */
 #pic-dan {
-  width: 60%;
-  height: 60%;
+  width: 65%;
+  height: 65%;
   position: relative;
   overflow: hidden;
   border-radius: 90%;
   display: inline-block;
-  margin-left: 20%;
+  margin-left: 15%;
   float: left;
+  padding: 2%;
+  border: 2px solid #800000;
 }
 
 
@@ -814,9 +820,8 @@ ul, li{
   width: 38%;
   padding: 0px;
   height: 300px;
-/*    width: 200px;
-height: 300px;*/
 }
+
 .services-job {
   margin:0;
   padding:0;
@@ -826,8 +831,6 @@ height: 300px;*/
   width: 38%;
   padding: 0px;
   height: 300px;
-/*    width: 200px;
-height: 300px;*/
 }
 
 /*
@@ -871,19 +874,3 @@ height: 300px;*/
   color: #999;
 }
 
-
-
-/*
- * Footer
- */
-
- .blog-footer {
-  padding: 40px 0;
-  color: #999;
-  text-align: center;
-  background-color: #f9f9f9;
-  border-top: 1px solid #e5e5e5;
-}
-.blog-footer p:last-child {
-  margin-bottom: 0;
-}
