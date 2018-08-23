@@ -1,7 +1,7 @@
 <?php get_header(); ?>
 <div class="container">
   <div class="row">
-  
+
     <div class="col-sm-12 main">
       <div class="descriptor">
         <h3 class="blog-post-title">LLA DESCRIPTOR/TAGLINE</h3>

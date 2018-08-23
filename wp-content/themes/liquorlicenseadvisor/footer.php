@@ -3,8 +3,8 @@
   <div class="row">
 
   <footer>
-      <div>
         <ul class="footer">
+        <div class="footer-col">
           <li class="col-sm-2">ABOUT</li>
           <li class="col-sm-2">SERVICES</li>
           <li class="col-sm-2">RESOURCES</li>

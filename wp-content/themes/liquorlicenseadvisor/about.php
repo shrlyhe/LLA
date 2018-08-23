@@ -9,7 +9,6 @@ get_header(); ?>
 <div class="container">
 	<div class="row">
 
-
 		<div class="col-sm-12 about-header">
 			<h1>WHAT WE DO</h1>
 		</div>

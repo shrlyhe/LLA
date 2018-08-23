@@ -27,7 +27,6 @@
   }
 
 
-
 /*
  * Override Bootstrap's default container.
  */
@@ -35,8 +34,9 @@
  @media (min-width: 1200px) {
   .container {
     width: 100%;
-    margin: 0 auto;
+    padding: 0 auto;
     background-color: #f0f8ff;
+    overflow: hidden;
   }
 }
   .container-header {
@@ -67,7 +67,7 @@
     float: left;
     width: 45%;
     padding: 0px;
-    height: 400px;
+    height: 50%;
 
   }
 
@@ -76,8 +76,8 @@
     padding:0;
     float: right;
     width: 40%;
-    padding-left: 120px;
-    height: 400px;
+    padding-left: 6%;
+    height: 50%;
   }
 
   .about-service li {
@@ -105,7 +105,7 @@
     padding-top: 2%;
     padding-right: 3%;
     padding-bottom: 5%;
-    /*height: 600px; */
+    height: 60%; 
     text-align: left;
     padding-left: 6%;
     
@@ -164,12 +164,14 @@
 }
 
 .main {
-  margin-left:3%;
-  margin-right:3%;
-  margin-top: 3%;
+  display: inline-block;
+  margin-left: 3%;
+  margin-right: 3%;
+  margin-top: 1%;
   background-image: url("images/adobe-stock.jpg");
   width: 93%;
   height: 300px;
+
 }
 
 /* 
@@ -576,8 +578,7 @@ box-shadow: inset 0 -2px 5px rgba(0,0,0,.1);
 
 .column-quote {
   float: right;
-  padding-top: 10%;
- 
+  padding-top: 10%; 
   font-size: 150%;
   margin: 0;
   padding-right: 5%;
@@ -685,23 +686,30 @@ input#s{
 .footer {
   float: center;
   width: 100%;
+  max-width: 100%;
+  min-width: 1400px;
   padding-top: 3%;
   padding-right: 3%;
+  padding-left: 3%;
   padding-bottom: 15%;
   height: 80%; 
   text-align: center;
   position: relative;
   display: inline-block;
   overflow: hidden;
+  margin: 0 auto;
   
 }
+
 
 .footer li {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: 500;
   color: #333;
-  font-size: 150%;
-  padding-left: 13%;
+  font-size: 140%;
+  padding-right: 16%;
+  padding-left: 3%;
+  overflow: auto;
 
 }
 
@@ -719,8 +727,6 @@ input#s{
 ul, li{
   display:inline-block;
 }
-
-
 
 
 /* Pagination */
