@@ -1,0 +1,24 @@
+.wpfts-result-item .wpfts-not-found
+{
+	color:#808080;
+	font-size:0.9em;
+}
+.wpfts-result-item .wpfts-score
+{
+	color:#006621;
+	font-size:0.9em;
+}
+.wpfts-shift
+{
+	margin-left: 40px;
+}
+.wpfts-result-item .wpfts-download-link
+{
+	color:#006621;
+	font-size:0.9em;
+}
+.wpfts-result-item .wpfts-file-size
+{
+	color:#006621;
+	font-size:0.9em;
+}

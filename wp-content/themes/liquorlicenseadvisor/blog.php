@@ -9,7 +9,8 @@ get_header(); ?>
 <div class="container">
 	<div class="row">
 
-		<div class="col-sm-5 search">
+		<!-- SEARCH SECTION -->
+		<div class="col-sm-2 search">
 			<form role="search">
 				<div class="search-control">
 					<input type="search" id="site-search" name="q"
@@ -20,14 +21,20 @@ get_header(); ?>
 			</form>
 		</div>
 
-		<?php if (have_posts()) : while (have_posts()) : the_post(); ?>
-			
-			<div class="entry">
-				<?php the_content(); ?>
-			</div><!-- entry -->
-		<?php endwhile; ?>
-	<?php endif; ?>
 
+		<!-- ARTICLES SECTION -->
+		<div class="col-sm-10 articles">
+			<div class="col-sm-10">
+			<!-- 	<h2>Beginner SEO Content</h2> -->
+				<?php if (have_posts()) : while (have_posts()) : the_post(); ?>
+						<?php the_content(); ?>
+					</div><!-- entry -->
+				<?php endwhile; ?>
+			<?php endif; ?>
 
+		</div>
+
+	</div>
 </div>
-</div>
+
+<?php get_footer(); ?>

@@ -20,6 +20,12 @@ get_header(); ?>
 				</div>
 			</form>
 			<h1> CATEGORIES </h1>
+			<a href=#><h2> KEYWORD </h2></a>
+			<a href=#><h2> KEYWORD </h2></a>
+			<a href=#><h2> KEYWORD </h2></a>
+			<a href=#><h2> KEYWORD </h2></a>
+			<a href=#><h2> KEYWORD </h2></a>
+
 		</div>
 
 
