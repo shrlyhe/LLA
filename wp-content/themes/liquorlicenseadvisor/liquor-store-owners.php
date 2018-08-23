@@ -16,7 +16,7 @@ get_header(); ?>
 			<h1>LIQUOR STORE OWNERS</h1>
 
 
-			<h3> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nec pellentesque ante. In rhoncus, dui consectetur fermentum maximus, neque odio elementum tortor, ut tristique tortor nisl at dui. Aliquam vel ipsum quis sem fermentum tristique. Nam eget molestie risus. Curabitur volutpat ante non auctor efficitur. Pellentesque nisl massa, tempus a egestas et, sagittis vulputate odio. Aenean commodo auctor tempus. In rhoncus, dui consectetur fermentum maximus, neque odio elementum tortor, ut tristique tortor nisl at dui. </h3>
+			<h3> Most liquor store owners come to us when they’re looking to expand their ventures because we have an intimate knowledge of the current market and the plethora of unique challenges that arise from owning a liquor store in particular states or municipalities.</h3>
 			<button type="button" class="begin-button">DON'T KNOW WHERE TO BEGIN? CLICK HERE</button>
 		</div>
 

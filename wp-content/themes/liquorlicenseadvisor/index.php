@@ -27,14 +27,17 @@
   <br><br>
   <h2 class="client-review-title">HERE'S WHAT CLIENTS ARE SAYING</h2>
   <div class="review-column">
+  <img id="pic-client" src="<?php echo get_stylesheet_directory_uri(); ?>/images/client-pic.jpeg"/> 
     <h2> REVIEW 1 </h2>
     <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nec pellentesque ante. In rhoncus, dui consectetur fermentum maximus, neque odio elementum tortor, ut tristique tortor nisl at dui. Aliquam vel ipsum quis sem fermentum tristique. Nam eget molestie risus. Curabitur volutpat ante non auctor efficitur. Pellentesque nisl massa, tempus a egestas et, sagittis vulputate odio. Aenean commodo auctor tempus.</p>
   </div>
   <div class="review-column">
+  <img id="pic-client" src="<?php echo get_stylesheet_directory_uri(); ?>/images/client-pic.jpeg"/> 
     <h2> REVIEW 2 </h2>
     <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nec pellentesque ante. In rhoncus, dui consectetur fermentum maximus, neque odio elementum tortor, ut tristique tortor nisl at dui. Aliquam vel ipsum quis sem fermentum tristique. Nam eget molestie risus. Curabitur volutpat ante non auctor efficitur. Pellentesque nisl massa, tempus a egestas et, sagittis vulputate odio. Aenean commodo auctor tempus. </p>
   </div>
   <div class="review-column">
+  <img id="pic-client" src="<?php echo get_stylesheet_directory_uri(); ?>/images/client-pic.jpeg"/> 
     <h2> REVIEW 3 </h2>
     <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nec pellentesque ante. In rhoncus, dui consectetur fermentum maximus, neque odio elementum tortor, ut tristique tortor nisl at dui. Aliquam vel ipsum quis sem fermentum tristique. Nam eget molestie risus. Curabitur volutpat ante non auctor efficitur. Pellentesque nisl massa, tempus a egestas et, sagittis vulputate odio. Aenean commodo auctor tempus. </p>
   </div>

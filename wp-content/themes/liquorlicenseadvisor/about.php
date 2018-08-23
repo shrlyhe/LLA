@@ -13,27 +13,37 @@ get_header(); ?>
 			<h1>WHAT WE DO</h1>
 		</div>
 
-		<div class="col-sm-8 about-overview">
-			<h3> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nec pellentesque ante. In rhoncus, dui consectetur fermentum maximus, neque odio elementum tortor, ut tristique tortor nisl at dui. Aliquam vel ipsum quis sem fermentum tristique. Nam eget molestie risus. Curabitur volutpat ante non auctor efficitur. Pellentesque nisl massa, tempus a egestas et, sagittis vulputate odio. Aenean commodo auctor tempus. In rhoncus, dui consectetur fermentum maximus, neque odio elementum tortor, ut tristique tortor nisl at dui. Aliquam vel ipsum quis sem fermentum tristique. </h3>
+		<div class="col-sm-10 about-overview">
+			<h3> Whether you’re buying or selling a license, Liquor License Advisor (formerly Atlantic License Brokers) is a one-stop shop for individuals who want to learn more about the liquor licensing process for the first time as well as seasoned food and beverage professionals looking for assistance as they pursue licenses. 
+				<br><br>
+
+				After over a decade in the liquor licensing world, we’ve refined our process to better serve a vast array of clients with many different requests. Amongst our most popular services, we routinely offer our extensive knowledge base to attorneys who may not be familiar with the specifics of liquor licensing, work with franchise developers to secure licenses that match their timelines and lease obligations, and offer consultations to corporate food and beverage partners on proper zoning and market considerations before they ever break ground. We also regularly work with licensing coordinators and managers, liquor store owners, and lenders on all of their liquor licensing needs. 
+				<br><br>
+
+				Clients come back to Liquor License Advisor time and time again because in addition to years of experience, they know we also work to troubleshoot problems with unmatched resourcefulness and creativity. At the end of the day, we take pride in our expertise and ability to streamline an often stressful and confusing process into a simple and straightforward one.
+				<br><br>
+
+				To learn more about our general offerings and specialized services for lawyers, licensing coordinators, liquor store owners, franchise developers, food and beverage establishment owners, lenders, and more, <a href="#" style="font-weight:bold; color: black;">CLICK HERE</a>.
+
+			</h3>
 		</div>
 
-		<div class="col-sm-4 about-service">
-			<ul data-columns="2">
-				<h3><li>Service 1</li></h3>
-				<h3><li>Service 1</li></h3>
-				<h3><li>Service 1</li></h3>
-				<h3><li>Service 1</li></h3>
-				<h3><li>Service 1</li></h3>
-				<h3><li>Service 1</li></h3>
-				<h3><li>Service 1</li></h3>
-
-				<h3><li>Service 1</li></h3>
-				<h3><li>Service 1</li></h3>
-				<h3><li>Service 1</li></h3>
-				<h3><li>Service 1</li></h3>
-				<h3><li>Service 1</li></h3>
-				<h3><li>Service 1</li></h3>
-				<h3><li>Service 1</li></h3>
+		<div class="col-sm-2 about-service">
+			<ul>
+				<h3><li>Lawyers</li></h3>
+				<h3><li>Licensing Coordinators</li></h3>
+				<h3><li>Managers</li></h3>
+				<h3><li>Franchise Developers</li></h3>
+				<h3><li>Liquor Store Owners</li></h3>
+		<!-- 		<h3><li>Service1</li></h3>
+				<h3><li>Service1</li></h3>
+				<h3><li>Service1</li></h3>
+				<h3><li>Service1</li></h3>
+				<h3><li>Service1</li></h3>
+				<h3><li>Service1</li></h3>
+				<h3><li>Service1</li></h3>
+				<h3><li>Service1</li></h3>
+				<h3><li>Service1</li></h3> -->
 			</ul>
 
 		</div>

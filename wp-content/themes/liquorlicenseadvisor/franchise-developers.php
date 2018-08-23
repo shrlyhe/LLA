@@ -16,7 +16,7 @@ get_header(); ?>
 			<h1>FRANCHISE DEVELOPERS</h1>
 
 
-			<h3> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nec pellentesque ante. In rhoncus, dui consectetur fermentum maximus, neque odio elementum tortor, ut tristique tortor nisl at dui. Aliquam vel ipsum quis sem fermentum tristique. Nam eget molestie risus. Curabitur volutpat ante non auctor efficitur. Pellentesque nisl massa, tempus a egestas et, sagittis vulputate odio. Aenean commodo auctor tempus. In rhoncus, dui consectetur fermentum maximus, neque odio elementum tortor, ut tristique tortor nisl at dui. </h3>
+			<h3> When a franchise developer has to secure a liquor license for a franchisee, they can turn to us to help them identify which license type they need. Many developers are in the tricky situation of needing both a lease and a liquor license, and the question is, which comes first? We can help them coordinate that process and budget correctly for their license. We also work with franchise developers to create a realistic timeline so both landlords and license sellers are satisfied. </h3>
 			<button type="button" class="begin-button">DON'T KNOW WHERE TO BEGIN? CLICK HERE</button>
 		</div>
 
