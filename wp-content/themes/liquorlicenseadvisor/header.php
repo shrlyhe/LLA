@@ -11,6 +11,8 @@
 	<title>LLA</title>
 	<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet">
 	<link href="<?php echo get_bloginfo( 'template_directory' );?>/site.css" rel="stylesheet">
+  <link href='http://fonts.googleapis.com/css?family=Lato:400,700' rel='stylesheet' type='text/css'>
+
 	<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
 	<!--[if lt IE 9]>
       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
@@ -27,7 +29,7 @@
          <div class="container-header">
           <img id="lla-logo" style="float: left;" src="<?php echo get_stylesheet_directory_uri(); ?>/images/LLA-logo.png"/> 
           <a class="blog-nav-item active" href="<?php echo get_bloginfo( 'wpurl' );?>">HOME</a>
-          <?php wp_list_pages( '&title_li=&exclude=21,23,25,27,29&sort_column=menu_order' ); ?>
+          <?php wp_list_pages( '&title_li=&exclude=61,63,65,67,69&sort_column=menu_order' ); ?>
         </nav>
       </div> <!-- end container-header -->
     </div> <!-- end container-masthead -->
