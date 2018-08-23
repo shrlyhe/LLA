@@ -25,7 +25,6 @@ get_header(); ?>
 			<a href=#><h2> KEYWORD </h2></a>
 			<a href=#><h2> KEYWORD </h2></a>
 			<a href=#><h2> KEYWORD </h2></a>
-
 		</div>
 
 
@@ -39,10 +38,7 @@ get_header(); ?>
 				<?php endwhile; ?>
 			<?php endif; ?>
 
-
-
 		</div>
-
 
 	</div>
 </div>
