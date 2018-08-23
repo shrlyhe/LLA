@@ -13,10 +13,9 @@ get_header(); ?>
 		<div class="col-sm-2 search">
 			<form role="search">
 				<div class="search-control">
-					<input type="search" id="site-search" name="q"
-					placeholder="Search Bar"
-					aria-label="Search through site content">
-					<!-- <button>Search</button> -->
+					<div class="search-control">
+					<?php get_search_form(); ?>
+				</div>
 				</div>
 			</form>
 		</div>
