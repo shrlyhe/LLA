@@ -1,8 +1,7 @@
 <?php get_header(); ?>
 <div class="container">
   <div class="row">
-<!--   <div class="main-underline"></div> -->
-
+  
     <div class="col-sm-12 main">
       <div class="descriptor">
         <h3 class="blog-post-title">LLA DESCRIPTOR/TAGLINE</h3>
@@ -13,11 +12,11 @@
   </div>
 
   <div class="row">
-    <div class="col-sm-4 column-dan">
+    <div class="col-sm-6 column-dan">
       <img id="pic-dan" src="<?php echo get_stylesheet_directory_uri(); ?>/images/pic-dan.jpg"/> 
     </div>
 
-    <div class="col-sm-8 column-quote">
+    <div class="col-sm-6 column-quote">
       <h1> "QUOTE FROM DAN" </h1><br><br><br>
       <h3> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nec pellentesque ante. In rhoncus, dui consectetur fermentum maximus, neque odio elementum tortor, ut tristique tortor nisl at dui. Aliquam vel ipsum quis sem fermentum tristique. Nam eget molestie risus. Curabitur volutpat ante non auctor efficitur. Pellentesque nisl massa, tempus a egestas et, sagittis vulputate odio. Aenean commodo auctor tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nec pellentesque ante.</h3>
     </div>

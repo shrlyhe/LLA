@@ -35,9 +35,10 @@
  @media (min-width: 1200px) {
   .container {
     width: 100%;
-    margin: 0;
+    margin: 0 auto;
     background-color: #f0f8ff;
   }
+}
   .container-header {
     width: 100%;
 
@@ -148,8 +149,6 @@
     margin-bottom: 4%;
   }
 
-
-}
 
 .main-underline {
   content: "";
@@ -427,23 +426,27 @@ font-size: 140%;
  * Masthead for nav
  */
 
- .blog-masthead {
+/* .blog-masthead {
   background-color: 
-/*  -webkit-box-shadow: inset 0 -2px 5px rgba(0,0,0,.1);
-box-shadow: inset 0 -2px 5px rgba(0,0,0,.1);*/
-}
+  -webkit-box-shadow: inset 0 -2px 5px rgba(0,0,0,.1);
+box-shadow: inset 0 -2px 5px rgba(0,0,0,.1);
+}*/
 
-/*.blog-nav {
-  width: 100%;
-  height:30%;
-  background-color: black;
-  }*/
+.blog-nav {
+  width: 100%;    
+  max-width: 100%;    
+  min-width: 1400px; 
+  margin: 0 auto;
+  display: inline-block;
+  overflow: hidden;
+}
 
   .blog-nav:after {
     content: "";
     display: inline-block;
-    width: 95%;
-    margin-left: 2%;;
+    width: 93%;
+    margin-left: 3%;
+    margin-right: 3%;
     border-bottom: 2px solid black;
     -webkit-box-shadow:0px 2px 2px #696969;
     -moz-box-shadow:0px 2px 2px #696969;
@@ -454,32 +457,26 @@ box-shadow: inset 0 -2px 5px rgba(0,0,0,.1);*/
     position: relative;
     display: inline-block;
     margin-top: 15%;
-    padding:20px;
+    padding:1%;
     font-weight: 400; 
     float: left;
     font-size: 150%;
+
   }
   .blog-nav li a {
     color: black;
   }
 
-/*.blog-nav {
-  margin-top: 5%;
-  border-bottom: 2px solid coral;
-}
-*/
-
-
 /* Nav links */
 .blog-nav-item { /* HOME button */
   position: relative;
   display: inline-block;
-  padding: 20px;
+  padding: 1%;
   margin-top: 15%;
   font-weight: 400;
   color: black;
   float: left;
-  padding-left: 20%;
+  padding-left: 25%;
   font-size: 150%;
 }
 
@@ -487,8 +484,6 @@ box-shadow: inset 0 -2px 5px rgba(0,0,0,.1);*/
   width: 350px;
   height: 250px;
   padding-left: 5%;
-  /*margin-top: 12%;
-  *//*  position: absolute;*/
   overflow: hidden;
   display: inline-block;
   float: left;
@@ -570,8 +565,8 @@ box-shadow: inset 0 -2px 5px rgba(0,0,0,.1);*/
   padding-top: 5%;
   padding-right: 3%;
   padding-left: 3%;
-  padding-bottom: 30%;
-  height: 300px; 
+  padding-bottom: 10%;
+  height: 10%; 
   text-align: center;
 }
 
@@ -582,11 +577,12 @@ box-shadow: inset 0 -2px 5px rgba(0,0,0,.1);*/
 .column-quote {
   float: right;
   padding-top: 10%;
-  padding-left: 20%;
+ 
   font-size: 150%;
   margin: 0;
   padding-right: 5%;
   padding-bottom: 10%;
+  overflow: auto;
 }
 
 .column-quote h3{
@@ -594,8 +590,9 @@ box-shadow: inset 0 -2px 5px rgba(0,0,0,.1);*/
 }
 
 .column-dan {
-  padding-top: 10%;
+  padding-top: 8%;
   float: left;
+  overflow: auto;
 }
 
 /* services page */
@@ -673,13 +670,13 @@ input#s{
 
 /* pic of dan - homepage */
 #pic-dan {
-  width: 400px;
-  height: 400px;
+  width: 60%;
+  height: 60%;
   position: relative;
   overflow: hidden;
   border-radius: 90%;
   display: inline-block;
-  margin-left: 25%;
+  margin-left: 20%;
   float: left;
 }
 
@@ -691,10 +688,11 @@ input#s{
   padding-top: 3%;
   padding-right: 3%;
   padding-bottom: 15%;
-  height: 100px; 
+  height: 80%; 
   text-align: center;
   position: relative;
   display: inline-block;
+  overflow: hidden;
   
 }
 
