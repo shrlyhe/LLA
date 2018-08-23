@@ -42,6 +42,7 @@
     padding: 0 auto;
     background-color: #f0f8ff;
     overflow: hidden;
+    font-family: 'Lato', sans-serif;
   }
 }
 .container-header {
@@ -712,7 +713,6 @@ input#s{
   display: inline-block;
   overflow: hidden;
   margin: 0 auto;
-  
 }
 
 
