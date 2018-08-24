@@ -3,11 +3,11 @@
 /** Template Name: About Page
  * description: About page for LLA
  */
-
 get_header(); ?>
 
 <div class="container">
 	<div class="row">
+
 
 		<div class="col-sm-12 about-header">
 			<h1>WHAT WE DO</h1>
@@ -35,15 +35,6 @@ get_header(); ?>
 				<h3><li>Managers</li></h3>
 				<h3><li>Franchise Developers</li></h3>
 				<h3><li>Liquor Store Owners</li></h3>
-		<!-- 		<h3><li>Service1</li></h3>
-				<h3><li>Service1</li></h3>
-				<h3><li>Service1</li></h3>
-				<h3><li>Service1</li></h3>
-				<h3><li>Service1</li></h3>
-				<h3><li>Service1</li></h3>
-				<h3><li>Service1</li></h3>
-				<h3><li>Service1</li></h3>
-				<h3><li>Service1</li></h3> -->
 			</ul>
 
 		</div>
