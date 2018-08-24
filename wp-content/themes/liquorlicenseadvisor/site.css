@@ -742,6 +742,7 @@ ul, li{
   text-align: center;
   text-decoration: none;
   border-radius: 50%;
+  box-sizing:border-box;
 }
 
 .fa:hover {
