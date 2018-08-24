@@ -28,10 +28,11 @@
     word-spacing: 9px;
 
   }
+  html, body {
+    height: 100%;
+    background-color: #f0f8ff !important;
 
-  div { height: 100%; width: 100%;  }
-
-
+  }
 /*
  * Override Bootstrap's default container.
  */
@@ -39,15 +40,18 @@
  @media (min-width: 1200px) {
   .container {
     width: 100%;
-    padding: 0 auto;
-    background-color: #f0f8ff;
+    background-color: #f0f8ff !important;
     overflow: hidden;
     font-family: 'Lato', sans-serif;
+    display: block;
+    left: 0;
+    overflow-x: hidden;
+    position: relative;
   }
-}
-.container-header {
-  width: 100%;
 
+  .container-fluid {
+    background-color: #f0f8ff;
+  }
 }
 
 /*about page*/
@@ -167,6 +171,7 @@
     -webkit-box-shadow:0px 2px 2px #696969;
     -moz-box-shadow:0px 2px 2px #696969;
     box-shadow:0px 2px 2px #696969;
+
   }
 
   .main {
@@ -177,6 +182,7 @@
     background-image: url("images/adobe-stock.jpg");
     width: 93%;
     height: 40vh;
+    overflow: hidden;
 
   }
 
@@ -422,20 +428,29 @@ font-size: 140%;
  * Masthead for nav
  */
 
-/* .blog-masthead {
-  background-color: 
-  -webkit-box-shadow: inset 0 -2px 5px rgba(0,0,0,.1);
-box-shadow: inset 0 -2px 5px rgba(0,0,0,.1);
-}*/
+/*
+.blog-masthead {
+  height: 100%;
+  width: 100%;
+  display: inline-block;
+  overflow: auto;
+}
 
+.container-header {
+  height: 100%;
+  width: 100%;
+  display: block;
+  overflow: auto;
+}
+*/
 .blog-nav {
-  /*width: 100%;    */
+  width: 100%;    
   max-width: 100%;    
   min-width: 1400px; 
-  margin: 0 auto;
   display: inline-block;
   overflow: hidden;
   font-family: 'Lato', sans-serif;
+
 }
 
 .blog-nav:after {
@@ -459,6 +474,7 @@ box-shadow: inset 0 -2px 5px rgba(0,0,0,.1);
   font-weight: 400; 
   float: left;
   font-size: 150%;
+
 
 }
 
@@ -596,7 +612,8 @@ box-shadow: inset 0 -2px 5px rgba(0,0,0,.1);
   margin: 0;
   padding-right: 5%;
   padding-bottom: 10%;
-  overflow: hidden;
+  overflow: auto;
+
 }
 
 .column-quote h3{
@@ -606,7 +623,8 @@ box-shadow: inset 0 -2px 5px rgba(0,0,0,.1);
 .column-dan {
   padding-top: 8%;
   float: left;
-  overflow: hidden;
+  overflow: auto;
+
 }
 
 /* services page */
@@ -711,8 +729,9 @@ input#s{
   text-align: center;
   position: relative;
   display: inline-block;
-  overflow: hidden;
+  overflow: auto;
   margin: 0 auto;
+
 }
 
 
@@ -724,7 +743,7 @@ input#s{
   font-size: 140%;
   padding-right: 16%;
   padding-left: 3%;
-  overflow: hidden;
+/*  overflow: hidden;*/
 
 }
 
@@ -733,6 +752,7 @@ input#s{
   font-size: 70%;
   padding-left: 0px;
   list-style: none;
+
 }
 
 .footer-options a {

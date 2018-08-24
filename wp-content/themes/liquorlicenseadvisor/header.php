@@ -29,7 +29,7 @@
     </head>
 
     <body>
-      <div class="container">
+    <div class="container">
         <div class="row">
          <div class="blog-masthead">
           <nav class="blog-nav">
@@ -38,13 +38,13 @@
             <a class="blog-nav-item active" href="<?php echo get_bloginfo( 'wpurl' );?>">HOME</a>
             <?php wp_list_pages( '&title_li=&exclude=21,23,25,27,29&sort_column=menu_order' ); ?>
           </nav>
-        </div> <!-- end container-header -->
-      </div> <!-- end container-masthead -->
-
+        </div>
+      </nav>
     </div>
   </div>
-</nav>
+</div>
 </body>
 </html>
+
 
 
