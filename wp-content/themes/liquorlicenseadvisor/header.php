@@ -29,20 +29,24 @@
     </head>
 
     <body>
-    <div class="container">
-         <div class="blog-masthead">
-          <nav class="blog-nav">
-            <img id="lla-logo" style="float: left;" src="<?php echo get_stylesheet_directory_uri(); ?>/images/LLA-logo.png"/>
-            <a class="blog-nav-item active" href="<?php echo get_bloginfo( 'wpurl' );?>">HOME</a>
-            <?php wp_list_pages( '&title_li=&exclude=21,23,25,27,29&sort_column=menu_order' ); ?>
-          </nav>
-        </div>
-      </nav>
-    </div>
+    <nav class="navbar navbar-custom">
+      <div class="container">
+       <div class="blog-masthead">
+       <!--  <nav class="blog-nav"> -->
+          <img id="lla-logo" style="float: left;" src="<?php echo get_stylesheet_directory_uri(); ?>/images/LLA-logo.png"/>
+          <div class="header">
+            <ul class="nav navbar-nav">
+              <li><a href="<?php echo get_bloginfo( 'wpurl' );?>">HOME</a></li>
+              <li><?php wp_list_pages( '&title_li=&exclude=61,63,65,67,69&sort_column=menu_order' ); ?></li>
+            </ul>
+          </div>
+      </div>
 
-</div>
+  </div>
+  </nav>
+
+
 </body>
 </html>
-
 
 
