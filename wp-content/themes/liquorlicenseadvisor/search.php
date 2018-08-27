@@ -3,21 +3,40 @@
 get_header(); 
 
 ?>
-<?php if (have_posts()) : ?>
-	<h1>Search Results</h1>
+<div class="container">
+	<div class="row">
 
-	<?php while (have_posts()) : the_post(); ?>
-		
-		<a href="<?php the_permalink() ?>">
-			<h2><?php the_title(); ?></h2>
-		</a>
-		<p><?php the_excerpt(); ?></p>
-	<?php endwhile; ?> 
+		<!-- SEARCH SECTION -->
+		<div class="col-sm-2 search">
+			<form role="search">
+				<div class="search-control">
+					<div class="search-control">
+						<?php get_search_form(); ?>
+					</div>
+				</div>
+			</form>
+		</div>
 
-<?php else : ?> 
 
-	<p> NOTHING FOUND! </p> 
-<?php endif; ?>
+		<!-- ARTICLES SECTION -->
+		<div class="col-sm-10 articles">
+			<div class="col-sm-10">
+				<!-- 	<h2>Beginner SEO Content</h2> -->
+				<?php if (have_posts()) : while (have_posts()) : the_post(); ?>
+					<?php the_content(); ?>
+				</div><!-- entry -->
+			<?php endwhile; ?>
+		<?php else : ?> 
+
+			<p> NOTHING FOUND! </p> 
+		<?php endif; ?>
+
+</div>
+
+</div>
+</div>
+
+
 
 
 <?php
