@@ -23,7 +23,8 @@ get_header(); ?>
 				Clients come back to Liquor License Advisor time and time again because in addition to years of experience, they know we also work to troubleshoot problems with unmatched resourcefulness and creativity. At the end of the day, we take pride in our expertise and ability to streamline an often stressful and confusing process into a simple and straightforward one.
 				<br><br>
 
-				To learn more about our general offerings and specialized services for lawyers, licensing coordinators, liquor store owners, franchise developers, food and beverage establishment owners, lenders, and more, <a href="#" style="font-weight:bold; color: black;">CLICK HERE</a>.
+				To learn more about our general offerings and specialized services for lawyers, licensing coordinators, liquor store owners, franchise developers, food and beverage establishment owners, lenders, and more, <a href="<?php echo get_page_link( get_page_by_title( SERVICES )->ID ); ?>" style="font-weight:bold; color: black;">CLICK HERE</a>.
+
 
 			</h3>
 		</div>
