@@ -178,7 +178,6 @@
   display: inline-block;
   margin-left: 3%;
   margin-right: 3%;
-  margin-top: 1%;
   background-image: url("images/adobe-stock.jpg");
   width: 93%;
   height: 40vh;
@@ -449,8 +448,15 @@ font-size: 140%;
   }
 
   .navbar.navbar-custom li {
-    padding-top: 30%;
+    padding-top: 25%;
+
   }
+
+  @media (min-width: 992px){
+    .navbar.navbar-custom li {
+        margin-left : 1em;
+    }
+}
 
   .navbar.navbar-custom li a {
     color: black;
@@ -461,9 +467,9 @@ font-size: 140%;
   .navbar.navbar-custom:after {
     content: "";
     display: inline-block;
-    width: 89%;
-    margin-left: 5%;
-    margin-right: 3%;
+    width: 88.5%;
+    margin-left: 5.5%;
+    margin-right: 4%;
     border-bottom: 2px solid black;
     -webkit-box-shadow:0px 2px 2px #696969;
     -moz-box-shadow:0px 2px 2px #696969;
