@@ -26,6 +26,8 @@ get_header(); ?>
 
 
 		<!-- ARTICLES SECTION -->
+		
+
 		<?php global $more;
 		$more = 0;
 		query_posts('cat=2');
@@ -38,6 +40,8 @@ get_header(); ?>
 	<?php endwhile; endif;
 	wp_reset_query();
 	?>
+
+
 	
 </div>
 </div>

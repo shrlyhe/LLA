@@ -19,22 +19,25 @@ get_header();
 
 
 		<!-- ARTICLES SECTION -->
-		<div class="col-sm-10 articles">
-			<div class="col-sm-10">
-				<!-- 	<h2>Beginner SEO Content</h2> -->
-				<?php if (have_posts()) : while (have_posts()) : the_post(); ?>
+		
+		<!-- 	<h2>Beginner SEO Content</h2> -->
+
+		<?php if (have_posts()) : while (have_posts()) : the_post(); ?>
+			<div class="col-sm-10 articles">
+				<div class="col-sm-10">
 					<?php the_content(); ?>
 				</div><!-- entry -->
+				</div>
 			<?php endwhile; ?>
 		<?php else : ?> 
 
 			<p> NOTHING FOUND! </p> 
 		<?php endif; ?>
 
-</div>
+	</div>
 
 </div>
-</div>
+
 
 
 
