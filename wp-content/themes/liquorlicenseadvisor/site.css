@@ -198,7 +198,7 @@
  }
 
  .license-buy { /* sell license buttons */
-  background-color:#800000;
+  background-color:#764248;
   font-size: 120%;
   color: white;
   text-align: center;
@@ -206,12 +206,12 @@
   margin-top: 5%;
   height: 15%;
   border-radius: 10px;
-  border-color: #800000;
+  border-color: #764248;
 }
 
 .license-sell { /* sell license buttons */
   margin:0;
-  background-color:#800000;
+  background-color:#764248;
   color: white;
   font-size: 120%;
   text-align: center;
@@ -220,7 +220,7 @@
   height: 15%;
   border-radius: 10px;
   margin-top: 5%;
-  border-color: #800000;
+  border-color: #764248;
 }
 
 
@@ -263,7 +263,7 @@
 }
 
 .specific { /* specific services */
-  background-color:#800000;
+  background-color:#764248;
   text-align: center;
   width: 60%;
   height: 60px;
@@ -304,7 +304,7 @@ float: center;
 width: 80%;
 padding: 0px;
 height: 70px;
-border: 2px solid #800000;
+border: 2px solid #764248;
 border-radius: 5px;
 font-weight: 500;
 font-size: 140%;
@@ -694,7 +694,7 @@ input#s{
   margin-left: 15%;
   float: left;
   padding: 2%;
-  border: 2px solid #800000;
+  border: 2px solid #764248;
 }
 
 
