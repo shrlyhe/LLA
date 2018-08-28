@@ -1,13 +1,26 @@
 <?php
 
 // Add scripts and stylesheets
-function startwordpress_scripts() {
-	wp_enqueue_style( 'bootstrap', get_template_directory_uri() . '/css/bootstrap.min.css', array(), '3.3.6' );
-	wp_enqueue_style( 'blog', get_template_directory_uri() . '/css/blog.css' );
-	wp_enqueue_script( 'bootstrap', get_template_directory_uri() . '/js/bootstrap.min.js', array( 'jquery' ), '3.3.6', true );
+function theme_styles() {
+
+	wp_enqueue_style( 'bootstrap_css', 'https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css' );
+	wp_enqueue_style( 'main_css', get_template_directory_uri() . '/style.css' );
+
 }
 
-add_action( 'wp_enqueue_scripts', 'startwordpress_scripts' );
+add_action( 'wp_enqueue_scripts', 'theme_styles');
+
+function theme_js() {
+
+	global $wp_scripts;
+
+	wp_enqueue_script( 'bootstrap_js', 'https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js');
+	wp_enqueue_script( 'my_custom_js', get_template_directory_uri() . '/js/scripts.js');
+
+}
+
+add_action( 'wp_enqueue_scripts', 'theme_js');
+
 
 // Add Google Fonts
 function startwordpress_google_fonts() {
