@@ -23,15 +23,20 @@ get_header(); ?>
 		<div class="col-sm-4 job">
 			<h3>JOB SPECIFIC SERVICES</h3>
 			<div class="services-buttons">
+				<a href="<?php echo get_page_link(51); ?>" style="color:white"><button type="button" class="specific">General Audience</button></a>
+
 				<a href="<?php echo get_page_link(21); ?>" style="color:white"><button type="button" class="specific">Lawyers</button></a>
 
-				<a href="<?php echo get_page_link(23); ?>" style="color:white"><button type="button" class="specific">Licensing Coordinators</button></a>
+				<a href="<?php echo get_page_link(23); ?>" style="color:white"><button type="button" class="specific">Licensing Coordinators & Managers</button></a>
 
-				<a href="<?php echo get_page_link(25); ?>" style="color:white"><button type="button" class="specific">Managers</button></a>
 
 				<a href="<?php echo get_page_link(27); ?>" style="color:white"><button type="button" class="specific">Franchise Developers</button></a>
 
 				<a href="<?php echo get_page_link(29); ?>" style="color:white"><button type="button" class="specific">Liquor Store Owners</button></a>
+
+				<a href="<?php echo get_page_link(53); ?>" style="color:white"><button type="button" class="specific">Food & Beverage Establishment Owners</button></a>
+
+				<a href="<?php echo get_page_link(55); ?>" style="color:white"><button type="button" class="specific">Lenders</button></a>
 
 			</div>
 

@@ -35,7 +35,7 @@
            <div class="header">
             <ul class="nav navbar-nav">
               <li><a href="<?php echo get_bloginfo( 'wpurl' );?>">HOME</a></li>
-              <li><?php wp_list_pages( '&title_li=&exclude=21,23,25,27,29&sort_column=menu_order' ); ?></li>
+              <li><?php wp_list_pages( '&title_li=&exclude=21,23,25,27,29,51,53,55&sort_column=menu_order' ); ?></li>
             </ul>
           </div>
         </div>
