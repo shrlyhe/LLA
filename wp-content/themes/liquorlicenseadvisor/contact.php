@@ -12,6 +12,7 @@ get_header(); ?>
 		<div class="contact-header">
 			<h1>CONTACT US</h1>
 		</div>
+		</div>
 
 
 
@@ -38,5 +39,5 @@ get_header(); ?>
 
 
 	</div>
-</div> 
+
 <?php get_footer(); ?>

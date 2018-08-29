@@ -11,7 +11,7 @@ get_header(); ?>
 
 		<div class="contact-header">
 			<h1>MARKETPLACE</h1>
-			<h2>Aenean vel elementum leo. Sed sapien nunc, pretium commodo pellentesque congue, volutpat quis elit. Praesent aliquam odio sed nisi commodo, dignissim luctus dui vestibulum. Ut ut enim quis est convallis pulvinar vitae et felis. Proin vulputate enim quis purus placerat maximus. Aliquam bibendum turpis eget augue interdum vulputate. Quisque ornare nunc lacus, quis tristique odio porttitor quis. Curabitur consectetur at ipsum sed placerat.</h2>
+			<h3>Aenean vel elementum leo. Sed sapien nunc, pretium commodo pellentesque congue, volutpat quis elit. Praesent aliquam odio sed nisi commodo, dignissim luctus dui vestibulum. Ut ut enim quis est convallis pulvinar vitae et felis. Proin vulputate enim quis purus placerat maximus. Aliquam bibendum turpis eget augue interdum vulputate. Quisque ornare nunc lacus, quis tristique odio porttitor quis. Curabitur consectetur at ipsum sed placerat.</h3>
 		</div>
 
 		<div class="col-sm-12 marketplace">
