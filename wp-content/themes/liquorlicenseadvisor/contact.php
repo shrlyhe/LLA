@@ -12,7 +12,7 @@ get_header(); ?>
 		<div class="contact-header">
 			<h1>CONTACT US</h1>
 		</div>
-	</div>
+
 
 
 <div class="col-sm-8 message-box">
