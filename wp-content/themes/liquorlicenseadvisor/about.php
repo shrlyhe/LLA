@@ -118,20 +118,35 @@ get_header(); ?>
 	<div class="about-category col-sm-4">
 		<img id="good-smiley" src="<?php echo get_stylesheet_directory_uri(); ?>/images/good-smiley.png"/>
 		<h3>Dan Newcomb</h3>
-		<h2>CEO | President</h2>	
+		<h2>Founder, Broker, and Advisor</h2><br>
+		<h3>Dan is the founder of Liquor License Advisor. He’s advised the nation’s most prominent restaurant, hotel and retail brands for over 15 years, working alongside clients as well as attorneys, lenders, and development teams to deliver results with timeliness and integrity. His work in the world of liquor licensing isn’t limited to brokering, either. Dan readily consults many of the largest food and beverage customers in the country on topics such as market research, real estate zoning, and licensing legislation changes.<br><br>
+
+		In addition to an earned reputation for meeting licensing needs with professional and personalized service, Dan loves tackling complex assignments that involve enthusiasm and thinking innovatively to problem-solve. He’s dialed into everything you need to make licensing simple, and looks forward to helping people think bigger about the future.
+</h3>	
 	</div>
 
 
 	<div class="about-category col-sm-4">
 		<img id="good-smiley" src="<?php echo get_stylesheet_directory_uri(); ?>/images/good-smiley.png"/>
-		<h3>Mary Jane</h3>
-		<h2>Vice President</h2>
+		<h3>Ben Jerrom</h3>
+		<h2>Partner and Broker</h2><br>
+		<h3>Ben brings diverse experiences to the Liquor License Advisor team, making him well-equipped to handle all major aspects of liquor license brokering in addition to being well-versed in the food and beverage industry. <br><br>
+
+		In fact, Ben worked his way up, serving in restaurants while learning the ins and outs of the industry. Later, he was part of real estate law before joining international law firm Baker & McKenzie LLP. <br><br>
+
+		In 2016, Ben joined Liquor License Advisor, and helped expand LLA’s presence in New Jersey and Pennsylvania. He’s especially invested in building relationships with business owners and local attorneys, as well as consulting clients on the value of their licenses to help expedite the process and ensure efficiency and timeliness. Ben’s hands-on work in the food and beverage industry coupled with his time in the legal field give him a unique skill set that makes license transfers seamless for every party involved. 
+
+
 	</div>
 
 	<div class="about-category col-sm-4">
 		<img id="good-smiley" src="<?php echo get_stylesheet_directory_uri(); ?>/images/good-smiley.png"/>
-		<h3>John Smith</h3>
-		<h2>Chief Strategy Officer</h2>
+		<h3>Becky Smith</h3>
+		<h2>Operations Manager and Executive Assistant</h2><br>
+		<h3>Becky’s skills in managing financial and business operations throughout her career add an extra layer of timeliness, attention to detail, and creative problem-solving to the Liquor License Advisor team. She supervised a closing team of one of the nation’s top 30 lenders, and she supported a managing attorney and owner of a boutique law firm serving Fortune 500 clients in real estate, foreclosure and bankruptcy matters. <br><br>
+
+At LLA, Becky facilitates successful closing and consulting projects for over 200 clients, and she’s committed to delivering exceptional results to clients and attorneys with value-added service. 
+</h3>
 	</div>
 </div>
 
