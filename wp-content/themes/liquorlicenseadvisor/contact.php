@@ -36,8 +36,8 @@ get_header(); ?>
 		<h3> If you’re ready to take the next steps in securing or selling your liquor license, or just want more information on our resources and services, we’ve got you covered. Our mission is to deliver the resources you need and results you want in a manner that’s quick and easy--and that starts here.
 		<br><br> Below, find our office information to explore our website or give us a call, or reach out via the contact box. We’ll be back to you as soon as possible, and look forward to hearing from you! 
 		<br><br><b>Email:</b> TK <br>
-Phone Number: (781) 319-9800 <br>
-Address: 1 Snow Road, Suite 3 <br>
+<b>Phone Number:</b> (781) 319-9800 <br>
+<b>Address:</b> 1 Snow Road, Suite 3 <br>
 Marshfield, MA 02050 <br>
  </h3>
 	</div>

@@ -11,24 +11,21 @@
     </div>
 
 
-
-    <div class="col-sm-6 column-dan">
-      <img id="pic-dan" src="<?php echo get_stylesheet_directory_uri(); ?>/images/pic-dan.jpg"/> 
+    <div class="wrap">
+      <div class="col-sm-6 column-dan">
+        <img id="pic-dan" src="<?php echo get_stylesheet_directory_uri(); ?>/images/pic-dan.jpg"/> 
+      </div>
+      <div class="col-sm-6 column-quote">
+        <h1> "QUOTE FROM DAN" </h1><br><br><br>
+        <h3> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nec pellentesque ante. In rhoncus, dui consectetur fermentum maximus, neque odio elementum tortor, ut tristique tortor nisl at dui. Aliquam vel ipsum quis sem fermentum tristique. Nam eget molestie risus. Curabitur volutpat ante non auctor efficitur. Pellentesque nisl massa, tempus a egestas et, sagittis vulputate odio. Aenean commodo auctor tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nec pellentesque ante.</h3>
+      </div>
     </div>
 
-    <div class="col-sm-6 column-quote">
-      <h1> "QUOTE FROM DAN" </h1><br><br><br>
-      <h3> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nec pellentesque ante. In rhoncus, dui consectetur fermentum maximus, neque odio elementum tortor, ut tristique tortor nisl at dui. Aliquam vel ipsum quis sem fermentum tristique. Nam eget molestie risus. Curabitur volutpat ante non auctor efficitur. Pellentesque nisl massa, tempus a egestas et, sagittis vulputate odio. Aenean commodo auctor tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nec pellentesque ante.</h3>
-    </div>
 
-
-    <div class="col-sm-12">
+    <div class="col-sm-12 wrap">
       <h2 class="client-review-title">HERE'S WHAT CLIENTS ARE SAYING</h2>
       <div class="review-column">
-
-
         <div class="col-sm-12">
-
           <img id="pic-client" src="<?php echo get_stylesheet_directory_uri(); ?>/images/client-pic.jpeg"/> 
         </div>
 
@@ -43,7 +40,7 @@
         <img id="pic-client" src="<?php echo get_stylesheet_directory_uri(); ?>/images/client-pic.jpeg"/> 
       </div>
       <div class="col-sm-12">
-      <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nec pellentesque ante. In rhoncus, dui consectetur fermentum maximus, neque odio elementum tortor, ut tristique tortor nisl at dui. Aliquam vel ipsum quis sem fermentum tristique. Nam eget molestie risus. Curabitur volutpat ante non auctor efficitur. Pellentesque nisl massa, tempus a egestas et, sagittis vulputate odio. Aenean commodo auctor tempus. </p>
+        <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nec pellentesque ante. In rhoncus, dui consectetur fermentum maximus, neque odio elementum tortor, ut tristique tortor nisl at dui. Aliquam vel ipsum quis sem fermentum tristique. Nam eget molestie risus. Curabitur volutpat ante non auctor efficitur. Pellentesque nisl massa, tempus a egestas et, sagittis vulputate odio. Aenean commodo auctor tempus. </p>
       </div>
     </div>
 
