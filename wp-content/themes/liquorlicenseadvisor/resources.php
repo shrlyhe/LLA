@@ -8,6 +8,7 @@ get_header(); ?>
 
 <div class="container">
 	<div class="row">
+	<div class="wrap">
 
 		<!-- SEARCH SECTION -->
 		<div class="col-sm-2 search">
@@ -43,6 +44,7 @@ get_header(); ?>
 
 
 	
+</div>
 </div>
 </div>
 

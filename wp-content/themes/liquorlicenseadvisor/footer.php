@@ -4,7 +4,6 @@
 
     <footer>
       <ul class="footer">
-        <div class="footer-col">
           <li class="col-sm-2">ABOUT
             <ul class="footer-options">
               <a href="#">Option1</a>
