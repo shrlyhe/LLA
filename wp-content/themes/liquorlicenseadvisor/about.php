@@ -117,8 +117,8 @@ get_header(); ?>
 		<h1 class="about-header">PEOPLE</h1>
 	</div>
 	<div class="about-category col-sm-4">
-		<img id="good-smiley" src="<?php echo get_stylesheet_directory_uri(); ?>/images/good-smiley.png"/>
-		<h3>Dan Newcomb</h3>
+		<img id="about-team-pics" src="<?php echo get_stylesheet_directory_uri(); ?>/images/about-dan.jpg"/>
+		<h3><b>Dan Newcomb</b></h3>
 		<h2>Founder, Broker, and Advisor</h2><br>
 		<h2>Dan is the founder of Liquor License Advisor. He’s advised the nation’s most prominent restaurant, hotel and retail brands for over 15 years, working alongside clients as well as attorneys, lenders, and development teams to deliver results with timeliness and integrity. His work in the world of liquor licensing isn’t limited to brokering, either. Dan readily consults many of the largest food and beverage customers in the country on topics such as market research, real estate zoning, and licensing legislation changes.<br><br>
 
@@ -128,8 +128,8 @@ get_header(); ?>
 
 
 	<div class="about-category col-sm-4">
-		<img id="good-smiley" src="<?php echo get_stylesheet_directory_uri(); ?>/images/good-smiley.png"/>
-		<h3>Ben Jerrom</h3>
+		<img id="about-team-pics" src="<?php echo get_stylesheet_directory_uri(); ?>/images/about-ben.jpg"/>
+		<h3><b>Ben Jerrom</b></h3>
 		<h2>Partner and Broker</h2><br>
 		<h2>Ben brings diverse experiences to the Liquor License Advisor team, making him well-equipped to handle all major aspects of liquor license brokering in addition to being well-versed in the food and beverage industry. <br><br>
 
@@ -141,10 +141,10 @@ get_header(); ?>
 	</div>
 
 	<div class="about-category col-sm-4">
-		<img id="good-smiley" src="<?php echo get_stylesheet_directory_uri(); ?>/images/good-smiley.png"/>
-		<h3>Becky Smith</h3>
+		<img id="about-team-pics" src="<?php echo get_stylesheet_directory_uri(); ?>/images/about-becky.jpg"/>
+		<h3><b>Becky Smith</b></h3>
 		<h2>Operations Manager and Executive Assistant</h2><br>
-		<h2>Becky’s skills in managing financial and business operations throughout her career add an extra layer of timeliness, attention to detail, and creative problem-solving to the Liquor License Advisor team. She supervised a closing team of one of the nation’s top 30 lenders, and she supported a managing attorney and owner of a boutique law firm serving Fortune 500 clients in real estate, foreclosure and bankruptcy matters. <br><br>
+		<h2 >Becky’s skills in managing financial and business operations throughout her career add an extra layer of timeliness, attention to detail, and creative problem-solving to the Liquor License Advisor team. She supervised a closing team of one of the nation’s top 30 lenders, and she supported a managing attorney and owner of a boutique law firm serving Fortune 500 clients in real estate, foreclosure and bankruptcy matters. <br><br>
 
 At LLA, Becky facilitates successful closing and consulting projects for over 200 clients, and she’s committed to delivering exceptional results to clients and attorneys with value-added service. 
 </h2>
