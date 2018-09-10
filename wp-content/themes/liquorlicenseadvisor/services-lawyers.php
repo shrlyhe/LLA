@@ -13,7 +13,7 @@ get_header(); ?>
 
 		<div class="col-sm-8 services">
 
-			<h1>ATTORNEYS/h1>
+			<h1>ATTORNEYS</h1>
 
 
 			<h3> Over the years, we’ve worked with many attorneys who have leaned on our expertise of the detailed processes of liquor licensing to create deals quickly and efficiently.
