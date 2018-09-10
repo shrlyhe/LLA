@@ -205,7 +205,7 @@
 .main-underline {
   content: "";
   display: block;
-  width: 93%;
+  width: 1200px;
   margin-left: 3%;
   margin-top: 20%;
   /* margin-bottom: 60px;*/
@@ -221,7 +221,7 @@
   margin:0 auto;
   background-image: url("images/adobe-stock.jpg");
   width: 1200px;
-  height: 40vh;
+  height: 300px;
   overflow: hidden;
   margin-top: 20px;
 
@@ -625,17 +625,18 @@
   font-family: AvenirLTStd-Book; 
 }
 
+
 #pic-client {
-  width: 65%;
-  height: 65%;
+  width: 200px;
+  height: 200px;
   position: relative;
   overflow: hidden;
   border-radius: 90%;
   display: inline-block;
-  margin-left: 15%;
+  margin-left: 80px;
+  margin-right: 80px;
   float: left;
   padding: 2%;
-  /*  border: 2px solid #800000;*/
   background-color: #C0C0C0;
   margin-bottom: 15%;
 
@@ -645,8 +646,9 @@
   float: right;
   padding-top: 100px; 
   font-size: 20px;
- /* overflow: auto;*/
-  padding-bottom: 50px;
+  margin-bottom: 50px;
+  margin-right:auto;
+  width: 600px;
 
 }
 
@@ -663,6 +665,10 @@
   padding-top: 100px;
   float: left;
   overflow: auto;
+  width: 600px;
+  margin-bottom: 50px;
+  margin-left: auto;
+
 
 }
 .wrap {
@@ -747,11 +753,9 @@ input#s{
 #pic-dan {
   width: 400px;
   height: 400px;
- /* position: relative;*/
-  overflow: hidden;
+  overflow: auto;
   border-radius: 90%;
-  display: inline-block;
-  margin:0 auto;
+  margin: 0 auto;
   float: left;
   padding: 10px;
   border: 2px solid #764248;
@@ -924,8 +928,17 @@ ul, li{
 }
 .client-review-title {
   margin-bottom: 5px;
-  font-size: 40px;
+  margin-right: auto;
+  margin-left: auto;
+  float: left;
+  width: 1200px;
+}
+
+.client-review-title h2 {
+  font-size: 35px;
   text-align: center;
+  float:center;
+
 }
 
 .client-review-title:before {
