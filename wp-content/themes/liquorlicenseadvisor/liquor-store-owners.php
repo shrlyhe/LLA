@@ -17,7 +17,7 @@ get_header(); ?>
 
 
 			<h3> Most liquor store owners come to us when they’re looking to expand their ventures because we have an intimate knowledge of the current market and the plethora of unique challenges that arise from owning a liquor store in particular states or municipalities.</h3>
-			<button type="button" class="begin-button">DON'T KNOW WHERE TO BEGIN? CLICK HERE</button>
+			<a href="<?php echo get_page_link(14); ?>"><button type="button" class="begin-button" style="color:black">DON'T KNOW WHERE TO BEGIN? CLICK HERE</button></a>
 		</div>
 
 		<div class="col-sm-4 job">

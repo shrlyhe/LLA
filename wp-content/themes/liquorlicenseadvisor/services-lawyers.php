@@ -25,7 +25,7 @@ get_header(); ?>
 			In addition, for bankruptcy attorneys who are in charge of license assets, we can act as a strong partner to help you liquidate liquor licenses. Instead of going through the hassle of an auction, we can identify a willing, qualified buyer.
 			<br><br>
 			</h3>
-			<button type="button" class="begin-button">DON'T KNOW WHERE TO BEGIN? CLICK HERE</button>
+			<a href="<?php echo get_page_link(14); ?>"><button type="button" class="begin-button" style="color:black">DON'T KNOW WHERE TO BEGIN? CLICK HERE</button></a>
 		</div>
 
 		<div class="col-sm-4 job">

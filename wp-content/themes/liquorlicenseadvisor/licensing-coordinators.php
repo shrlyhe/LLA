@@ -18,7 +18,7 @@ get_header(); ?>
 
 			<h3> When licensing coordinators and managers at food and beverage organizations are analyzing stores to assess market value, they come to us for appraisals. We can provide market data, highlight estimated values of other licenses that have sold in the area, and identify pockets in the market that are ripe for buying or selling a license. The information we provide can also help licensing coordinators and managers make decisions when opening and closing establishments. 
  </h3>
-			<button type="button" class="begin-button">DON'T KNOW WHERE TO BEGIN? CLICK HERE</button>
+			<a href="<?php echo get_page_link(14); ?>"><button type="button" class="begin-button" style="color:black">DON'T KNOW WHERE TO BEGIN? CLICK HERE</button></a>
 		</div>
 
 		<div class="col-sm-4 job">
