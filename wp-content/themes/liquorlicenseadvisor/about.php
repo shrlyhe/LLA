@@ -7,7 +7,6 @@ get_header(); ?>
 
 <div class="container">
 	<div class="row">
-
 	<div class="wrap">
 
 		<div class="col-sm-12 about-header">
@@ -18,13 +17,13 @@ get_header(); ?>
 			<h3> Whether you’re buying or selling a license, Liquor License Advisor (formerly Atlantic License Brokers) is a one-stop shop for individuals who want to learn more about the liquor licensing process for the first time as well as seasoned food and beverage professionals looking for assistance as they pursue licenses. 
 				<br><br>
 
-				After over a decade in the liquor licensing world, we’ve refined our process to better serve a vast array of clients with many different requests. Amongst our most popular services, we routinely offer our extensive knowledge base to attorneys who may not be familiar with the specifics of liquor licensing, work with franchise developers to secure licenses that match their timelines and lease obligations, and offer consultations to corporate food and beverage partners on proper zoning and market considerations before they ever break ground. We also regularly work with licensing coordinators and managers, liquor store owners, and lenders on all of their liquor licensing needs. 
-				<br><br>
+			After over a decade in the liquor licensing world, we’ve refined our process to better serve a vast array of clients with many different requests. Amongst our most popular services, we routinely offer our extensive knowledge base to attorneys who may not be familiar with the specifics of liquor licensing, work with franchise developers to secure licenses that match their timelines and lease obligations, and offer consultations to corporate food and beverage partners on proper zoning and market considerations before they ever break ground. We also regularly work with licensing coordinators and managers, liquor store owners, and lenders on all of their liquor licensing needs. 
+			<br><br>
 
-				Clients come back to Liquor License Advisor time and time again because in addition to years of experience, they know we also work to troubleshoot problems with unmatched resourcefulness and creativity. At the end of the day, we take pride in our expertise and ability to streamline an often stressful and confusing process into a simple and straightforward one.
-				<br><br>
+			Clients come back to Liquor License Advisor time and time again because in addition to years of experience, they know we also work to troubleshoot problems with unmatched resourcefulness and creativity. At the end of the day, we take pride in our expertise and ability to streamline an often stressful and confusing process into a simple and straightforward one.
+			<br><br>
 
-				To learn more about our general offerings and specialized services for attorneys, licensing coordinators, liquor store owners, franchise developers, food and beverage establishment owners, lenders, and more, <a href="<?php echo get_page_link( get_page_by_title( SERVICES )->ID ); ?>" style="font-weight:bold; color: black;">CLICK HERE</a>.
+			To learn more about our general offerings and specialized services for attorneys, licensing coordinators, liquor store owners, franchise developers, food and beverage establishment owners, lenders, and more, <a href="<?php echo get_page_link( get_page_by_title( SERVICES )->ID ); ?>" style="font-weight:bold; color: black;">CLICK HERE</a>.
 
 
 			</h3>
@@ -75,12 +74,12 @@ get_header(); ?>
 				<li>Silesia Liquors</li>
 			</ul>
 		</div>
-	</div>
 
 	<!-- AWARDS SECTION -->
 	<div class="about-awards col-sm-12">
 		<h1 class="about-header">AWARDS</h1>
 	</div>
+
 	<div class="about-category col-sm-4">
 		<h3>2018</h3>
 		<ul>
@@ -123,7 +122,7 @@ get_header(); ?>
 		<h2>Dan is the founder of Liquor License Advisor. He’s advised the nation’s most prominent restaurant, hotel and retail brands for over 15 years, working alongside clients as well as attorneys, lenders, and development teams to deliver results with timeliness and integrity. His work in the world of liquor licensing isn’t limited to brokering, either. Dan readily consults many of the largest food and beverage customers in the country on topics such as market research, real estate zoning, and licensing legislation changes.<br><br>
 
 		In addition to an earned reputation for meeting licensing needs with professional and personalized service, Dan loves tackling complex assignments that involve enthusiasm and thinking innovatively to problem-solve. He’s dialed into everything you need to make licensing simple, and looks forward to helping people think bigger about the future.
-</h2>	
+		</h2>	
 	</div>
 
 
@@ -146,13 +145,14 @@ get_header(); ?>
 		<h2>Operations Manager and Executive Assistant</h2><br>
 		<h2 >Becky’s skills in managing financial and business operations throughout her career add an extra layer of timeliness, attention to detail, and creative problem-solving to the Liquor License Advisor team. She supervised a closing team of one of the nation’s top 30 lenders, and she supported a managing attorney and owner of a boutique law firm serving Fortune 500 clients in real estate, foreclosure and bankruptcy matters. <br><br>
 
-At LLA, Becky facilitates successful closing and consulting projects for over 200 clients, and she’s committed to delivering exceptional results to clients and attorneys with value-added service. 
-</h2>
+		At LLA, Becky facilitates successful closing and consulting projects for over 200 clients, and she’s committed to delivering exceptional results to clients and attorneys with value-added service. 
+		</h2>
 	</div>
 </div>
+</div>
 
 
 </div>
-</div> <!-- /.row -->
+
 
 <?php get_footer(); ?>

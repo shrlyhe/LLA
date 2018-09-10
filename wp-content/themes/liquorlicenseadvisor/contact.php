@@ -11,12 +11,10 @@ get_header(); ?>
 	<div class="row">
 
 		<div class="wrap">
-
 			
 			<div class="col-sm-12 contact-header">
 				<h1>CONTACT US</h1>
 			</div>
-
 
 			<div class="col-sm-12 message-box">
 				<div role="main">
