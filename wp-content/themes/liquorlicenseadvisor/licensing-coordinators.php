@@ -26,7 +26,7 @@ get_header(); ?>
 			<div class="services-buttons">
 				<a href="<?php echo get_page_link(51); ?>" style="color:white"><button type="button" class="specific">General Audience</button></a>
 
-				<a href="<?php echo get_page_link(21); ?>" style="color:white"><button type="button" class="specific">Lawyers</button></a>
+				<a href="<?php echo get_page_link(21); ?>" style="color:white"><button type="button" class="specific">Attorneys</button></a>
 
 				<a href="<?php echo get_page_link(23); ?>" style="color:white"><button type="button" class="specific">Licensing Coordinators & Managers</button></a>
 
