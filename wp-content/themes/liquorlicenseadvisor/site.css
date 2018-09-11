@@ -374,9 +374,10 @@
   */
   .office-info {
     width: 660px;
-    margin-left: 50px;
+    margin-left: auto;
+    margin-right: auto;
     text-align: center;
-
+    float: right;
   }
 
   .office-info h2 {
@@ -396,7 +397,6 @@
   }
 
   .contact-header {
-    /*padding-top: 5%;*/
     padding-left: auto;
     padding-bottom: 3%;
     padding-right: auto;
@@ -421,17 +421,19 @@
   }
 
   .message-box {
-    padding-left: auto;
-    padding-bottom: 3%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 35px;
     float:left;
     width: 480px;
   }
 
   .message-box-header h2 {
-    font-size: 200%;
+    font-size: 26px;
     font-weight: 400;
-    padding-bottom: 3%;
-    width: 100%;
+    padding-bottom: 10px;
+    width: 480px;
+    font-family: AvenirLTStd-Book; 
   }
 
 /*  .wpcf7-form {
