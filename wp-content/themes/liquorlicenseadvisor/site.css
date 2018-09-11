@@ -783,19 +783,23 @@ input#s{
   padding-top: 8px;
   padding-bottom: 60px;
   text-align: center;
+ /* height: 200px;*/
 }
 
-
-
-.footer li {
+.footer-header {
   font-family: DINPro-CondBold;
   font-weight: 600;
   letter-spacing: 3px;
   color: #333;
   font-size: 20px;
-  padding-right: 100px;
+
+}
+
+.footer li {
+  float:left;
   width: 230px;
   display: inline-block;
+  padding-right: 0;
 
 }
 

@@ -4,36 +4,36 @@
 
     <footer>
       <ul class="footer">
-          <li class="col-sm-2">ABOUT
+          <li class="col-sm-2 footer-header">ABOUT
             <ul class="footer-options">
-              <a href="#">Option1</a>
-              <a href="#">Option2</a>
-              <a href="#">Option3</a>
+              <li><a href="#">Option1</a>
+              <li><a href="#">Option2</a>
+              <li><a href="#">Option3</a>
             </ul>
           </li>
 
-          <li class="col-sm-2">SERVICES
+          <li class="col-sm-2 footer-header">SERVICES
             <ul class="footer-options">
-              <a href="#">Option1</a>
-              <a href="#">Option2</a>
-              <a href="#">Option3</a>
+              <li><a href="#">Option1</a>
+              <li><a href="#">Option2</a>
+              <li><a href="#">Option3</a>
             </ul>
           </li>
-          <li class="col-sm-2">RESOURCES
+          <li class="col-sm-2 footer-header">RESOURCES
             <ul class="footer-options">
-              <a href="#">Option1</a>
-              <a href="#">Option2</a>
-              <a href="#">Option3</a>
+              <li><a href="#">Option1</a>
+              <li><a href="#">Option2</a>
+              <li><a href="#">Option3</a>
             </ul>
           </li>
-          <li class="col-sm-2">BLOG
+          <li class="col-sm-2 footer-header">BLOG
             <ul class="footer-options">
-              <a href="#">Option1</a>
-              <a href="#">Option2</a>
-              <a href="#">Option3</a>
+              <li><a href="#">Option1</a>
+              <li><a href="#">Option2</a>
+              <li><a href="#">Option3</a>
             </ul>
           </li>
-          <li class="col-sm-2">CONTACT</li>
+          <li class="col-sm-2 footer-header">CONTACT</li>
         </ul>
         </div>
         <div class="social-media">
