@@ -16,7 +16,7 @@ get_header(); ?>
 				<h1>CONTACT US</h1>
 			</div>
 
-			<div class="col-sm-12 message-box">
+			<div class="col-sm-8 message-box">
 				<div role="main">
 					<?php if (have_posts()) : while (have_posts()) : the_post(); ?>
 						<div class="col-sm-8 message-box-header">

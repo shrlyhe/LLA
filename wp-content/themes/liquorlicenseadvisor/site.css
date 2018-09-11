@@ -421,8 +421,8 @@
   }
 
   .message-box {
-    margin-left: auto;
-    margin-right: auto;
+    margin-left: 0;
+    margin-right: 0;
     padding-bottom: 35px;
     float:left;
     width: 480px;
@@ -447,8 +447,8 @@
   .wpcf7 input[type="email"],
   .wpcf7 textarea {
     background-color: #f1f1f1;
-    width: 180%;
-    font-size: 100%;
+    width: 480px;
+    font-size: 15px;
     border: 6px solid #f1f1f1; 
   }
 
@@ -460,7 +460,7 @@
   .wpcf7 input[type="submit"] {
     background-color: #f1f1f1;
     color: black;
-    width: 45%;
+    width: 119px;
     float: left;
     height: 40px;
   }
@@ -779,13 +779,12 @@ input#s{
 
 /* create 5 columns for footer */
 .footer {
-  float: center;
   width: 1200px;
   padding-top: 8px;
   padding-bottom: 60px;
   text-align: center;
-
 }
+
 
 
 .footer li {
@@ -793,15 +792,16 @@ input#s{
   font-weight: 600;
   letter-spacing: 3px;
   color: #333;
-  font-size: 140%;
+  font-size: 20px;
   padding-right: 100px;
   width: 230px;
+  display: inline-block;
 
 }
 
 .footer-options {
   font-weight: 300;
-  font-size: 70%;
+  font-size: 14px;
   padding-left: 0px;
   list-style: none;
   text-align: center;
@@ -816,6 +816,7 @@ input#s{
 .footer:before {
   content: "";
   display: inline-block;
+  margin: 0 auto;
   width: 1200px;
   margin-bottom: 40px;
   border-bottom: 6px solid black;
