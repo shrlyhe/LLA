@@ -153,7 +153,7 @@ get_header(); ?>
 
 	<!-- PEOPLE SECTION -->
 	<div class="about-awards col-sm-12">
-		<h1 class="about-header">PEOPLE</h1>
+		<h1 class="about-header" id="people">PEOPLE</h1>
 	</div>
 	<div class="about-category col-sm-4">
 		<img id="about-team-pics" src="<?php echo get_stylesheet_directory_uri(); ?>/images/about-dan.jpg"/>

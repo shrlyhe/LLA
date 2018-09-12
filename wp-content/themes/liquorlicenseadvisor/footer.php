@@ -6,31 +6,31 @@
       <ul class="footer">
           <li class="col-sm-2 footer-header">ABOUT
             <ul class="footer-options">
-              <li><a href="#">What We Do</a>
-              <li><a href="#">Team</a>
-              <li><a href="#">Clients</a>
+              <li><a href="<?php echo get_page_link(6); ?>">What We Do</a>
+              <li><a href="<?php echo get_page_link(6); ?>">Team</a>
+              <li><a href="<?php echo get_page_link(6); ?>">Clients</a>
             </ul>
           </li>
 
           <li class="col-sm-2 footer-header">SERVICES
             <ul class="footer-options">
-              <li><a href="#">Attorneys</a>
-              <li><a href="#">Licensing Coordinators</a>
-              <li><a href="#">Liquor Store Owners</a>
+              <li><a href="<?php echo get_page_link(21); ?>">Attorneys</a>
+              <li><a href="<?php echo get_page_link(23); ?>">Licensing Coordinators</a>
+              <li><a href="<?php echo get_page_link(29); ?>">Liquor Store Owners</a>
             </ul>
           </li>
           <li class="col-sm-2 footer-header">RESOURCES
             <ul class="footer-options">
-              <li><a href="#">What's a Liquor License?</a>
-              <li><a href="#">How Do I Buy a Liquor License?</a>
-              <li><a href="#">How Do I Sell a Liquor License?</a>
+              <li><a href="<?php echo get_page_link(102); ?>">What's a Liquor License?</a>
+              <li><a href="<?php echo get_page_link(136); ?>">How Do I Buy a Liquor License?</a>
+              <li><a href="<?php echo get_page_link(121); ?>">How Do I Sell a Liquor License?</a>
             </ul>
           </li>
           <li class="col-sm-2 footer-header">BLOG
             <ul class="footer-options">
-              <li><a href="#">List of Broker Services</a>
-              <li><a href="#">Licensing Help for Attorneys</a>
-              <li><a href="#">Fake Licenses Help</a>
+              <li><a href="<?php echo get_page_link(79); ?>">List of Broker Services</a>
+              <li><a href="<?php echo get_page_link(74); ?>">Licensing Help for Attorneys</a>
+              <li><a href="<?php echo get_page_link(57); ?>">Fake Licenses Help</a>
             </ul>
           </li>
           <li class="col-sm-2 footer-header">CONTACT</li>
