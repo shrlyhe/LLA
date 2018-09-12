@@ -29,7 +29,7 @@
 
       <div class="review-column">
         <div class="col-sm-12">
-          <img id="pic-client" src="<?php echo get_stylesheet_directory_uri(); ?>/images/client-pic.jpeg"/> 
+       <!--    <img id="pic-client" src="<?php echo get_stylesheet_directory_uri(); ?>/images/client-pic.jpeg"/>  -->
         </div>
 
         <div class="col-sm-12" style="text-align: left;">
@@ -40,7 +40,7 @@
 
       <div class="review-column">
        <div class="col-sm-12">
-        <img id="pic-client" src="<?php echo get_stylesheet_directory_uri(); ?>/images/client-pic.jpeg"/> 
+    <!--     <img id="pic-client" src="<?php echo get_stylesheet_directory_uri(); ?>/images/client-pic.jpeg"/>  -->
       </div>
       <div class="col-sm-12">
         <p style="text-align: left;"> "I recently hired Dan Newcomb and Atlantic License Brokers to facilitate what can only be described as an absurdly difficult all alcohol liquor license transfer.  I am not exaggerating when I say that I do not believe that anybody other than Dan and his team could have gotten this transaction completed and especially under the serious time constraints we faced.  Dan never gave up even when I was ready to myself.  If you want to hire somebody who knows the business, knows the players and knows how to get things done, you won't go wrong with Dan and his team at Atlantic." </p>
@@ -51,11 +51,13 @@
 
     <div class="review-column">
      <div class="col-sm-12">
-      <img id="pic-client" src="<?php echo get_stylesheet_directory_uri(); ?>/images/client-pic.jpeg"/> 
+<!--       <img id="pic-client" src="<?php echo get_stylesheet_directory_uri(); ?>/images/client-pic.jpeg"/>  -->
     </div>
 
     <div class="col-sm-12">
-      <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nec pellentesque ante. In rhoncus, dui consectetur fermentum maximus, neque odio elementum tortor, ut tristique tortor nisl at dui. Aliquam vel ipsum quis sem fermentum tristique. Nam eget molestie risus. Curabitur volutpat ante non auctor efficitur. Pellentesque nisl massa, tempus a egestas et, sagittis vulputate odio. Aenean commodo auctor tempus. </p>
+      <p style="text-align: left;"> "I have always found Dan Newcomb and his team to be knowledgeable, professional, efficient, and personable.  Yes, they maximize value for their clients, but they also prize the establishment and maintenance of long-term relationships and best practices within the liquor industry." </p>
+      <p style="text-align: right;">- Gene Richard<br>Hurwitz, Richard
+& Sencabaugh LLP </p>
     </div>
   </div>
 </div>
