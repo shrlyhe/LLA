@@ -6,31 +6,31 @@
       <ul class="footer">
           <li class="col-sm-2 footer-header">ABOUT
             <ul class="footer-options">
-              <li><a href="#">Option1</a>
-              <li><a href="#">Option2</a>
-              <li><a href="#">Option3</a>
+              <li><a href="#">What We Do</a>
+              <li><a href="#">Team</a>
+              <li><a href="#">Clients</a>
             </ul>
           </li>
 
           <li class="col-sm-2 footer-header">SERVICES
             <ul class="footer-options">
-              <li><a href="#">Option1</a>
-              <li><a href="#">Option2</a>
-              <li><a href="#">Option3</a>
+              <li><a href="#">Attorneys</a>
+              <li><a href="#">Licensing Coordinators</a>
+              <li><a href="#">Liquor Store Owners</a>
             </ul>
           </li>
           <li class="col-sm-2 footer-header">RESOURCES
             <ul class="footer-options">
-              <li><a href="#">Option1</a>
-              <li><a href="#">Option2</a>
-              <li><a href="#">Option3</a>
+              <li><a href="#">What's a Liquor License?</a>
+              <li><a href="#">How Do I Buy a Liquor License?</a>
+              <li><a href="#">How Do I Sell a Liquor License?</a>
             </ul>
           </li>
           <li class="col-sm-2 footer-header">BLOG
             <ul class="footer-options">
-              <li><a href="#">Option1</a>
-              <li><a href="#">Option2</a>
-              <li><a href="#">Option3</a>
+              <li><a href="#">List of Broker Services</a>
+              <li><a href="#">Licensing Help for Attorneys</a>
+              <li><a href="#">Fake Licenses Help</a>
             </ul>
           </li>
           <li class="col-sm-2 footer-header">CONTACT</li>

@@ -45,7 +45,7 @@ get_header(); ?>
 			<h1 class="about-header">CLIENTS</h1>
 		</div>
 		<div class="about-category col-sm-4">
-			<h3><b>Off Premise Licensing</b></h3>
+			<h3><b><u>Off Premise Licensing</u></b></h3>
 			<ul>
 				<li>Total Wine</li>
 				<li>Liquor Barn</li>
@@ -61,7 +61,7 @@ get_header(); ?>
 
 
 		<div class="about-category col-sm-4">
-			<h3><b>On Premise Licensing<b></h3>
+			<h3><b><u>On Premise Licensing</u><b></h3>
 			<ul>
 				<li>Nordstroms</li>
 				<li>Dave & Buster’s</li>
@@ -101,7 +101,7 @@ get_header(); ?>
 		</div>
 
 		<div class="about-category col-sm-4">
-			<h3><b>Liquor License Valuation and Consulting<b></h3>
+			<h3><b><u>Liquor License Valuation and Consulting</u><b></h3>
 			<ul>
 				<li>Century Bank</li>
 				<li>Citizens Bank</li>
