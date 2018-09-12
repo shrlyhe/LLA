@@ -45,33 +45,73 @@ get_header(); ?>
 			<h1 class="about-header">CLIENTS</h1>
 		</div>
 		<div class="about-category col-sm-4">
-			<h3>Grocery</h3>
+			<h3><b>Off Premise Licensing</b></h3>
 			<ul>
-				<li>BJ's</li>
-				<li>Sam's Club</li>
-				<li>Trader Joes</li>
-				<li>Whole Foods</li>
-				<li>Safeway</li>
+				<li>Total Wine</li>
+				<li>Liquor Barn</li>
+				<li>Stop & Shop</li>
+				<li>Roche Bros</li>
+				<li>Star Market</li>
+				<li>Wegman's</li>
+				<li>7-Eleven</li>
+				<li>BJ’s Wholesale Club®</li>
+				<li>Trader Joe’s</li>
 			</ul>
 		</div>
 
 
 		<div class="about-category col-sm-4">
-			<h3>Hospitality</h3>
+			<h3><b>On Premise Licensing<b></h3>
 			<ul>
-				<li>Marriot Hotels</li>
-				<li>W Hotels</li>
-				<li>Gaylord Resorts & Hotels</li>
+				<li>Nordstroms</li>
+				<li>Dave & Buster’s</li>
+				<li>Bar Louie®</li>
+				<li>Chili’s</li>
+				<li>Bertucci’s</li>
+				<li>Morton’sTM Steakhouse</li>
+				<li>Landry's</li>
+				<li>Darden Restaurant Group</li>
+				<li>Bloomin Brands</li>
+				<li>Sbarro</li>
+				<li>Applebee's</li>
+				<li>Legal Seafoods</li>
+				<li>Shake Shack</li>
+				<li>Wahlburgers</li>
+				<li>Lyon's Group</li>
+				<li>Big Night Entertainment</li>
+				<li>Not Your Average Joe's
+				<li>TGI Fridays
+				<li>Smith & Wollensky
+				<li>Uno Chicago Grill
+				<li>American Airlines Admiral's Club
+				<li>Delta Airlines Sky Club
+				<li>United Airlines
+				<li>US Airways
+				<li>HMS Host
+				<li>Boston Uiniversity
+				<li>Renaissance
+				<li>Marriott
+				<li>Hilton
+				<li>Westmont Hotels
+				<li>Pyramid Group
+				<li>APCV Boston Hotel
+				<li>Restoration Hardware
 			</ul>
+
 		</div>
 
 		<div class="about-category col-sm-4">
-			<h3>Small Business</h3>
+			<h3><b>Liquor License Valuation and Consulting<b></h3>
 			<ul>
-				<li>Jerry's Wine and Spirits</li>
-				<li>Westside Liquor</li>
-				<li>Washington's Wines</li>
-				<li>Silesia Liquors</li>
+				<li>Century Bank</li>
+				<li>Citizens Bank</li>
+				<li>Santander</li>
+				<li>Northern Bank</li>
+				<li>Haverhill Bank
+				<li>Eastern Bank
+				<li>Salem Five
+				<li>Abington Bank
+				<li>Cooperative Bank
 			</ul>
 		</div>
 
