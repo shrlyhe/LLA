@@ -18,17 +18,16 @@ get_header(); ?>
 				</div>
 			</form>
 			<h1> CATEGORIES </h1>
-			<a href=#><h2> KEYWORD </h2></a>
-			<a href=#><h2> KEYWORD </h2></a>
-			<a href=#><h2> KEYWORD </h2></a>
-			<a href=#><h2> KEYWORD </h2></a>
-			<a href=#><h2> KEYWORD </h2></a>
+			<a href=#><h2> Liquor License Basics </h2></a>
+			<a href=#><h2> Buying a License </h2></a>
+			<a href=#><h2> Selling a License </h2></a>
+			<a href=#><h2> Liquor License Specifics</h2></a>
 		</div>
 
 
 		<!-- ARTICLES SECTION -->
 		
-
+		<div class="resources-articles">
 		<?php global $more;
 		$more = 0;
 		query_posts('cat=2');
@@ -41,6 +40,7 @@ get_header(); ?>
 	<?php endwhile; endif;
 	wp_reset_query();
 	?>
+	</div>
 
 
 	

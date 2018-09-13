@@ -18,7 +18,7 @@ get_header(); ?>
 
 			<div class="contact-header">
 				<h1>MARKETPLACE</h1>
-				<h3>Aenean vel elementum leo. Sed sapien nunc, pretium commodo pellentesque congue, volutpat quis elit. Praesent aliquam odio sed nisi commodo, dignissim luctus dui vestibulum. Ut ut enim quis est convallis pulvinar vitae et felis. Proin vulputate enim quis purus placerat maximus. Aliquam bibendum turpis eget augue interdum vulputate. Quisque ornare nunc lacus, quis tristique odio porttitor quis. Curabitur consectetur at ipsum sed placerat.</h3>
+				<h3>Below are the liquor licenses we currently have for sale. Our goal is to give you the best value and make your experience buying or selling a liquor license as seamless and stress-free as possible.<br><br>If you have questions or wish to inquire about a license, please email the Liquor License Advisor team at [insert generic email here].</h3>
 			</div>
 
 			<div class="col-sm-12 marketplace">
