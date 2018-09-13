@@ -96,7 +96,7 @@
   margin-right: auto;
   text-align: left;
   float: left;
-  width: 600px;
+  width: 650px;
   height: 900px;
   font-family:AvenirLTStd-Book;
 
@@ -114,7 +114,7 @@
   margin-top: 10px;
   padding-left: 0px;
   float: right;
-  width: 500px;
+  width: 300px;
   height: 900px;
 }
 
@@ -608,15 +608,23 @@
 /* Create three equal columns for homepage reviews */
 .review-column {
   float: left;
-  width: 350px;
+/*  width: 350px;*/
   padding-top: 50px;
   margin: 0 auto;
-  padding-bottom: 100px;
- /* height: 10%; */
-  text-align: left;
+  padding-bottom: 20px;
+  text-align: center;
+}
+.review-column-last {
+  float: left;
+/*  width: 350px;*/
+  padding-top: 50px;
+  margin: 0 auto;
+  padding-bottom: 50px;
+  text-align: center;
 }
 
-.review-column p {
+.review-column p,
+.review-column-last p {
   font-size: 16px;
   font-family: AvenirLTStd-Book; 
 }
@@ -640,20 +648,21 @@
 
 .column-quote {
   float: right;
-  padding-top: 50px; 
-  font-size: 20px;
-  margin-bottom: 50px;
+  padding-top: 100px; 
+  font-size: 25px;
+/*  margin-bottom: 50px;*/
   margin-right:auto;
-  width: 700px;
+  width: 600px;
+  overflow: auto;
 
 }
 
 .column-quote h1 {
-  font-size: 25px;
+  font-size: 23px;
 }
 
 .column-quote h3{
-  font-size: 16px;
+  font-size: 18px;
   font-family: AvenirLTStd-Book;
 }
 
@@ -661,14 +670,14 @@
   padding-top: 50px;
   float: left;
   overflow: auto;
-  width: 400px;
+  width: 300px;
   margin-bottom: 50px;
   margin-left: auto;
 
 
 }
 .wrap {
-  width: 1200px;
+  width: 1050px;
   margin: 0 auto;
 }
 
@@ -748,14 +757,15 @@ input#s{
 
 /* pic of dan - homepage */
 #pic-dan {
-  width: 300px;
-  height: 300px;
+  width: 270px;
+  height: 270px;
   overflow: auto;
   border-radius: 90%;
-  margin: 0 auto;
+  margin-left:auto;
   float: left;
   padding: 10px;
   border: 2px solid #764248;
+  margin-top: 20px;
 }
 
 
@@ -775,6 +785,10 @@ input#s{
   padding-top: 8px;
   padding-bottom: 60px;
   text-align: left;
+  margin-left:0;
+  padding-left: 0;
+  margin-right:0;
+  padding-right:0;
  /* height: 200px;*/
 }
 
@@ -790,10 +804,28 @@ input#s{
 
 .footer li {
   float:left;
-  width: 200px;
+  width: 205px;
   display: inline-block;
   padding-right: 0;
 
+}
+
+.footer #footer-about {
+  width: 160px;
+}
+
+.footer #footer-services {
+  width: 190px;
+}
+
+.footer #footer-resources {
+  width: 230px;
+}
+.footer #footer-blog {
+  width: 210px;
+}
+.footer #footer-contact {
+  width: 240px;
 }
 
 .footer-options {
@@ -805,12 +837,14 @@ input#s{
   letter-spacing: 0px;
 }
 
-.footer-options a {
+.footer-options a,
+#footer-header-contact {
   color: #696969;
   font-weight: 10;
   font-size: 14px;
   font-family: AvenirLTStd-Book;
   float: left;
+  margin-left: 0px;
 }
 
 .footer:before {

@@ -4,7 +4,7 @@
 
     <footer>
       <ul class="footer">
-          <li class="col-sm-2 footer-header">ABOUT
+          <li class="col-sm-2 footer-header" id="footer-about">ABOUT
             <ul class="footer-options">
               <li><a href="<?php echo get_page_link(6); ?>">What We Do</a>
               <li><a href="<?php echo get_page_link(6); ?>">Team</a>
@@ -12,28 +12,36 @@
             </ul>
           </li>
 
-          <li class="col-sm-2 footer-header">SERVICES
+          <li class="col-sm-2 footer-header" id="footer-services">SERVICES
             <ul class="footer-options">
               <li><a href="<?php echo get_page_link(21); ?>">Attorneys</a>
               <li><a href="<?php echo get_page_link(23); ?>">Licensing Coordinators</a>
               <li><a href="<?php echo get_page_link(29); ?>">Liquor Store Owners</a>
             </ul>
           </li>
-          <li class="col-sm-2 footer-header">RESOURCES
+          <li class="col-sm-2 footer-header" id="footer-resources">RESOURCES
             <ul class="footer-options">
               <li><a href="<?php echo get_page_link(102); ?>">What's a Liquor License?</a>
               <li><a href="<?php echo get_page_link(136); ?>">How Do I Buy a Liquor License?</a>
               <li><a href="<?php echo get_page_link(121); ?>">How Do I Sell a Liquor License?</a>
             </ul>
           </li>
-          <li class="col-sm-2 footer-header">BLOG
+          <li class="col-sm-2 footer-header" id="footer-blog">BLOG
             <ul class="footer-options">
               <li><a href="<?php echo get_page_link(79); ?>">List of Broker Services</a>
               <li><a href="<?php echo get_page_link(74); ?>">Licensing Help for Attorneys</a>
-              <li><a href="<?php echo get_page_link(57); ?>">Fake Licenses Help</a>
+              <li><a href="<?php echo get_page_link(57); ?>">Fraudulent Licenses</a>
             </ul>
           </li>
-          <li class="col-sm-2 footer-header">CONTACT</li>
+          <li class="col-sm-2 footer-header" id="footer-contact">CONTACT
+          <ul class="footer-options">
+              <li><a style="text-decoration: none;">Address: 1 Snow Rd #3<br>Marshfield MA 02050</a>
+              <li><a style="text-decoration: none;">Office: 781.319.9800</a>
+              <li><a style="text-decoration: none;">Email: dnewcomb@LLAUSA.com</a>
+            </ul>
+
+          </li>
+
         </ul>
         </div>
         <div class="social-media">
