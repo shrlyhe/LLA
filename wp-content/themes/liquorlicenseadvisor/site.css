@@ -61,9 +61,9 @@
  * Override Bootstrap's default container.
  */
 
- @media (min-width: 1200px) {
+ @media (min-width: 1050px) {
   .container {
-    width: 1200px;
+    width: 1050px;
     background-color: #f0f8ff !important;
     overflow: hidden;
     display: block;
@@ -483,32 +483,23 @@
  * Masthead for nav
  */
 
-/* .blog-nav {
-  width: 1200px;   
-  margin: 0 auto;
-  text-align: center; 
-  overflow: hidden;
-  font-family: DINPro-CondBold;
-
-}
-*/
 .blog-masthead {
-  width: 1200px;
+  width: 1050px;
 }
 
 .navbar.navbar-custom {
   font-family: DINPro-CondMedium;
-  font-size: 22px;
-  letter-spacing: 5px;
+  font-size: 18px;
+  letter-spacing: 4px;
   border:none;
   background: none;
-  width: 1200px;
+  width: 1050px;
   margin: 0 auto;
   white-space: nowrap;
 }
 
 .navbar.navbar-custom li {
-  padding-top: 200px;
+  padding-top: 110px;
   display: inline-block;
 }
 
@@ -523,7 +514,7 @@
 .navbar.navbar-custom:after {
   content: "";
   display: inline-block;
-  width: 1200px;
+  width: 1050px;
   margin: 0 auto;
   border-bottom: 2px solid black;
   -webkit-box-shadow:0px 2px 2px #696969;
@@ -586,14 +577,14 @@
 }*/
 
 #lla-logo { /* LLA logo image */
-  width: 280px;
-  height: 240px;
+  width: 170px;
+  height: 150px;
   overflow: hidden;
   display: inline-block;
   float: left;
   margin-top: 15px;
   padding-left: 0;
-  margin-left: 0;
+  margin-left: auto;
 }
 
 .blog-nav-item:hover,
@@ -616,7 +607,7 @@
 /* Create three equal columns for homepage reviews */
 .review-column {
   float: left;
-  width: 390px;
+  width: 350px;
   padding-top: 50px;
   margin: 0 auto;
   padding-bottom: 100px;
@@ -625,7 +616,7 @@
 }
 
 .review-column p {
-  font-size: 18px;
+  font-size: 16px;
   font-family: AvenirLTStd-Book; 
 }
 
@@ -648,28 +639,28 @@
 
 .column-quote {
   float: right;
-  padding-top: 100px; 
+  padding-top: 50px; 
   font-size: 20px;
   margin-bottom: 50px;
   margin-right:auto;
-  width: 600px;
+  width: 700px;
 
 }
 
 .column-quote h1 {
-  font-size: 35px;
+  font-size: 25px;
 }
 
 .column-quote h3{
-  font-size: 19px;
+  font-size: 16px;
   font-family: AvenirLTStd-Book;
 }
 
 .column-dan {
-  padding-top: 100px;
+  padding-top: 50px;
   float: left;
   overflow: auto;
-  width: 600px;
+  width: 400px;
   margin-bottom: 50px;
   margin-left: auto;
 
@@ -755,8 +746,8 @@ input#s{
 
 /* pic of dan - homepage */
 #pic-dan {
-  width: 400px;
-  height: 400px;
+  width: 300px;
+  height: 300px;
   overflow: auto;
   border-radius: 90%;
   margin: 0 auto;
@@ -779,7 +770,7 @@ input#s{
 
 /* create 5 columns for footer */
 .footer {
-  width: 1200px;
+  width: 1050px;
   padding-top: 8px;
   padding-bottom: 60px;
   text-align: left;
@@ -791,14 +782,14 @@ input#s{
   font-weight: 600;
   letter-spacing: 3px;
   color: #333;
-  font-size: 20px;
+  font-size: 18px;
   float: left;
 
 }
 
 .footer li {
   float:left;
-  width: 232px;
+  width: 200px;
   display: inline-block;
   padding-right: 0;
 
@@ -816,7 +807,7 @@ input#s{
 .footer-options a {
   color: #696969;
   font-weight: 10;
-  font-size: 15px;
+  font-size: 14px;
   font-family: AvenirLTStd-Book;
   float: left;
 }
@@ -944,11 +935,11 @@ ul, li{
   margin-right: auto;
   margin-left: auto;
   float: left;
-  width: 1200px;
+  width: 1050px;
 }
 
 .client-review-title h2 {
-  font-size: 35px;
+  font-size: 25px;
   text-align: center;
   float:center;
 
@@ -958,7 +949,7 @@ ul, li{
   content: "";
   display: block;
   margin: 0 auto;
-  width: 1200px;
+  width: 1050px;
   margin-bottom: 60px;
   border-bottom: 2px solid black;
   -webkit-box-shadow:0px 2px 2px #696969;
