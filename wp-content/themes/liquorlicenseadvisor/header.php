@@ -32,7 +32,7 @@
         <div class="container">
          <div class="blog-masthead">
            <!--  <nav class="blog-nav"> -->
-           <img id="lla-logo" style="float: left;" src="<?php echo get_stylesheet_directory_uri(); ?>/images/LLA-logo.png"/>
+           <a href="<?php echo get_bloginfo( 'wpurl' );?>"><img id="lla-logo" style="float: left;" src="<?php echo get_stylesheet_directory_uri(); ?>/images/LLA-logo.png"/></a>
            <div class="header">
             <ul class="nav navbar-nav">
               <li><a href="<?php echo get_bloginfo( 'wpurl' );?>">HOME</a></li> 
