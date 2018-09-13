@@ -533,49 +533,11 @@
 
 }
 
-
-/*.blog-nav li {
-  position: relative;
-  display: inline-block;
-  font-weight: 400; 
-  float: left;
-  font-size: 150%;
-  width: 25%;
-  margin: 0;
-  padding: 0;
-}
-
-.blog-nav ul {
-  padding: 0;
-  margin: 0;
-}
-
-.blog-nav li a {
-  color: black;
-}*/
-
 .header {
   float: right;
 }
 
-
-/*.blog-nav li a:hover {
-  color: #787878;
-  text-decoration: none;
-}*/
-
 /* Nav links */
-/*.blog-nav-item { 
-  position: relative;
-  display: inline-block;
-  padding: 1%;
-  margin-top: 15%;
-  font-weight: 400;
-  color: black;
-  float: left;
-  padding-left: 13%;
-  font-size: 150%;
-}*/
 
 #lla-logo { /* LLA logo image */
   width: 170px;
@@ -773,6 +735,25 @@ input#s{
 /*
 * Marketplace page
 */
+
+.marketplace-button {
+  width: 1050px;
+  height: 50px;
+  background-color: #891B1B;
+  margin-top: 10px;
+}
+
+.marketplace-button h1 {
+  font-size: 25px;
+  padding-top: 10px;
+  text-align: center;
+}
+
+.marketplace-button a {
+  color: white;
+  
+
+}
 .marketplace {
   margin: 0 auto;
 }
