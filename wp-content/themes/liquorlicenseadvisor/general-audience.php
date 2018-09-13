@@ -27,20 +27,20 @@ get_header(); ?>
 			<h3>JOB SPECIFIC SERVICES</h3>
 			<div class="services-buttons">
 
-				<a href="<?php echo get_page_link(51); ?>" style="color:white"><button type="button" class="specific">General Audience</button></a>
+				<a href="<?php echo get_page_link(51); ?>" style="color:white"><button type="button" class="specific">GENERAL SERVICES</button></a>
 
-				<a href="<?php echo get_page_link(21); ?>" style="color:white"><button type="button" class="specific">Attorneys</button></a>
+					<a href="<?php echo get_page_link(21); ?>" style="color:white"><button type="button" class="specific">ATTORNEYS</button></a>
 
-				<a href="<?php echo get_page_link(23); ?>" style="color:white"><button type="button" class="specific">Licensing Coordinators & Managers</button></a>
+					<a href="<?php echo get_page_link(23); ?>" style="color:white"><button type="button" class="specific">LICENSING COORDINATORS & MANAGERS</button></a>
 
 
-				<a href="<?php echo get_page_link(27); ?>" style="color:white"><button type="button" class="specific">Franchise Developers</button></a>
+					<a href="<?php echo get_page_link(27); ?>" style="color:white"><button type="button" class="specific">FRANCHISE DEVELOPERS</button></a>
 
-				<a href="<?php echo get_page_link(29); ?>" style="color:white"><button type="button" class="specific">Liquor Store Owners</button></a>
+					<a href="<?php echo get_page_link(29); ?>" style="color:white"><button type="button" class="specific">LIQUOR STORE OWNERS</button></a>
 
-				<a href="<?php echo get_page_link(53); ?>" style="color:white"><button type="button" class="specific">Food & Beverage Establishment Owners</button></a>
+					<a href="<?php echo get_page_link(53); ?>" style="color:white"><button type="button" class="specific">FOOD & BEVERAGE ESTABLISHMENT OWNERS</button></a>
 
-				<a href="<?php echo get_page_link(55); ?>" style="color:white"><button type="button" class="specific">Lenders</button></a>
+					<a href="<?php echo get_page_link(55); ?>" style="color:white"><button type="button" class="specific">LENDERS</button></a>
 
 			</div>
 
