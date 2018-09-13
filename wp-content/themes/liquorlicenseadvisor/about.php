@@ -115,42 +115,6 @@ get_header(); ?>
 			</ul>
 		</div>
 
-	<!-- AWARDS SECTION -->
-	<div class="about-awards col-sm-12">
-		<h1 class="about-header">AWARDS</h1>
-	</div>
-
-	<div class="about-category col-sm-4">
-		<h3>2018</h3>
-		<ul>
-			<li>BJ's</li>
-			<li>Sam's Club</li>
-			<li>Trader Joes</li>
-			<li>Whole Foods</li>
-			<li>Safeway</li>
-		</ul>
-	</div>
-
-
-	<div class="about-category col-sm-4">
-		<h3>2017</h3>
-		<ul>
-			<li>Marriot Hotels</li>
-			<li>W Hotels</li>
-			<li>Gaylord Resorts & Hotels</li>
-		</ul>
-	</div>
-
-	<div class="about-category col-sm-4">
-		<h3>2016</h3>
-		<ul>
-			<li>Jerry's Wine and Spirits</li>
-			<li>Westside Liquor</li>
-			<li>Washington's Wines</li>
-			<li>Silesia Liquors</li>
-		</ul>
-	</div>
-
 	<!-- PEOPLE SECTION -->
 	<div class="about-awards col-sm-12">
 		<h1 class="about-header" id="people">PEOPLE</h1>
