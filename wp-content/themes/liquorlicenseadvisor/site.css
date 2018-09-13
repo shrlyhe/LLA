@@ -403,22 +403,22 @@
     padding-right: auto;
     padding-top: 3%;
     float:left;
-    width: 1200px;
+    width: 1050px;
 
   }
   .contact-header h1 {
-    font-size: 35px;
+    font-size: 25px;
     font-weight: 500;
   }
 
   .contact-header h2 {
-    font-size: 19px;
+    font-size: 17px;
     font-weight: 500;
     line-height: 1.5;
   }
 
   .contact-header h3 {
-    font-size: 19px;
+    font-size: 17px;
   }
 
   .message-box {
@@ -703,13 +703,14 @@
 }
 
 .search h1 {
-  font-size: 35px;
+  font-size: 25px;
   font-weight: 500;
   padding-top: 3%;
 } 
 .search h2 {
   color:  #808080;
   padding-top: 1%;
+  font-size: 18px;
 }
 
 /* search bar */
@@ -718,7 +719,7 @@ input#s{
   height: 70%;
   background-color: #DCDCDC;
   border-radius: 10px;
-  font-size: 140%;
+  font-size: 17px;
   border: 6px solid #DCDCDC; 
   margin-bottom: 5%;
 
@@ -764,7 +765,6 @@ input#s{
 */
 .marketplace {
   margin: 0 auto;
-
 }
 
 
@@ -929,7 +929,7 @@ ul, li{
 }
 .blog-post-search {
   margin-bottom: 5px;
-  font-size: 20px;
+  font-size: 17px;
 }
 .client-review-title {
   margin-bottom: 5px;
