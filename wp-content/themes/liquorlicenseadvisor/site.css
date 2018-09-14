@@ -653,9 +653,8 @@
 /* resources page */
 .search {
   float: left;
-  width: 320px;
+  width: 300px;
   margin-left:auto;
-/*  margin-top: 20px;*/ 
   text-align: left;
 
 }
