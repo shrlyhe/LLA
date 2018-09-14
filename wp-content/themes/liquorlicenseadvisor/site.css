@@ -14,28 +14,22 @@
   h5, .h5,
   h6, .h6 {
     margin-top: 0;
-  /*  font-family: DINPro-CondBold;*/
     font-weight: 400;
     color: #333;
     font-size: 150%;
   }
   h1, .client-review-title {
-    word-spacing: 9px;
     letter-spacing: 4px;
     font-family: DINPro-CondBold;
-    font-size: 48px;
+    font-size: 25px;
   }
   h3, p {
     line-height: 1.5;
-    word-spacing: 9px;
     font-family: AvenirLTStd-Book;
-
   }
 
   html, body {
-   /* height: 100%;*/
     background-color: #f0f8ff !important;
-
   }
 
 
@@ -74,7 +68,6 @@
     overflow: hidden;
     display: block;
     left: 0;
-    overflow-x: hidden;
     position: relative;
   }
 
@@ -181,7 +174,6 @@
 .about-category h3 {
   font-size: 17px;
   font-weight: 600;
-  word-spacing: 0px;
   letter-spacing: 1px;
 }
 
@@ -661,9 +653,9 @@
 /* resources page */
 .search {
   float: left;
-  width: 360px;
+  width: 320px;
   margin-left:auto;
-  margin-top: 20px; 
+/*  margin-top: 20px;*/ 
   text-align: left;
 
 }
@@ -680,7 +672,9 @@
 }
 .resources-articles {
   font-family: AvenirLTStd-Book;
-  text-align: left;
+  padding-top: 0;
+  margin-top: 20px;
+  margin-right: auto;
 }
 
 /* search bar */
@@ -698,8 +692,8 @@ input#s{
 .articles {
   float: right;
   width: 720px;
-  margin-top: 20px;
-  text-align: right;
+  margin-bottom: 20px;
+
 }
 
 .industry-content {
@@ -813,7 +807,6 @@ input#s{
   list-style: none;
   text-align: center;
   display: block;
-  word-spacing: 0;
   letter-spacing: 0px;
 }
 

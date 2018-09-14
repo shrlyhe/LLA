@@ -25,13 +25,13 @@ get_header(); ?>
 		</div>
 
 
-		<!-- ARTICLES SECTION -->
-		
+		<!-- ARTICLES SECTION -->	
 		<div class="resources-articles">
 		<?php global $more;
 		$more = 0;
 		query_posts('cat=2');
 		if(have_posts()) : while(have_posts()) : the_post(); ?>
+
 		<div class="col-sm-10 articles">
 			<div class="col-sm-10">
 				<?php the_content(); ?>
