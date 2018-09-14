@@ -95,7 +95,7 @@
   margin-right: auto;
   text-align: left;
   float: left;
-  width: 650px;
+  width: 680px;
   height: 800px;
   font-family:AvenirLTStd-Book;
 
@@ -147,6 +147,20 @@
   text-align: left;
   font-family: AvenirLTStd-Book;
 
+}
+
+.about-category-people {
+  float: left;
+  width: 350px;
+  padding-top: 15px;
+  padding-right: 5px;
+  padding-bottom: 45px;
+  text-align: left;
+  font-family: AvenirLTStd-Book;
+
+}
+#team-last {
+  height:100px;
 }
 
 #offpremise-licensing {

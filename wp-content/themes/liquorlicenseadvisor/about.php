@@ -43,8 +43,8 @@ get_header(); ?>
 
 
 			<!-- PEOPLE SECTION -->
-			<div class="col-sm-12">
-				<h1 class="about-header" id="people">PEOPLE</h1>
+			<div class="col-sm-12" id="people">
+				<h1 class="about-header">PEOPLE</h1>
 			</div>
 			<div class="about-category col-sm-4">
 				<img id="about-team-pics" src="<?php echo get_stylesheet_directory_uri(); ?>/images/about-dan.jpg"/>
@@ -70,7 +70,7 @@ get_header(); ?>
 
 				</div>
 
-				<div class="about-category col-sm-4">
+				<div class="about-category col-sm-4" id="team-last">
 					<img id="about-team-pics" src="<?php echo get_stylesheet_directory_uri(); ?>/images/about-becky.jpg"/>
 					<h3 id="people-name"><b>Becky Smith</b></h3>
 					<h2><i>Operations Manager and Executive Assistant</i></h2><br>
@@ -121,48 +121,45 @@ get_header(); ?>
 					<li>Wahlburgers</li>
 					<li>Lyon's Group</li>
 					<li>Big Night Entertainment</li>
-					<li>Not Your Average Joe's
-						<li>TGI Fridays
-							<li>Smith & Wollensky
-								<li>Uno Chicago Grill
-									<li>American Airlines Admiral's Club
-										<li>Delta Airlines Sky Club
-											<li>United Airlines
-												<li>US Airways
-													<li>HMS Host
-														<li>Boston Uiniversity
-															<li>Renaissance
-																<li>Marriott
-																	<li>Hilton
-																		<li>Westmont Hotels
-																			<li>Pyramid Group
-																				<li>APCV Boston Hotel
-																					<li>Restoration Hardware
-																					</ul>
+					<li>Not Your Average Joe's</li>
+					<li>TGI Fridays</li>
+					<li>Smith & Wollensky</li>
+					<li>Uno Chicago Grill</li>
+					<li>American Airlines Admiral's Club</li>
+					<li>Delta Airlines Sky Club</li>
+					<li>United Airlines</li>
+					<li>US Airways</li>
+					<li>HMS Host</li>
+					<li>Boston Uiniversity</li>
+					<li>Renaissance</li>
+					<li>Marriott</li>
+					<li>Hilton</li>
+					<li>Westmont Hotels</li>
+					<li>Pyramid Group</li>
+					<li>APCV Boston Hotel</li>
+					<li>Restoration Hardware</li>
+				</ul>
 
-																				</div>
+			</div>
 
-																				<div class="about-category col-sm-4" id="valuation-licensing">
-																					<h3><b><u>Liquor License Valuation and Consulting</u><b></h3>
-																					<ul>
-																						<li>Century Bank</li>
-																						<li>Citizens Bank</li>
-																						<li>Santander</li>
-																						<li>Northern Bank</li>
-																						<li>Haverhill Bank
-																							<li>Eastern Bank
-																								<li>Salem Five
-																									<li>Abington Bank
-																										<li>Cooperative Bank
-																										</ul>
-																									</div>
-
-																								</div>
-																							</div>
+			<div class="about-category col-sm-4" id="valuation-licensing">
+				<h3><b><u>Liquor License Valuation and Consulting</u><b></h3>
+				<ul>
+					<li>Century Bank</li>
+					<li>Citizens Bank</li>
+					<li>Santander</li>
+					<li>Northern Bank</li>
+					<li>Haverhill Bank</li>
+					<li>Eastern Bank</li>
+					<li>Salem Five</li>
+					<li>Abington Bank</li>
+					<li>Cooperative Bank</li>
+				</div>
+			</div>
 
 
-																						</div>
+		</div>
 
 
 
-																						<?php get_footer(); ?>
+		<?php get_footer(); ?>
