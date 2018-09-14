@@ -20,7 +20,7 @@ get_header(); ?>
 			Building on years of experience in the world of liquor licensing, we pride ourselves on being knowledgeable and resourceful. We will leave no stone unturned when it comes to securing you the licensing deal you want and need.
 			<br><br>
 			</h3>
-			<a href="<?php echo get_page_link(14); ?>"><button type="button" class="begin-button" style="color:black">DON'T KNOW WHERE TO BEGIN? CLICK HERE</button></a>
+			<a href="<?php echo get_page_link(14); ?>"><button type="button" class="begin-button" style="color:black">NEED HELP? GET IN TOUCH WITH THE LLA TEAM NOW</button></a>
 		</div>
 
 		<div class="col-sm-4 job">

@@ -21,7 +21,7 @@ get_header(); ?>
 
 			Additionally, we offer consulting services where we review food and beverage establishment owners’ assets annually and report market value for their licenses, helping them make key business decisions.
  			</h3>
-			<a href="<?php echo get_page_link(14); ?>"><button type="button" class="begin-button" style="color:black">DON'T KNOW WHERE TO BEGIN? CLICK HERE</button></a>
+			<a href="<?php echo get_page_link(14); ?>"><button type="button" class="begin-button" style="color:black">NEED HELP? GET IN TOUCH WITH THE LLA TEAM NOW</button></a>
 		</div>
 
 		<div class="col-sm-4 job">
