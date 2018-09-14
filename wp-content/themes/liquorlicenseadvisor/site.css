@@ -218,25 +218,23 @@
 }
 
 
-.main-underline {
+/*.main-underline {
   content: "";
   display: block;
-  width: 1200px;
-  margin-left: 3%;
+  width: 1050px;
   margin-top: 20%;
-  /* margin-bottom: 60px;*/
   border-bottom: 2px solid black;
   -webkit-box-shadow:0px 2px 2px #696969;
   -moz-box-shadow:0px 2px 2px #696969;
   box-shadow:0px 2px 2px #696969;
 
-}
+}*/
 
 .main {
   display: inline-block;
   margin:0 auto;
   background-image: url("images/adobe-stock.jpg");
-  width: 1200px;
+  width: 1050px;
   height: 300px;
   overflow: hidden;
   margin-top: 20px;
@@ -435,13 +433,6 @@
     font-family: AvenirLTStd-Book; 
     margin-top: 20px;
   }
-
-/*  .wpcf7-form {
-    margin: 0 auto;
-    float:left;
-    width: 600px;
-
-  }*/
 
   .wpcf7-response-output {
     font-family: AvenirLTStd-Book; 
@@ -850,7 +841,7 @@ input#s{
   content: "";
   display: inline-block;
   margin: 0 auto;
-  width: 1200px;
+  width: 1050px;
   margin-bottom: 40px;
   border-bottom: 6px solid black;
   -webkit-box-shadow:0px 5px 5px #696969;
