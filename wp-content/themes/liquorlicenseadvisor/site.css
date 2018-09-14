@@ -676,6 +676,14 @@
   margin-right: auto;
 }
 
+.blog-articles {
+  font-family: AvenirLTStd-Book;
+  padding-top: 0;
+  margin-top: 20px;
+  width: 720px;
+
+}
+
 /* search bar */
 input#s{
   width: 66%;

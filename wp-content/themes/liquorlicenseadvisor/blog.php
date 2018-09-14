@@ -23,8 +23,8 @@ get_header(); ?>
 
 
 		<!-- ARTICLES SECTION -->
-		<div class="col-sm-10 articles">
-			<div class="col-sm-10">
+		<div class="col-sm-10 blog-articles">
+			<div class="col-sm-10 articles">
 			<!-- 	<h2>Beginner SEO Content</h2> -->
 				<?php if (have_posts()) : while (have_posts()) : the_post(); ?>
 						<?php the_content(); ?>
