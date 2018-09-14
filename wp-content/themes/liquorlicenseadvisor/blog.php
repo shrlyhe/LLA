@@ -11,7 +11,7 @@ get_header(); ?>
 	<div class="wrap">
 
 		<!-- SEARCH SECTION -->
-		<div class="col-sm-2 search">
+		<div class="col-sm-2 blog-search">
 			<form role="search">
 				<div class="search-control">
 					<div class="search-control">

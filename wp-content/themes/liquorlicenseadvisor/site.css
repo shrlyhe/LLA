@@ -659,6 +659,15 @@
 
 }
 
+.blog-search {
+  margin-top:20px;
+  float: left;
+  width: 300px;
+  margin-left:auto;
+  text-align: left;
+
+}
+
 .search h1 {
   font-size: 25px;
   font-weight: 500;
@@ -681,6 +690,11 @@
   padding-top: 0;
   margin-top: 20px;
   width: 720px;
+
+}
+.fasc-button {
+  font-family: AvenirLTStd-Book;
+  font-size: 17px;
 
 }
 
