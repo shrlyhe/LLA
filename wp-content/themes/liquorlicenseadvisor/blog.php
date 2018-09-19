@@ -14,9 +14,7 @@ get_header(); ?>
 		<div class="col-sm-2 blog-search">
 			<form role="search">
 				<div class="search-control">
-					<div class="search-control">
 					<?php get_search_form(); ?>
-				</div>
 				</div>
 			</form>
 		</div>

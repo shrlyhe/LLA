@@ -4,21 +4,28 @@
 
     <div class="col-sm-12 main">
       <div class="descriptor">
-        <h3 class="blog-post-title">LLA DESCRIPTOR/TAGLINE</h3>
-        <button type="button" class="license-buy">Buy a license</button>
-        <button type="button" class="license-sell">Sell a license</button>
-      </div>
-    </div>
-
-
-    <div class="wrap">
-      <div class="col-sm-4 column-dan">
+        <h3 class="blog-post-title">"THE MOST RELIABLE RESOURCE FOR LIQUOR LICENSE STRATEGY, AVAILABILITY AND VALUATION"</h3>
+        <button type="button" class="license-sell">SELL A LICENSE</button>
+        <button type="button" class="license-buy">BUY A LICENSE</button>
+        </div>
+        <div class="wrap">
         <img id="pic-dan" src="<?php echo get_stylesheet_directory_uri(); ?>/images/pic-dan.jpg"/> 
-      </div>
-      <div class="col-sm-8 column-quote">
-        <h3> "I’ve been on every side of liquor licensing—from being a franchise owner myself to advising prominent companies and brands for over 15 years. I know from first-hand experience that the liquor licensing system can be confusing, because it is so different in every municipality, county, and state. Liquor License Advisor knows where to look for answers, and we’re committed to getting creative and thinking big about streamlining the licensing process to make it simple and straightforward." </h3><br><br><br>
-      </div>
+        <div class="column-quote">
+         <h3> "I’ve been on every side of liquor licensing—from being a franchise owner myself to advising prominent companies and brands for over 15 years. I know from first-hand experience that the liquor licensing system can be confusing, because it is so different in every municipality, county, and state. Liquor License Advisor knows where to look for answers, and we’re committed to getting creative and thinking big about streamlining the licensing process to make it simple and straightforward." </h3>
+         </div>
+         </div>
+
     </div>
+
+
+  <!--   <div class="wrap"> -->
+      <!-- <div class="col-sm-4 column-dan">
+        <img id="pic-dan" src="<?php echo get_stylesheet_directory_uri(); ?>/images/pic-dan.jpg"/> 
+      </div> -->
+<!--       <div class="col-sm-8 column-quote">
+        <h3> "I’ve been on every side of liquor licensing—from being a franchise owner myself to advising prominent companies and brands for over 15 years. I know from first-hand experience that the liquor licensing system can be confusing, because it is so different in every municipality, county, and state. Liquor License Advisor knows where to look for answers, and we’re committed to getting creative and thinking big about streamlining the licensing process to make it simple and straightforward." </h3><br><br><br>
+      </div> -->
+<!--     </div> -->
 
 
     <div class="wrap">
