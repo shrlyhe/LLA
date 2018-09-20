@@ -4,7 +4,7 @@
 
     <div class="col-sm-12 main">
       <div class="descriptor">
-        <h3 class="blog-post-title">"THE MOST RELIABLE RESOURCE FOR LIQUOR LICENSE STRATEGY, AVAILABILITY AND VALUATION"</h3>
+   <!--      <h3 class="blog-post-title">"THE MOST RELIABLE RESOURCE FOR LIQUOR LICENSE STRATEGY, AVAILABILITY AND VALUATION"</h3> -->
         <button type="button" class="license-sell">SELL A LICENSE</button>
         <button type="button" class="license-buy">BUY A LICENSE</button>
       </div>
