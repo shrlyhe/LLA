@@ -5,11 +5,11 @@
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1"> 
-	<meta name="description" content="">
-	<meta name="author" content="">
+  <meta name="description" content="">
+  <meta name="author" content="">
 
 
-	<title>LLA</title>
+  <title>LLA</title>
   <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet">
   <link href='http://fonts.googleapis.com/css?family=Lato:400,700' rel='stylesheet' type='text/css'>
   <link href="<?php echo get_bloginfo( 'template_directory' );?>/site.css" rel="stylesheet">
@@ -31,11 +31,22 @@
       <nav class="navbar navbar-custom">
         <div class="container">
          <div class="blog-masthead">
-           <!--  <nav class="blog-nav"> -->
-           <a href="<?php echo get_bloginfo( 'wpurl' );?>"><img id="lla-logo" style="float: left;" src="<?php echo get_stylesheet_directory_uri(); ?>/images/LLA-logo.png"/></a>
+          <div class="contact-home-header">
+          <h3><i class="fa fa-envelope-o"></i> dnewcomb@LLAUSA.com | <i class="fa fa-phone"></i>781.319.9800</h3>
+
+
+           </div> 
+
+           
+           </div>
+
+           <div class="logo-div">
+             <!--  <nav class="blog-nav"> -->
+             <a href="<?php echo get_bloginfo( 'wpurl' );?>"><img id="lla-logo"  src="<?php echo get_stylesheet_directory_uri(); ?>/images/LLA-logo.png"/></a>
+           </div>
            <div class="header">
             <ul class="nav navbar-nav">
-              <li><a href="<?php echo get_bloginfo( 'wpurl' );?>">HOME</a></li> 
+              <!--         <li><a href="<?php echo get_bloginfo( 'wpurl' );?>">HOME</a></li> -->
               <li><?php wp_list_pages( '&title_li=&exclude=61,63,65,67,69,51,53,55&sort_column=menu_order' ); ?></li>
             </ul>
           </div>
