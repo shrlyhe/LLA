@@ -9,6 +9,7 @@ get_header(); ?>
 <div class="container">
 
 	<div class="row">
+	<div class="wrap">
 
 
 		<div class="col-sm-8 services">
@@ -41,6 +42,7 @@ get_header(); ?>
 		</div>
 	</div>
 
+</div>
 </div>
 
 

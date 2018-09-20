@@ -9,6 +9,7 @@ get_header(); ?>
 <div class="container">
 
 	<div class="row">
+	<div class="wrap">
 		<div class="col-sm-8 services">
 		<h1>GENERAL AUDIENCE</h1>
 			<h3> When you need to buy or sell a liquor license, we’re here to troubleshoot and solve the problems that others don’t necessarily have the time or the expertise to work through. Not only are we fluent in the ins and outs of licensing lingo, transaction processes, fees, and more, but we can also offer additional help understanding complex licensing areas like quotas and zoning.
@@ -43,10 +44,11 @@ get_header(); ?>
 
 			</div>
 
+
 		</div>
 	</div>
 
 </div>
-
+</div>
 
 <?php get_footer(); ?>
