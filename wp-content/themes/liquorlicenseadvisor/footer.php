@@ -50,7 +50,10 @@
           <a href="#" class="fa fa-linkedin"></a>
           <a href="#" class="fa fa-google"></a>
           <a href="#" class="fa fa-youtube"></a>
+          <h3 class="rights-reserved">2018 Liquor License Advisor USA All rights reserved</h3>
         </div>
+
+
       </footer>
     </div>
   </div>
