@@ -160,6 +160,18 @@ get_header(); ?>
 			</div>
 
 
+				<div class="col-sm-12 about-contact-box">
+				<div role="main">
+					<?php if (have_posts()) : while (have_posts()) : the_post(); ?>
+						<h1> CONTACT US </h1>
+							
+							<?php the_content(); ?>
+					<?php endwhile; ?>
+				<?php endif; ?>
+
+			</div>
+
+
 		</div>
 
 
