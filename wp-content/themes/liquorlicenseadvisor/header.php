@@ -32,7 +32,7 @@
         <div class="container">
          <div class="blog-masthead">
           <div class="contact-home-header">
-          <h3><i class="fa fa-envelope-o"></i> dnewcomb@LLAUSA.com | <i class="fa fa-phone"></i>781.319.9800</h3>
+          <h3><i class="fa fa-envelope"></i> dnewcomb@LLAUSA.com | <i class="fa fa-phone"></i>781.319.9800</h3>
 
 
            </div> 

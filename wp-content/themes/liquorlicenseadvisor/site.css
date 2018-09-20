@@ -591,15 +591,167 @@
 /* Create three equal columns for homepage reviews */
 .review-column {
   float: left;
-/*  width: 350px;*/
+  width: 350px;
   padding-top: 50px;
   margin: 0 auto;
   padding-bottom: 20px;
   text-align: center;
+  display: inline-block;
 }
+
+.company-logos {
+  width: 1050px;
+  margin: 0 auto;
+  margin-top: 100px;
+  opacity: 0.5;
+}
+
+#hilton-logo {
+  height: 100px;
+  width: 130px;
+  margin-left: 50px;
+  margin-bottom: 50px;
+}
+#tgi-fridays-logo {
+  height: 60px;
+  width: 140px;
+  margin-left: 60px;
+  margin-bottom: 50px;
+}
+#bertuccis-logo {
+  height: 60px;
+  width: 130px;
+  margin-left: 60px;
+  margin-bottom: 50px;
+}
+#nordstrom-logo {
+  height: 20px;
+  width: 130px;
+  margin-left: 60px;
+  margin-top: 5px;
+  margin-bottom: 50px;
+}
+#marriott-logo {
+  height: 70px;
+  width: 180px;
+  margin-left: 60px;
+  margin-bottom: 50px;
+}
+#american-airlines-logo {
+  height: 70px;
+  width: 200px;
+  margin-bottom: 50px;
+   margin-left: 70px;
+}
+#shake-shack-logo {
+  height: 80px;
+  width: 200px;
+  margin-left: 60px;
+  margin-bottom: 50px;
+}
+#seven-eleven-logo {
+  height: 130px;
+  width: 120px;
+  margin-left: 60px;
+  margin-bottom: 50px;
+}
+#delta-logo {
+  height: 40px;
+  width: 200px;
+  margin-left: 50px;
+  margin-bottom: 50px;
+}
+#trader-joes-logo {
+  height: 70px;
+  width: 200px;
+  margin-left: 50px;
+  margin-bottom: 50px;
+
+}
+#bjs-logo {
+  height: 120px;
+  width: 190px;
+  margin-left: 60px;
+  margin-bottom: 50px;
+}
+#wegmans-logo {
+  height: 70px;
+  width: 180px;
+  margin-left: 50px;
+  margin-bottom: 70px;
+}
+
+#legal-sea-foods-logo {
+  height: 120px;
+  width: 180px;
+  margin-left: 70px;
+  margin-bottom: 50px;
+}
+
+
+.get-started {
+
+}
+
+.get-started h2 {
+  text-align: center;
+  font-size: 18px;
+
+}
+.get-started h3 {
+  text-align: center;
+  font-size: 17px;
+
+}
+
+.get-started:before {
+  content: "";
+  display: block;
+  margin: 0 auto;
+  width: 1050px;
+  margin-bottom: 60px;
+  border-bottom: 2px solid black;
+  -webkit-box-shadow:0px 2px 2px #696969;
+  -moz-box-shadow:0px 2px 2px #696969;
+  box-shadow:0px 2px 2px #696969;
+}
+
+
+.top-row {
+  margin-left: 350px;
+
+}
+
+.bottom-row {
+  margin-left: 170px;
+
+}
+
+.get-started-button {
+  background-color:#764248;
+  font-size: 16px;
+  color: white;
+  text-align: center;
+  width: 260px;
+  margin-bottom: 40px;
+  margin-top: 20px;
+  font-size: 13px;
+/*  letter-spacing: 1px;*/
+  height: 50px;
+  margin-right: 20px;
+  border-color: #764248;
+
+}
+
+.container-outer {
+  overflow-x: scroll;
+  overflow-y: hidden;
+/*  white-space: nowrap;*/
+}
+
 .review-column-last {
   float: left;
-/*  width: 350px;*/
+  width: 350px;
   padding-top: 50px;
   margin: 0 auto;
   padding-bottom: 50px;
@@ -820,11 +972,10 @@ input#s{
   padding-top: 8px;
   padding-bottom: 60px;
   text-align: left;
-  margin-left:0;
+  margin-left:auto;
   padding-left: 0;
-  margin-right:0;
+  margin-right:auto;
   padding-right:0;
- /* height: 200px;*/
 }
 
 .footer-header {
@@ -839,28 +990,29 @@ input#s{
 
 .footer li {
   float:left;
-  width: 205px;
+  width: 300px;
   display: inline-block;
   padding-right: 0;
 
 }
 
 .footer #footer-about {
-  width: 160px;
+  width: 200px;
+  margin-left: 90px;
 }
 
 .footer #footer-services {
-  width: 190px;
+  width: 250px;
 }
 
 .footer #footer-resources {
-  width: 230px;
+  width: 290px;
 }
 .footer #footer-blog {
-  width: 210px;
+  width: 270px;
 }
 .footer #footer-contact {
-  width: 240px;
+  width: 300px;
 }
 
 .footer-options {
@@ -900,6 +1052,7 @@ ul, li{
 /* social media buttons */
 .social-media {
   padding-bottom: 5%;
+  padding-left: 90px;
 
 }
 .fa {
