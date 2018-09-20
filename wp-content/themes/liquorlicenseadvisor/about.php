@@ -31,7 +31,9 @@ get_header(); ?>
 			</div>
 
 			<div class="col-sm-2 about-service">
+			<h2>SERVING</h2>
 				<ul>
+
 					<h3><li>Attorneys</li></h3>
 					<h3><li>Licensing Coordinators</li></h3>
 					<h3><li>Managers</li></h3>
@@ -44,12 +46,12 @@ get_header(); ?>
 
 			<!-- PEOPLE SECTION -->
 			<div class="col-sm-12" id="people">
-				<h1 class="about-header">PEOPLE</h1>
+				<h1 class="about-header">MEET THE TEAM</h1>
 			</div>
 			<div class="about-category col-sm-4">
 				<img id="about-team-pics" src="<?php echo get_stylesheet_directory_uri(); ?>/images/about-dan.jpg"/>
-				<h3 id="people-name">Dan Newcomb</h3>
-				<h2><i>Founder, Broker, and Advisor</i></h2><br>
+				<h3 id="people-name" style="color: #891b1b;">Dan Newcomb</h3>
+				<h2><i style="color: #891b1b;">Founder, Broker, and Advisor</i></h2><br>
 				<h2>Dan is the founder of Liquor License Advisor. He’s advised the nation’s most prominent restaurant, hotel and retail brands for over 15 years, working alongside clients as well as attorneys, lenders, and development teams to deliver results with timeliness and integrity. His work in the world of liquor licensing isn’t limited to brokering, either. Dan readily consults many of the largest food and beverage customers in the country on topics such as market research, real estate zoning, and licensing legislation changes.<br><br>
 
 					In addition to an earned reputation for meeting licensing needs with professional and personalized service, Dan loves tackling complex assignments that involve enthusiasm and thinking innovatively to problem-solve. He’s dialed into everything you need to make licensing simple, and looks forward to helping people think bigger about the future.
@@ -59,8 +61,8 @@ get_header(); ?>
 
 			<div class="about-category col-sm-4">
 				<img id="about-team-pics" src="<?php echo get_stylesheet_directory_uri(); ?>/images/about-ben.jpg"/>
-				<h3 id="people-name"><b>Ben Jerrom</b></h3>
-				<h2><i>Partner and Broker</i></h2><br>
+				<h3 id="people-name" style="color: #891b1b;"><b>Ben Jerrom</b></h3>
+				<h2><i style="color: #891b1b;">Partner and Broker</i></h2><br>
 				<h2>Ben brings diverse experiences to the Liquor License Advisor team, making him well-equipped to handle all major aspects of liquor license brokering in addition to being well-versed in the food and beverage industry. <br><br>
 
 					In fact, Ben worked his way up, serving in restaurants while learning the ins and outs of the industry. Later, he was part of real estate law before joining international law firm Baker & McKenzie LLP. <br><br>
@@ -72,8 +74,8 @@ get_header(); ?>
 
 				<div class="about-category col-sm-4" id="team-last">
 					<img id="about-team-pics" src="<?php echo get_stylesheet_directory_uri(); ?>/images/about-becky.jpg"/>
-					<h3 id="people-name"><b>Becky Smith</b></h3>
-					<h2><i>Operations Manager and Executive Assistant</i></h2><br>
+					<h3 id="people-name" style="color: #891b1b;"><b>Becky Smith</b></h3>
+					<h2><i style="color: #891b1b;">Operations Manager and Executive Assistant</i></h2><br>
 					<h2 >Becky’s skills in managing financial and business operations throughout her career add an extra layer of timeliness, attention to detail, and creative problem-solving to the Liquor License Advisor team. She supervised a closing team of one of the nation’s top 30 lenders, and she supported a managing attorney and owner of a boutique law firm serving Fortune 500 clients in real estate, foreclosure and bankruptcy matters. <br><br>
 
 						At LLA, Becky facilitates successful closing and consulting projects for over 200 clients, and she’s committed to delivering exceptional results to clients and attorneys with value-added service. 

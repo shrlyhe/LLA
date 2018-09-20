@@ -73,13 +73,16 @@
 /*about page*/
 .about-header {
   float:center;
-  margin-top: 20px;
+  margin-top: 100px;
   margin-bottom: 20px;
+  text-decoration: underline;
+
 
 }
 
 .about-header h1 {
   font-size: 27px;
+  text-decoration: underline;
 }
 
 
@@ -93,8 +96,8 @@
   height: 800px;
   font-family:AvenirLTStd-Book;
 
-
 }
+
 .about-overview h3 {
   font-size: 17px;
 }
@@ -115,17 +118,23 @@
    /* -webkit-columns: 2;
    -moz-columns: 2;*/
    display: list-item;
+   list-style-type: none;
  }
  .about-service ul {
   /*    columns: 2;*/
   list-style: inside disc;
+  list-style-type: none;
+  padding-left: 0;
 }
 
 .about-service h3 {
   font-size: 17px;
   font-weight: 500;
 }
-
+.about-service h2 {
+  font-size: 18px;
+  font-weight: 700;
+}
 .about-header {
   font-size: 27px;
   font-weight: 500;
