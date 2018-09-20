@@ -75,21 +75,18 @@
   </div>
 
   <div class="top-row">
-    <button type="button" class="get-started-button">ATTORNEYS</button>
-    <button type="button" class="get-started-button">LICENSING COORDINATORS</button>
-    <button type="button" class="get-started-button">MANAGERS</button>
+    <a href="<?php echo get_page_link(21); ?>"><button type="button" class="get-started-button">ATTORNEYS</button></a>
+    <a href="<?php echo get_page_link(23); ?>" ><button type="button" class="get-started-button">LICENSING COORDINATORS</button></a>
+    <a href="<?php echo get_page_link(23); ?>" ><button type="button" class="get-started-button">MANAGERS</button></a>
 
   </div>
 
   <div class="bottom-row">
-  <button type="button" class="get-started-button">FRANCHISE DEVELOPERS</button>
-    <button type="button" class="get-started-button">LIQUOR STORE OWNERS</button>
-    <button type="button" class="get-started-button">FOOD & BEVERAGE OWNERS</button>
-    <button type="button" class="get-started-button">LENDERS</button>
+   <a href="<?php echo get_page_link(27); ?>"><button type="button" class="get-started-button">FRANCHISE DEVELOPERS</button></a>
+    <a href="<?php echo get_page_link(29); ?>"><button type="button" class="get-started-button">LIQUOR STORE OWNERS</button></a>
+    <a href="<?php echo get_page_link(53); ?>"><button type="button" class="get-started-button">FOOD & BEVERAGE OWNERS</button></a>
+    <a href="<?php echo get_page_link(55); ?>" ><button type="button" class="get-started-button">LENDERS</button></a>
   </div>
-
-
-
 
 
 </div>

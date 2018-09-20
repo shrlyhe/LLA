@@ -19,6 +19,7 @@ get_header(); ?>
 			<div class="contact-header">
 				<h1>MARKETPLACE</h1>
 				<h3>Below are the liquor licenses we currently have for sale. Our goal is to give you the best value and make your experience buying or selling a liquor license as seamless and stress-free as possible.<br><br>If you have questions or wish to inquire about a license, please email the Liquor License Advisor team at [insert generic email here].</h3>
+				<br><br>
 			</div>
 
 			<div class="col-sm-12 marketplace">
