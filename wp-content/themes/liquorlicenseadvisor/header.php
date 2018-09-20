@@ -30,11 +30,10 @@
     <body>
       <nav class="navbar navbar-custom">
         <div class="container">
+        <div class="row">
          <div class="blog-masthead">
           <div class="contact-home-header">
           <h3><i class="fa fa-envelope"></i> dnewcomb@LLAUSA.com | <i class="fa fa-phone"></i>781.319.9800</h3>
-
-
            </div> 
 
            
@@ -52,7 +51,10 @@
           </div>
         </div>
 
+
       </div>
+      
+
     </nav>
 
   </body>
