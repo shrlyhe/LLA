@@ -954,6 +954,7 @@ margin-left: 300px;*/
   margin-bottom: 100px;
   background-image: url("images/blog-main.jpg");
   background-size:100%;
+
 }
 
 .blog-section {
@@ -963,11 +964,13 @@ margin-left: 300px;*/
   width: 450px;
   height: 450px;
   background-color: #d3d3d3;
-  opacity: 0.6;
+  background: rgba(255,255,255,0.7); 
+ /* opacity: 0.6;*/
+/* background: rgba(204, 204, 204, 0.5);*/
 
 }
 
-.blog-section h1 {
+.blog-section-inner h1 {
   font-family: AvenirLTStd-Book;
   letter-spacing: 0;
   text-align: center;
