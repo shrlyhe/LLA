@@ -34,18 +34,18 @@
 
 
 
-    <div class="review-column-last">
+    <div class="review-column">
       <p style="text-align: center;"> "I have always found Dan Newcomb and his team to be knowledgeable, professional, efficient, and personable.  Yes, they maximize value for their clients, but they also prize the establishment and maintenance of long-term relationships and best practices within the liquor industry." </p>
       <p style="text-align: right;">- Gene Richard<br>Hurwitz, Richard
         & Sencabaugh LLP </p>
       </div>
-<!-- 
-      <div class="review-column-last">
+
+<!--       <div class="review-column">
         <p style="text-align: center;"> "Dan and his team are the first – and usually only - stop when I have a client who is looking for a license or looking to sell.  They constantly review inventory in communities across the state, maintain contact with potential buyers and sellers and  stay focused on the goal of a successful license transfer from even before the offer is signed.  Their attention to detail, willingness to do any task and constant communication regarding upcoming milestones assist us in delivering the best possible result for our clients." </p>
         <p style="text-align: right;">-  Joseph Devlin, Esq.</p>
       </div>
-    </div> -->
-
+    </div> 
+ -->
 
   </div>
 
