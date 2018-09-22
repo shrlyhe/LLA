@@ -35,9 +35,9 @@
           </li>
           <li class="col-sm-2 footer-header" id="footer-contact">CONTACT
           <ul class="footer-options">
-              <li><a style="text-decoration: none;">Address: 1 Snow Rd #3<br>Marshfield MA 02050</a>
-              <li><a style="text-decoration: none;">Office: 781.319.9800</a>
-              <li><a style="text-decoration: none;">Email: dnewcomb@LLAUSA.com</a>
+              <li><a style="text-decoration: none; text-align: left;">1 Snow Rd #3<br>Marshfield MA 02050</a>
+              <li><a style="text-decoration: none;">781.319.9800</a>
+              <li><a href="mailto:dnewcomb@LLAUSA.com">dnewcomb@LLAUSA.com</a>
             </ul>
 
           </li>

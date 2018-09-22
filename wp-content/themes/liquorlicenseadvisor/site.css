@@ -280,7 +280,7 @@
   height: 570px;
   overflow: visible;
   position: relative;
-  margin-bottom: 400px;
+  margin-bottom: 300px;
 }
 .main:before {
  content: '';
@@ -322,7 +322,7 @@
   text-align: center;
   width: 300px;
   margin-top: 400px;
-  margin-right: 120px;
+  margin-right: 70px;
   height: 50px;
   border-color: #891b1b;
 }
@@ -338,7 +338,7 @@
   height: 50px;
   margin-top: 400px;
   border-color: #891b1b;
-  margin-right: 70px;
+  margin-right: 100px;
 
 }
 
@@ -649,11 +649,11 @@ font-size: 18px;
 /* Create three equal columns for homepage reviews */
 .review-column {
   float: left;
-  width: 350px;
+  width: 340px;
   height: 100%;
+  margin-right: 10px;
   overflow: none;
   padding-top: 50px;
-  margin: 0 auto;
   padding-bottom: 20px;
   text-align: center;
   display: inline-block;
@@ -664,7 +664,7 @@ font-size: 18px;
   width: 1050px;
   margin-left: auto;
   margin-right: auto;
-  margin-top: 50px;
+  margin-top: 20px;
   margin-bottom: 20px;
   border-right: 1px solid white;
 }
@@ -766,7 +766,7 @@ font-size: 18px;
 }
 .get-started h3 {
   text-align: center;
-  font-size: 17px;
+  font-size: 18px;
 
 }
 
@@ -802,7 +802,7 @@ font-size: 18px;
   color: white;
   text-align: center;
   width: 260px;
-  margin-bottom: 40px;
+  margin-bottom: 15px;
   margin-top: 20px;
   font-size: 13px;
   height: 50px;
@@ -861,10 +861,6 @@ font-size: 18px;
   margin-left: 480px;
   margin-top: 500px;
   position: absolute;
-
-
-/*   margin-top:400px;
-margin-left: 300px;*/
 
 }
 
