@@ -483,7 +483,7 @@ font-size: 18px;
     margin-left: 0;
     margin-right: 0;
     margin-bottom: 35px;
-    float:center;
+    float:left;
     width: 730px;
     border: 2px solid #D3D3D3;
   }
@@ -497,6 +497,20 @@ font-size: 18px;
     text-align: left;
     font-family: AvenirLTStd-Book; 
     margin-top: 20px;
+  }
+
+  .contact-box-info {
+    width: 280px;
+    float: right;
+  }
+
+  .contact-box-info h3 {
+    font-size: 17px;
+
+  }
+
+  .contact-overall {
+    width: 1050px;
   }
 
   .wpcf7-response-output {
@@ -980,12 +994,11 @@ font-size: 18px;
 
 .blog-section {
   float: right;
-/*  margin-top: 10px;*/
   margin-right: 70px;
   width: 450px;
-  height: 430px;
+  height: 370px;
   background-color: #d3d3d3;
-  background: rgba(255,255,255,0.7); 
+  background: rgba(255,255,255,0.9); 
 
 }
 
