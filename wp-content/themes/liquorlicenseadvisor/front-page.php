@@ -4,14 +4,15 @@
 
     <div class="col-sm-12 main">
       <div class="descriptor">
-        <button type="button" class="license-buy">BUY A LICENSE</button>
-        <button type="button" class="license-sell">SELL A LICENSE</button>
+        <a href="<?php echo get_page_link(46); ?>" style="color:white;"><button type="button" class="license-buy">BUY A LICENSE</a></button>
+        <a href="<?php echo get_page_link(14); ?>" style="color:white;"><button type="button" class="license-sell">SELL A LICENSE</a></button>
        
       </div>
       <div class="wrap">
         <img id="pic-dan" src="<?php echo get_stylesheet_directory_uri(); ?>/images/pic-dan.jpg"/> 
         <div class="column-quote">
          <h3> "I’ve been on every side of liquor licensing—from being a franchise owner myself to advising prominent companies and brands for over 15 years. I know from first-hand experience that the liquor licensing system can be confusing, because it is so different in every municipality, county, and state. Liquor License Advisor knows where to look for answers, and we’re committed to getting creative and thinking big about streamlining the licensing process to make it simple and straightforward." </h3>
+         <h2>- Dan Newcomb, Founder</h2>
        </div>
      </div>
 

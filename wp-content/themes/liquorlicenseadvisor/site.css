@@ -76,8 +76,14 @@
   margin-top: 100px;
   margin-bottom: 20px;
   text-decoration: underline;
+}
 
-
+.about-header-meet,
+.about-header-clients {
+  float:center;
+  margin-top: 50px;
+  margin-bottom: 20px;
+  text-decoration: underline;
 }
 
 .about-header h1 {
@@ -90,10 +96,10 @@
   margin-top:10px;
   margin-left:auto;
   margin-right: auto;
+  margin-bottom: 50px;
   text-align: left;
   float: left;
   width: 680px;
-/*  height: 800px;*/
   font-family:AvenirLTStd-Book;
 
 }
@@ -107,12 +113,23 @@
 }
 
 
+.get-in-touch {
+  width: 1050px;
+  margin: 0 auto;
+}
+
+.get-in-touch h2 {
+  font-size: 18px;
+  font-family:AvenirLTStd-Book;
+}
+
 .about-contact-box {
   float: center;
-  width: 650px;
-  margin-left: 400px;
+  width: 710px;
+  margin-left: 170px;
   margin-bottom: 70px;
-  padding-bottom: 20px;
+  margin-top: 50px;
+  padding-bottom: 10px;
   border: 2px solid #D3D3D3;
 
 }
@@ -120,27 +137,9 @@
 .about-contact-box h1 {
   text-align: center;
   padding-top: 15px;
- /* padding-left: 100px;*/
+
 }
 
-/*  .message-box {
-    margin-left: 0;
-    margin-right: 0;
-    padding-bottom: 35px;
-    float:center;
-    width: 400px;
-  }
-
-  .message-box-header h2 {
-    font-size: 23px;
-    font-weight: 400;
-    padding-bottom: 10px;
-    width: 1050px;
-    float: left;
-    text-align: left;
-    font-family: AvenirLTStd-Book; 
-    margin-top: 20px;
-  }*/
 
 .about-service {
   margin-top: 10px;
@@ -151,13 +150,10 @@
 }
 
 .about-service li {
-   /* -webkit-columns: 2;
-   -moz-columns: 2;*/
    display: list-item;
    list-style-type: none;
  }
  .about-service ul {
-  /*    columns: 2;*/
   list-style: inside disc;
   list-style-type: none;
   padding-left: 0;
@@ -204,14 +200,18 @@
 
 #offpremise-licensing {
   width: 280px;
+  text-align: center;
+
 }
 
 #onpremise-licensing {
   width: 470px;
+  text-align: center;
 
 }
 #valuation-licensing {
   width: 300px;
+  text-align: center;
 }
 
 #people-name {
@@ -251,6 +251,14 @@
 }
 
 .about-awards:before {
+  content: "";
+  display: block;
+  width: 1050px
+  margin-left: 1%;
+  border-bottom: 2px solid #A9A9A9;
+}
+
+.about-contact-divider:before {
   content: "";
   display: block;
   width: 1050px
@@ -500,30 +508,32 @@ font-size: 18px;
 
   .wpcf7-response-output {
     font-family: AvenirLTStd-Book; 
-    width: 480px;
-    font-size: 16px;
+    width: 590px;
+    font-size: 15px;
   }
   
   .wpcf7 input[type="text"],
   .wpcf7 input[type="email"],
   .wpcf7 textarea {
     background-color: #f1f1f1;
-    width: 600px;
+    width: 670px;
     font-size: 15px;
     border: 6px solid #f1f1f1; 
   }
 
   .wpcf7 input[type="text"],
   .wpcf7 input[type="email"] {
-    min-height: 45px;
-
+    height: 38px;
   }
+  .wpcf7 textarea {
+    height: 120px;
+  }
+
   .wpcf7 input[type="submit"] {
     background-color: #891b1b;
-    color: black;
     width: 230px;
     float: center;
-    margin-left: 195px;
+    margin-left: 225px;
     height: 40px;
     color: white;
   }
@@ -867,6 +877,12 @@ font-size: 18px;
 .column-quote h1 {
   font-size: 23px;
 }
+.column-quote h2 { 
+  font-size: 18px;
+  font-family: AvenirLTStd-Book;
+  text-align: right;
+}
+
 
 .column-quote h3{
   font-size: 18px;
@@ -1231,9 +1247,9 @@ ul, li{
 
 /* social media buttons */
 .social-media {
-  padding-bottom: 35px;
+  padding-bottom: 30px;
   padding-left: 90px;
-  padding-top: 0;
+  padding-top: 0px;
 }
 
 .footer:after {

@@ -45,11 +45,9 @@
         </ul>
         </div>
         <div class="social-media">
-          <a href="#" class="fa fa-twitter"></a>
-          <a href="#" class="fa fa-facebook"></a>
-          <a href="#" class="fa fa-linkedin"></a>
-          <a href="#" class="fa fa-google"></a>
-          <a href="#" class="fa fa-youtube"></a>
+          <a href="https://twitter.com/LiquorAdvisor" class="fa fa-twitter"></a>
+          <a href="https://www.facebook.com/Liquor-License-Advisor-282320729178768/" class="fa fa-facebook"></a>
+          <a href="https://www.linkedin.com/company/atlantic-license-brokers/" class="fa fa-linkedin"></a>
           <h3 class="rights-reserved">2018 Liquor License Advisor USA All rights reserved</h3>
         </div>
 

@@ -33,7 +33,7 @@
         <div class="row">
          <div class="blog-masthead">
           <div class="contact-home-header">
-          <h3><i class="fa fa-envelope"></i> dnewcomb@LLAUSA.com | <i class="fa fa-phone"></i>781.319.9800</h3>
+          <h3><i class="fa fa-envelope"></i><a style="color: white;"href="mailto:dnewcomb@LLAUSA.com">dnewcomb@LLAUSA.com</a> | <i class="fa fa-phone"></i>781.319.9800</h3>
            </div> 
 
            
@@ -45,7 +45,6 @@
            </div>
            <div class="header">
             <ul class="nav navbar-nav">
-              <!--         <li><a href="<?php echo get_bloginfo( 'wpurl' );?>">HOME</a></li> -->
               <li><?php wp_list_pages( '&title_li=&exclude=61,63,65,67,69,51,53,55&sort_column=menu_order' ); ?></li>
             </ul>
           </div>
