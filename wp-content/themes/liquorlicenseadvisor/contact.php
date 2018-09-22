@@ -23,16 +23,10 @@ get_header(); ?>
 
 			<div class="contact-overall">
 				<div class="col-sm-12 message-box">
-					<div role="main">
 						<?php if (have_posts()) : while (have_posts()) : the_post(); ?>
-							<div class="col-sm-8 message-box-header">
-
 								<?php the_content(); ?>
-							</div>
-
 						<?php endwhile; ?>
 					<?php endif; ?>
-
 				</div>
 			</div>  
 
