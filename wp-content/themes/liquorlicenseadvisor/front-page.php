@@ -49,24 +49,8 @@
 
   </div>
 
-  <div class="company-logos">
-    <img id="hilton-logo" src="<?php echo get_stylesheet_directory_uri(); ?>/images/hilton-logo.png"/> 
-    <img id="tgi-fridays-logo" src="<?php echo get_stylesheet_directory_uri(); ?>/images/tgi-fridays-logo.png"/> 
-    <img id="bertuccis-logo" src="<?php echo get_stylesheet_directory_uri(); ?>/images/bertuccis-logo.jpg"/> 
-    <img id="nordstrom-logo" src="<?php echo get_stylesheet_directory_uri(); ?>/images/nordstrom.png"/> 
-    <img id="marriott-logo" src="<?php echo get_stylesheet_directory_uri(); ?>/images/marriott.png"/> 
-
-
-    <img id="american-airlines-logo" src="<?php echo get_stylesheet_directory_uri(); ?>/images/american-airlines.png"/> 
-    <img id="shake-shack-logo" src="<?php echo get_stylesheet_directory_uri(); ?>/images/shake-shack.png"/> 
-    <img id="seven-eleven-logo" src="<?php echo get_stylesheet_directory_uri(); ?>/images/seven-eleven.png"/> 
-
-
-    <img id="delta-logo" src="<?php echo get_stylesheet_directory_uri(); ?>/images/delta.jpg"/> 
-    <img id="trader-joes-logo" src="<?php echo get_stylesheet_directory_uri(); ?>/images/trader-joes.png"/> 
-    <img id="bjs-logo" src="<?php echo get_stylesheet_directory_uri(); ?>/images/bjs.png"/> 
-    <img id="wegmans-logo" src="<?php echo get_stylesheet_directory_uri(); ?>/images/wegmans.jpg"/> 
-    <img id="legal-sea-foods-logo" src="<?php echo get_stylesheet_directory_uri(); ?>/images/legal-sea-foods.png"/> 
+  <div class="wrap">
+    <img id="company-logos" src="<?php echo get_stylesheet_directory_uri(); ?>/images/homepage-logos.png"/> 
   </div>
 
   <div class="get-started">
