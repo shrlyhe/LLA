@@ -8,6 +8,10 @@ get_header(); ?>
 <div class="container">
 	<div class="row">
 		<div class="wrap">
+		<div class="col-sm-12 marketplace-button-resources">
+			<h1><a href="<?php echo get_page_link(46); ?>">CLICK HERE TO SEE OUR LATEST LISTINGS</a></h1>
+
+		</div>
 
 			<div class="col-sm-12 about-header">
 				<h1>WHO WE ARE</h1>

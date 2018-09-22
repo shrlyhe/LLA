@@ -9,10 +9,15 @@ get_header(); ?>
 <div class="container">
 	<div class="row">
 
-
-
 		<div class="col-sm-12 blog-main">
+		<div class="wrap">
+		<div class="col-sm-12 marketplace-button">
+			<h1><a href="<?php echo get_page_link(46); ?>">CLICK HERE TO SEE OUR LATEST LISTINGS</a></h1>
+			</div>
+
+		</div>
 			<div class="blog-section">
+
 				<div class="blog-section-inner">
 					<h1>BLOG</h1>
 					<h2>How Can I Tell If a Liquor License Is Fake?</h2>

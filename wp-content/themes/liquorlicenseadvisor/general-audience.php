@@ -10,8 +10,12 @@ get_header(); ?>
 
 	<div class="row">
 	<div class="wrap">
+	<div class="col-sm-12 marketplace-button">
+			<h1><a href="<?php echo get_page_link(46); ?>">CLICK HERE TO SEE OUR LATEST LISTINGS</a></h1>
+
+		</div>
 		<div class="col-sm-8 services">
-		<h1>GENERAL AUDIENCE</h1>
+		<h1>GENERAL SERVICES</h1>
 			<h3> When you need to buy or sell a liquor license, we’re here to troubleshoot and solve the problems that others don’t necessarily have the time or the expertise to work through. Not only are we fluent in the ins and outs of licensing lingo, transaction processes, fees, and more, but we can also offer additional help understanding complex licensing areas like quotas and zoning.
 			<br><br>
 
