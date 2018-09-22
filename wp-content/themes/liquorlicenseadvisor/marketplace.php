@@ -13,7 +13,7 @@ get_header(); ?>
 
 			<div class="contact-header">
 				<h1>MARKETPLACE</h1>
-				<h3>Below are the liquor licenses we currently have for sale. Our goal is to give you the best value and make your experience buying or selling a liquor license as seamless and stress-free as possible.<br><br>If you have questions or wish to inquire about a license, please <a style="font-weight:bold; color: black;"<?php echo get_page_link(14); ?>">get in touch with us</a> or email us at <a style="color:black; font-weight: bold;" href="mailto:dnewcomb@LLAUSA.com">dnewcomb@LLAUSA.com</a></h3>
+				<h3>Below are the liquor licenses we currently have for sale. Our goal is to give you the best value and make your experience buying or selling a liquor license as seamless and stress-free as possible.<br><br>If you have questions or wish to inquire about a license, please <a style="font-weight:bold; color: black;" href="<?php echo get_page_link(14); ?>">get in touch with us</a> or email us at <a style="color:black; font-weight: bold;" href="mailto:dnewcomb@LLAUSA.com">dnewcomb@LLAUSA.com</a></h3>
 				<br><br>
 			</div>
 
