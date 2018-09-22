@@ -23,7 +23,7 @@
       <h2>WHAT CLIENTS SAY</h2>
     </div>
     <div class="review-column" style="text-align: center;">
-      <p>I have worked with many brokers over the years and consider Dan and team to be the best of the best! Not only do they provide quick professional results, they stay with you throughout the process to ensure the deal moves smoothly and that both parties are satisfied. Without question, they have simplified a process that I used to consider stressful and burdensome."</p>
+      <p>"I have worked with many brokers over the years and consider Dan and team to be the best of the best! Not only do they provide quick professional results, they stay with you throughout the process to ensure the deal moves smoothly and that both parties are satisfied. Without question, they have simplified a process that I used to consider stressful and burdensome."</p>
       <p style="text-align: right;">- Carrie Chadbourne<br>Bloomin' Brands, Inc.</p>
     </div>
 
