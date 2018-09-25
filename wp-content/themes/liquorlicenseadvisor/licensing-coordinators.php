@@ -28,7 +28,7 @@ get_header(); ?>
 
 		<div class="col-sm-4 job">
 			<div class="services-buttons">
-				<a href="<?php echo get_page_link(51); ?>" style="color:white"><button type="button" class="specific">GENERAL SERVICES</button></a>
+				<a href="<?php echo get_page_link(51); ?>" style="color:white"><button type="button" class="specific">LICENSING BASICS</button></a>
 
 					<a href="<?php echo get_page_link(21); ?>" style="color:white"><button type="button" class="specific">ATTORNEYS</button></a>
 

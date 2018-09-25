@@ -4,8 +4,8 @@
 
     <div class="col-sm-12 main">
       <div class="descriptor">
-        <a href="<?php echo get_page_link(46); ?>" style="color:white;"><button type="button" class="license-buy">BUY A LICENSE</a></button>
-        <a href="<?php echo get_page_link(14); ?>" style="color:white;"><button type="button" class="license-sell">SELL A LICENSE</a></button>
+        <a href="<?php echo get_page_link(46); ?>" style="color:white;text-decoration: none;"><button type="button" class="license-buy">BUY A LICENSE</a></button>
+        <a href="<?php echo get_page_link(14); ?>" style="color:white;text-decoration: none;"><button type="button" class="license-sell">SELL A LICENSE</a></button>
        
       </div>
       <div class="wrap">
@@ -56,11 +56,11 @@
 
   <div class="get-started">
     <h2>GET STARTED</h2>
-    <h3>Make a selection based on your profession and needs</h3>
+    <h3>Make a selection based on your professional needs</h3>
   </div>
 
   <div class="top-row">
-   <a href="<?php echo get_page_link(51); ?>" ><button type="button" class="get-started-button">GENERAL SERVICES</button></a>
+   <a href="<?php echo get_page_link(51); ?>" ><button type="button" class="get-started-button">LICENSING BASICS</button></a>
     <a href="<?php echo get_page_link(21); ?>"><button type="button" class="get-started-button">ATTORNEYS</button></a>
     <a href="<?php echo get_page_link(23); ?>" ><button type="button" class="get-started-button">LICENSING PROFESSIONALS</button></a>
    
