@@ -12,7 +12,7 @@ get_header(); ?>
 		<div class="col-sm-12 blog-main">
 		<div class="wrap">
 		<div class="col-sm-12 marketplace-button">
-			<h1><a href="<?php echo get_page_link(46); ?>">CLICK HERE TO SEE OUR LATEST LISTINGS</a></h1>
+			<h1><a href="<?php echo get_page_link(46); ?>">CLICK HERE TO SEE OUR CURRENT LISTINGS</a></h1>
 			</div>
 
 		</div>
@@ -51,21 +51,21 @@ get_header(); ?>
 		-->
 
 		<div class="about-category col-sm-4">
-			<a href="https://liquorlicenseadvisor.dream.press/2018/08/29/how-can-i-tell-if-a-liquor-license-is-fake/"><img id="about-team-pics" src="<?php echo get_stylesheet_directory_uri(); ?>/images/blog-stock-pic.jpg"/> </a>
+			<a href="https://liquorlicenseadvisor.dream.press/2018/08/29/how-can-i-tell-if-a-liquor-license-is-fake/"><img id="about-team-pics" src="<?php echo get_stylesheet_directory_uri(); ?>/images/stock-pics/alcohol-bar-beer-1283219.jpg"/> </a>
 			<a href="https://liquorlicenseadvisor.dream.press/2018/08/29/how-can-i-tell-if-a-liquor-license-is-fake/"><h3 id="people-name" style="color: black;">How Can I Tell If a Liquor License Is Fake?</h3><br></a>
 			<h2>Whether you’re looking into buying or selling a liquor license for the first time or dealing with your millionth sale, there’s always one question in the back of your mind: How can you know if a liquor license is real or fake?</h2>	
 		</div>
 
 
 		<div class="about-category col-sm-4">
-			<a href="https://liquorlicenseadvisor.dream.press/2018/08/29/3-ways-a-liquor-license-broker-makes-an-attorneys-job-easier/"><img id="about-team-pics" src="<?php echo get_stylesheet_directory_uri(); ?>/images/blog-stock-pic.jpg"/></a> 
+			<a href="https://liquorlicenseadvisor.dream.press/2018/08/29/3-ways-a-liquor-license-broker-makes-an-attorneys-job-easier/"><img id="about-team-pics" src="<?php echo get_stylesheet_directory_uri(); ?>/images/stock-pics/alcoholic-beverages-bar-beer-63633.jpg"/></a> 
 			<a href="https://liquorlicenseadvisor.dream.press/2018/08/29/3-ways-a-liquor-license-broker-makes-an-attorneys-job-easier/"><h3 id="people-name" style="color: black;"><b>3 Ways a Liquor License Broker Makes an Attorney's Job Easier</b></h3></a><br>
 			<h2>Over our many years of business, we’ve worked with numerous attorneys to make their journey through the liquor licensing process easier. </h2>
 
 		</div>
 
 			<div class="about-category col-sm-4">
-			<a href="https://liquorlicenseadvisor.dream.press/2018/08/29/most-people-dont-know-that-liquor-license-brokers-can-help-with-these-3-services/"><img id="about-team-pics" src="<?php echo get_stylesheet_directory_uri(); ?>/images/blog-stock-pic.jpg"/></a> 
+			<a href="https://liquorlicenseadvisor.dream.press/2018/08/29/most-people-dont-know-that-liquor-license-brokers-can-help-with-these-3-services/"><img id="about-team-pics" src="<?php echo get_stylesheet_directory_uri(); ?>/images/stock-pics/architecture-bar-beer-751046.jpg"/></a> 
 			<a href="https://liquorlicenseadvisor.dream.press/2018/08/29/most-people-dont-know-that-liquor-license-brokers-can-help-with-these-3-services/"><h3 id="people-name" style="color: black;"><b>Most People Don’t Know That Liquor License Brokers Can Help With These 3 Services</b></h3></a>
 			<h2>Liquor license brokers are experts for a reason. We know the ins and outs of liquor licensing and can save you time, money, and headaches.  </h2>
 

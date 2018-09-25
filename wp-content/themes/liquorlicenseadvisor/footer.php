@@ -37,7 +37,7 @@
           <ul class="footer-options">
               <li><a style="text-decoration: none; text-align: left;">1 Snow Rd #3<br>Marshfield MA 02050</a>
               <li><a style="text-decoration: none;">781.319.9800</a>
-              <li><a href="mailto:dnewcomb@LLAUSA.com">dnewcomb@LLAUSA.com</a>
+              <li><a href="mailto:dnewcomb@LLAUSA.com">team@LLAUSA.com</a>
             </ul>
 
           </li>
@@ -48,6 +48,7 @@
           <a href="https://twitter.com/LiquorAdvisor" class="fa fa-twitter"></a>
           <a href="https://www.facebook.com/Liquor-License-Advisor-282320729178768/" class="fa fa-facebook"></a>
           <a href="https://www.linkedin.com/company/atlantic-license-brokers/" class="fa fa-linkedin"></a>
+          <a href="#" class="fa fa-youtube"></a>
           <h3 class="rights-reserved">2018 Liquor License Advisor USA All rights reserved</h3>
         </div>
 

@@ -9,7 +9,7 @@ get_header(); ?>
 	<div class="row">
 		<div class="wrap">
 		<div class="col-sm-12 marketplace-button-resources">
-			<h1><a href="<?php echo get_page_link(46); ?>">CLICK HERE TO SEE OUR LATEST LISTINGS</a></h1>
+			<h1><a href="<?php echo get_page_link(46); ?>">CLICK HERE TO SEE OUR CURRENT LISTINGS</a></h1>
 
 		</div>
 
@@ -22,14 +22,15 @@ get_header(); ?>
 			</div>
 
 			<div class="col-sm-2 about-service">
-				<h2>SERVING</h2>
+				<h2>WHO YOU ARE</h2>
 				<ul>
-					<h3><li>Attorneys</li></h3>
-					<h3><li>Licensing Professionals</li></h3>
-					<h3><li>Franchise Developers</li></h3>
-					<h3><li>Liquor Store Owners</li></h3>
-					<h3><li>Food & Beverage Establishment Owners</li></h3>
-					<h3><li>Lenders</li></h3>
+					<h3><li><a href="<?php echo get_page_link(21); ?>" style="color:black">License Attorneys</a></li></h3>
+					<h3><li><a href="<?php echo get_page_link(23); ?>" style="color:black">License Professionals</a></li></h3>
+					<h3><li><a href="<?php echo get_page_link(27); ?>" style="color:black">Franchise Developers</a></li></h3>
+					<h3><li><a href="<?php echo get_page_link(55); ?>" style="color:black">Lenders</a></li></h3>
+					<h3><li><a href="<?php echo get_page_link(29); ?>" style="color:black">Liquor Store Owners</a></li></h3>
+					<h3><li><a href="<?php echo get_page_link(53); ?>" style="color:black">Restaurant Owners</a></li></h3>
+					
 				</ul>
 			</div>
 
@@ -41,7 +42,8 @@ get_header(); ?>
 			<div class="about-category col-sm-4">
 				<img id="about-team-pics" src="<?php echo get_stylesheet_directory_uri(); ?>/images/about-dan.jpg"/>
 				<h3 id="people-name" style="color: #891b1b;">Dan Newcomb</h3>
-				<h2><i style="color: #891b1b;">Founder, Broker, and Advisor</i></h2><br>
+				<h2 style="color: #891b1b;">dan@LLAUSA.com</h2>
+				<h2><i style="color: #891b1b;">Founder, CEO</i></h2><br>
 				<h2>Dan is the founder of Liquor License Advisor. He’s advised the nation’s most prominent restaurant, hotel and retail brands for over 15 years, working alongside clients as well as attorneys, lenders, and development teams to deliver results with timeliness and integrity. His work in the world of liquor licensing isn’t limited to brokering, either. Dan readily consults many of the largest food and beverage customers in the country on topics such as market research, real estate zoning, and licensing legislation changes.<br><br>In addition to an earned reputation for meeting licensing needs with professional and personalized service, Dan loves tackling complex assignments that involve enthusiasm and thinking innovatively to problem-solve. He’s dialed into everything you need to make licensing simple, and looks forward to helping people think bigger about the future.
 				</h2>	
 			</div>
@@ -50,21 +52,23 @@ get_header(); ?>
 			<div class="about-category col-sm-4">
 				<img id="about-team-pics" src="<?php echo get_stylesheet_directory_uri(); ?>/images/about-ben.jpg"/>
 				<h3 id="people-name" style="color: #891b1b;"><b>Ben Jerrom</b></h3>
-				<h2><i style="color: #891b1b;">Partner and Broker</i></h2><br>
-				<h2>Ben brings diverse experiences to the Liquor License Advisor team, making him well-equipped to handle all major aspects of liquor license brokering in addition to being well-versed in the food and beverage industry. <br><br>In fact, Ben worked his way up, serving in restaurants while learning the ins and outs of the industry. Later, he was part of real estate law before joining international law firm Baker & McKenzie LLP. <br><br>In 2016, Ben joined Liquor License Advisor, and helped expand LLA’s presence in New Jersey and Pennsylvania. He’s especially invested in building relationships with business owners and local attorneys, as well as consulting clients on the value of their licenses to help expedite the process and ensure efficiency and timeliness. Ben’s hands-on work in the food and beverage industry coupled with his time in the legal field give him a unique skill set that makes license transfers seamless for every party involved. </h2>
+				<h2 style="color: #891b1b;">ben@LLAUSA.com</h2>
+				<h2><i style="color: #891b1b;">Partner, Advisor</i></h2><br>
+				<h2>Ben brings diverse experiences to the Liquor License Advisor team, making him well-equipped to handle all major aspects of liquor license brokering in addition to being well-versed in the food and beverage industry. <br><br>In fact, Ben worked his way up, serving in restaurants while learning the ins and outs of the industry. Later, he was part of a real estate law firm before joining international law firm Baker & McKenzie LLP. <br><br>In 2016, Ben joined Liquor License Advisor, and helped expand LLA’s presence in New Jersey and Pennsylvania. He’s especially invested in building relationships with business owners and local attorneys, as well as consulting clients on the value of their licenses to help expedite the process and ensure efficiency and timeliness. Ben’s hands-on work in the food and beverage industry coupled with his time in the legal field give him a unique skill set that makes license transfers seamless for every party involved. </h2>
 			</div>
 
 			<div class="about-category col-sm-4" id="team-last">
 				<img id="about-team-pics" src="<?php echo get_stylesheet_directory_uri(); ?>/images/about-becky.jpg"/>
 				<h3 id="people-name" style="color: #891b1b;"><b>Becky Smith</b></h3>
-				<h2><i style="color: #891b1b;">Operations Manager and Executive Assistant</i></h2><br>
+				<h2 style="color: #891b1b;">becky@LLAUSA.com</h2>
+				<h2><i style="color: #891b1b;">Operations Manager & Executive Assistant</i></h2><br>
 				<h2 >Becky’s skills in managing financial and business operations throughout her career add an extra layer of timeliness, attention to detail, and creative problem-solving to the Liquor License Advisor team. She supervised a closing team of one of the nation’s top 30 lenders, and she supported a managing attorney and owner of a boutique law firm serving Fortune 500 clients in real estate, foreclosure and bankruptcy matters. <br><br>At LLA, Becky facilitates successful closing and consulting projects for over 200 clients, and she’s committed to delivering exceptional results to clients and attorneys with value-added service. 
 				</h2>
 			</div>
 
 			<!-- CLIENTS SECTION -->
 			<div class="about-awards col-sm-12">
-				<h1 class="about-header-clients">CLIENTS</h1>
+				<h1 class="about-header-clients">REPRESENTATIVE CLIENTS</h1>
 			</div>
 			<div class="about-category col-sm-4" id="offpremise-licensing">
 				<h3><u>Off Premise Licensing</u></h3>

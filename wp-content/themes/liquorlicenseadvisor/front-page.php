@@ -4,8 +4,8 @@
 
     <div class="col-sm-12 main">
       <div class="descriptor">
-        <a href="<?php echo get_page_link(46); ?>" style="color:white;"><button type="button" class="license-buy">BUY A LICENSE</a></button>
-        <a href="<?php echo get_page_link(14); ?>" style="color:white;"><button type="button" class="license-sell">SELL A LICENSE</a></button>
+        <a href="<?php echo get_page_link(46); ?>" style="color:white;text-decoration: none;"><button type="button" class="license-buy">BUY A LICENSE</a></button>
+        <a href="<?php echo get_page_link(14); ?>" style="color:white;text-decoration: none;"><button type="button" class="license-sell">SELL A LICENSE</a></button>
        
       </div>
       <div class="wrap">
@@ -20,7 +20,7 @@
 
    <div class="wrap container-outer">
     <div class="col-sm-12 client-review-title">
-      <h2>WHAT CLIENTS SAY</h2>
+      <h2>CLIENT SUCCESS STORIES</h2>
     </div>
     <div class="review-column" style="text-align: center;">
       <p>"I have worked with many brokers over the years and consider Dan and team to be the best of the best! Not only do they provide quick professional results, they stay with you throughout the process to ensure the deal moves smoothly and that both parties are satisfied. Without question, they have simplified a process that I used to consider stressful and burdensome."</p>
@@ -56,11 +56,11 @@
 
   <div class="get-started">
     <h2>GET STARTED</h2>
-    <h3>Make a selection based on your profession and needs</h3>
+    <h3>Make a selection based on your professional needs</h3>
   </div>
 
   <div class="top-row">
-   <a href="<?php echo get_page_link(51); ?>" ><button type="button" class="get-started-button">GENERAL SERVICES</button></a>
+   <a href="<?php echo get_page_link(51); ?>" ><button type="button" class="get-started-button">LICENSING BASICS</button></a>
     <a href="<?php echo get_page_link(21); ?>"><button type="button" class="get-started-button">ATTORNEYS</button></a>
     <a href="<?php echo get_page_link(23); ?>" ><button type="button" class="get-started-button">LICENSING PROFESSIONALS</button></a>
    

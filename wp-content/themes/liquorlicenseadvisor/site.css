@@ -30,6 +30,7 @@
 
   html, body {
     /*background-color: #f0f8ff !important;*/
+    width: 100%;
   }
 
 
@@ -148,7 +149,6 @@
   padding-left: 0px;
   float: right;
   width: 300px;
-/*  height: 800px;*/
 }
 
 .about-service li {
@@ -362,7 +362,8 @@
 
 
 .job { /*job specific services*/
-  margin-top: 50px;
+  margin-top: 20px;
+  margin-bottom: 80px;
   margin-right:auto;
   padding:0;
   background-color:#DCDCDC;
@@ -375,11 +376,18 @@
 
 }
 
+.services-buttons h2 {
+  color: black;
+  margin-bottom: 10px;
+  font-size:20px;
+  font-weight: 500;
+}
+
 .specific { /* specific services */
   background-color:#891b1b;
   text-align: center;
   width: 225px;
-  height: 55px;
+  height: 60px;
   border-radius: 6px;
   font-size: 14px;
   letter-spacing: 1px;
@@ -414,7 +422,7 @@ height: 70px;
 border: 2px solid #891b1b;
 border-radius: 5px;
 font-weight: 500;
-font-size: 18px;
+font-size: 16px;
 }
 
 
@@ -511,6 +519,7 @@ font-size: 18px;
   
   .wpcf7 input[type="text"],
   .wpcf7 input[type="email"],
+  .wpcf7 input[type="tel"],
   .wpcf7 textarea {
     background-color: #f1f1f1;
     width: 670px;
@@ -608,6 +617,7 @@ font-size: 18px;
 
 .nav.navbar-nav {
   box-shadow: none;
+  margin-left: 100px;
 
 }
 
@@ -928,7 +938,7 @@ font-size: 18px;
   margin-left:auto;
   text-align: left;
   margin-top: 10px;
-  height: 700px;
+  height: 1000px;
 
 }
 
@@ -944,7 +954,7 @@ font-size: 18px;
 .search h1 {
   font-size: 25px;
   font-weight: 500;
-  padding-top: 3%;
+
 } 
 .search h2 {
   color:  #808080;
@@ -959,7 +969,7 @@ font-size: 18px;
 
 .articles-pics {
   width:330px;
-  height: 129px;
+  height: 229px;
 }
 
 .about-resources h3 {
@@ -1148,6 +1158,8 @@ input#s{
   height: 50px;
   background-color: #891B1B;
   margin-top: 50px;
+  margin-right: auto;
+  margin-left: auto;
 }
 
 .marketplace-button h1,
