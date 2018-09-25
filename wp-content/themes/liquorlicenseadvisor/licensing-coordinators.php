@@ -18,7 +18,7 @@ get_header(); ?>
 
 		<div class="col-sm-8 services">
 
-			<h1>LICENSING COORDINATORS</h1>
+			<h1>LICENSING COORDINATORS & MANAGERS</h1>
 
 
 			<h3> When licensing coordinators and managers at food and beverage organizations are analyzing stores to assess market value, they come to us for appraisals. We can provide market data, highlight estimated values of other licenses that have sold in the area, and identify pockets in the market that are ripe for buying or selling a license. The information we provide can also help licensing coordinators and managers make decisions when opening and closing establishments. 

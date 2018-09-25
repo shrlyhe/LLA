@@ -18,7 +18,7 @@ get_header(); ?>
 
 		<div class="col-sm-8 services">
 
-			<h1>FOOD & BEVERAGES ESTABLISHMENT OWNERS</h1>
+			<h1>FOOD & BEVERAGE ESTABLISHMENT OWNERS</h1>
 
 
 			<h3> We’ve assisted many restaurant and bar owners in buying and selling liquor licenses. We ensure that they’re not only up to state and county board standards but also confirm that they have all of the necessary information to undergo the process. 
