@@ -30,7 +30,6 @@
 
   html, body {
     /*background-color: #f0f8ff !important;*/
-    width: 100%;
   }
 
 
@@ -149,6 +148,7 @@
   padding-left: 0px;
   float: right;
   width: 300px;
+/*  height: 800px;*/
 }
 
 .about-service li {
@@ -304,7 +304,7 @@
 
  .descriptor { /* LLA descriptor/tagline box */
    text-align: right;
-   width: 800px;
+   width: 57%;
    padding: 0px;
    height: 55vh;
    font-family: DINPro-CondMedium;
@@ -325,7 +325,7 @@
   color: white;
   text-align: center;
   width: 38%;
-  margin-top: 30%;
+  margin-top: 50%;
   margin-right: 7%;
   height: 12%;
   border-color: #891b1b;
@@ -340,9 +340,9 @@
   width: 38%;
   padding: 0px;
   height: 12%;
-  margin-top: 400px;
+  margin-top: 40%;
   border-color: #891b1b;
-  margin-right: 100px;
+  margin-right: 10%;
 
 }
 
@@ -362,8 +362,7 @@
 
 
 .job { /*job specific services*/
-  margin-top: 20px;
-  margin-bottom: 80px;
+  margin-top: 50px;
   margin-right:auto;
   padding:0;
   background-color:#DCDCDC;
@@ -376,18 +375,11 @@
 
 }
 
-.services-buttons h2 {
-  color: black;
-  margin-bottom: 10px;
-  font-size:20px;
-  font-weight: 500;
-}
-
 .specific { /* specific services */
   background-color:#891b1b;
   text-align: center;
   width: 225px;
-  height: 60px;
+  height: 55px;
   border-radius: 6px;
   font-size: 14px;
   letter-spacing: 1px;
@@ -422,7 +414,7 @@ height: 70px;
 border: 2px solid #891b1b;
 border-radius: 5px;
 font-weight: 500;
-font-size: 16px;
+font-size: 18px;
 }
 
 
@@ -519,7 +511,6 @@ font-size: 16px;
   
   .wpcf7 input[type="text"],
   .wpcf7 input[type="email"],
-  .wpcf7 input[type="tel"],
   .wpcf7 textarea {
     background-color: #f1f1f1;
     width: 670px;
@@ -617,7 +608,6 @@ font-size: 16px;
 
 .nav.navbar-nav {
   box-shadow: none;
-  margin-left: 100px;
 
 }
 
@@ -666,23 +656,24 @@ font-size: 16px;
 /* Create three equal columns for homepage reviews */
 .review-column {
   float: left;
-  width: 340px;
+  width: 33%;
   height: 100%;
-  margin-right: 10px;
   overflow: none;
-  padding-top: 50px;
-  padding-bottom: 20px;
+  padding-top: 3%;
+  padding-bottom: 1%;
   text-align: center;
   display: inline-block;
 
 }
 
 #company-logos {
-  width: 1050px;
+  width: 100%;
+  height: auto;
   margin-left: auto;
   margin-right: auto;
-  margin-top: 20px;
-  margin-bottom: 20px;
+  background: 100%;
+  margin-top: 2%;
+  margin-bottom: 1%;
   border-right: 1px solid white;
 }
 
@@ -770,7 +761,7 @@ font-size: 16px;
 
 
 .get-started {
-  width: 1440px;
+  width: 100%;
 
 }
 
@@ -791,7 +782,7 @@ font-size: 16px;
   content: "";
   display: block;
   margin: 0 auto;
-  width: 1050px;
+  width: 100%;
   margin-bottom: 60px;
   border-bottom: 2px solid black;
   -webkit-box-shadow:0px 2px 2px #696969;
@@ -801,16 +792,12 @@ font-size: 16px;
 
 
 .top-row {
-  margin-left: 350px;
-  width: 1440px;
+  margin-left: 20%;
 
 }
 
 .bottom-row {
-  margin-left: 170px;
-  margin-bottom: 50px;
-  width: 1440px;
-
+  margin-bottom: 7%;
 }
 
 .get-started-button {
@@ -818,14 +805,13 @@ font-size: 16px;
   font-size: 16px;
   color: white;
   text-align: center;
-  width: 260px;
-  margin-bottom: 15px;
-  margin-top: 20px;
+  width: 23%;
+  margin-bottom: 1%;
+  margin-top: 1%;
   font-size: 13px;
   height: 50px;
-  margin-right: 20px;
+  margin-right: 1%;
   border-color: #891b1b;
-
 }
 
 .container-outer {
@@ -871,12 +857,12 @@ font-size: 16px;
   float: right;
   font-size: 25px;
   margin-right:auto;
-  width: 500px;
+  width: 35%;
   overflow: auto;
   background-color: white;
-  padding: 30px;
-  margin-left: 480px;
-  margin-top: 500px;
+  padding: 2%;
+  margin-left: 33%;
+  margin-top: 34%;
   position: absolute;
 
 }
@@ -907,7 +893,7 @@ font-size: 16px;
 
 }
 .wrap {
-  width: 1050px;
+  width: 75%;
   margin: 0 auto;
 }
 
@@ -938,7 +924,7 @@ font-size: 16px;
   margin-left:auto;
   text-align: left;
   margin-top: 10px;
-  height: 1000px;
+  height: 700px;
 
 }
 
@@ -954,7 +940,7 @@ font-size: 16px;
 .search h1 {
   font-size: 25px;
   font-weight: 500;
-
+  padding-top: 3%;
 } 
 .search h2 {
   color:  #808080;
@@ -969,7 +955,7 @@ font-size: 16px;
 
 .articles-pics {
   width:330px;
-  height: 229px;
+  height: 129px;
 }
 
 .about-resources h3 {
@@ -1125,11 +1111,11 @@ input#s{
 
 /* pic of dan - homepage */
 #pic-dan {
-  width: 270px;
-  height: 270px;
+  width: 20%;
+  height: auto;
   border-radius: 90%;
-  margin-top:500px;
-  margin-left: 100px;
+  margin-top:34%;
+  margin-left: 4%;
   float: left;
   position: absolute;
 -webkit-filter: drop-shadow(0px 12px 10px #808080);
@@ -1158,8 +1144,6 @@ input#s{
   height: 50px;
   background-color: #891B1B;
   margin-top: 50px;
-  margin-right: auto;
-  margin-left: auto;
 }
 
 .marketplace-button h1,
@@ -1385,11 +1369,11 @@ ul, li{
   font-size: 17px;
 }
 .client-review-title {
-  margin-bottom: 5px;
+  margin-bottom: 1%;
   margin-right: auto;
   margin-left: auto;
   float: left;
-  width: 1050px;
+  width: 100%;
 }
 
 .client-review-title h2 {
@@ -1403,7 +1387,7 @@ ul, li{
   content: "";
   display: block;
   margin: 0 auto;
-  width: 1050px;
+  width: 100%;
   margin-bottom: 60px;
   border-bottom: 2px solid black;
   -webkit-box-shadow:0px 2px 2px #696969;

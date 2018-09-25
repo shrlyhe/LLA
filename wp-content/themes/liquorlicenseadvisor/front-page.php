@@ -52,7 +52,7 @@
 
   <div class="wrap">
     <img id="company-logos" src="<?php echo get_stylesheet_directory_uri(); ?>/images/homepage-logos.png"/> 
-  </div>
+ 
 
   <div class="get-started">
     <h2>GET STARTED</h2>
@@ -73,7 +73,7 @@
     <a href="<?php echo get_page_link(53); ?>"><button type="button" class="get-started-button">FOOD & BEVERAGE OWNERS</button></a>
     <a href="<?php echo get_page_link(55); ?>" ><button type="button" class="get-started-button">LENDERS</button></a>
   </div>
-
+</div>
 
 </div>
 
