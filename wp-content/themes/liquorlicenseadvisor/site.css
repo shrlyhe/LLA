@@ -353,7 +353,7 @@
   margin-left: auto;
   text-align: left;
   float: left;
-  width: 684px;
+  width: 62%;
   padding: 0px;
 }
 
@@ -400,18 +400,18 @@
 }
 
 .begin-button { /* don't know where to begin? banner */
-margin-top:10px;
-margin-left:50px;
-margin-bottom: 50px;
-text-align: center;
-float: center;
-width: 500px;
-padding: 0px;
-height: 70px;
-border: 2px solid #891b1b;
-border-radius: 5px;
-font-weight: 500;
-font-size: 18px;
+  margin-top:10px;
+  margin-left:50px;
+  margin-bottom: 50px;
+  text-align: center;
+  float: center;
+  width: 70%;
+  padding: 0px;
+  height: 70px;
+  border: 2px solid #891b1b;
+  border-radius: 5px;
+  font-weight: 500;
+  font-size: 18px;
 }
 
 
@@ -1129,7 +1129,7 @@ input#s{
 */
 
 .marketplace-button {
-  width: 75%;
+  width: 100%;
   height: 50px;
   background-color: #891B1B;
   margin-top: 50px;
