@@ -12,7 +12,7 @@ get_header(); ?>
 		<div class="col-sm-12 blog-main">
 		<div class="wrap">
 		<div class="col-sm-12 marketplace-button">
-			<h1><a href="<?php echo get_page_link(46); ?>">CLICK HERE TO SEE OUR LATEST LISTINGS</a></h1>
+			<h1><a href="<?php echo get_page_link(46); ?>">CLICK HERE TO SEE OUR CURRENT LISTINGS</a></h1>
 			</div>
 
 		</div>

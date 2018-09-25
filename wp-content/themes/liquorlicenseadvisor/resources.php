@@ -11,7 +11,7 @@ get_header(); ?>
 		<div class="wrap">
 
 			<div class="col-sm-12 marketplace-button">
-				<h1><a href="<?php echo get_page_link(46); ?>">CLICK HERE TO SEE OUR LATEST LISTINGS</a></h1>
+				<h1><a href="<?php echo get_page_link(46); ?>">CLICK HERE TO SEE OUR CURRENT LISTINGS</a></h1>
 			</div>
 
 			<div class="col-sm-12 about-resources">
@@ -20,11 +20,11 @@ get_header(); ?>
 
 			<!-- SEARCH SECTION -->
 			<div class="col-sm-2 search">
-				<form role="search">
+				<!-- <form role="search">
 					<div class="search-control">
 						<?php get_search_form(); ?>
 					</div>
-				</form>
+				</form> -->
 				<h1> CATEGORIES </h1>
 				<a href=#><h2> Liquor License Basics </h2></a>
 				<a href=#><h2> Buying a License </h2></a>
