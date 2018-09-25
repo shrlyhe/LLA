@@ -101,7 +101,6 @@
   text-align: left;
   float: left;
   width: 680px;
-  height:900px;
   font-family:AvenirLTStd-Book;
 
 }
@@ -146,10 +145,8 @@
 .about-service {
   margin-top: 10px;
   padding-left: 0px;
-  margin-bottom: 800px;
   float: right;
   width: 300px;
-  height: 800px;
 }
 
 .about-service li {
@@ -372,9 +369,16 @@
   float: right;
   width: 250px;
   padding: 0px;
-  height: 500px;
+  height: 460px;
   border-radius: 5px;
 
+}
+
+.services-buttons h2 {
+  color: black;
+  margin-bottom: 10px;
+  font-size:20px;
+  font-weight: 500;
 }
 
 .specific { /* specific services */
@@ -416,7 +420,7 @@ height: 70px;
 border: 2px solid #891b1b;
 border-radius: 5px;
 font-weight: 500;
-font-size: 18px;
+font-size: 16px;
 }
 
 
@@ -513,6 +517,7 @@ font-size: 18px;
   
   .wpcf7 input[type="text"],
   .wpcf7 input[type="email"],
+  .wpcf7 input[type="tel"]
   .wpcf7 textarea {
     background-color: #f1f1f1;
     width: 670px;
@@ -610,6 +615,7 @@ font-size: 18px;
 
 .nav.navbar-nav {
   box-shadow: none;
+  margin-left: 100px;
 
 }
 
