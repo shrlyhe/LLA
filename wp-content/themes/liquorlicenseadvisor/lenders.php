@@ -26,7 +26,6 @@ get_header(); ?>
 		</div>
 
 		<div class="col-sm-4 job">
-			<h3>JOB SPECIFIC SERVICES</h3>
 			<div class="services-buttons">
 				<a href="<?php echo get_page_link(51); ?>" style="color:white"><button type="button" class="specific">GENERAL SERVICES</button></a>
 
