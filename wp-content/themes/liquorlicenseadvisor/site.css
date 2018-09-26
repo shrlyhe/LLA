@@ -434,7 +434,7 @@
   */
 
   .contact-info {
-    width: 1050px;
+    width: 100%;
     margin-left: auto;
     margin-right: auto;
     text-align: left;
@@ -482,7 +482,7 @@
     margin-right: 0;
     margin-bottom: 35px;
     float:left;
-    width: 710px;
+    width: 65%;
     border: 2px solid #D3D3D3;
 
   }
@@ -497,7 +497,7 @@
   }
 
   .contact-overall {
-    width: 1050px;
+    width: 100%;
   }
 
   .wpcf7-response-output {
@@ -538,11 +538,11 @@
  */
 
  .blog-masthead {
-  width: 1440px;
+  width: 100%;
   height: 32px;
   padding-left: 0px !important;
   background-color: #891B1B;
-  padding-right: 30px;
+/*  padding-right: 300px;*/
 }
 
 
@@ -563,8 +563,7 @@
   letter-spacing: 4px;
   border:none;
   background: none;
-  width: 1440px;
-  margin: 0 auto;
+  width: 100%;
   white-space: nowrap;
 }
 
@@ -572,6 +571,10 @@
   padding-top: 25px;
   margin-right: 40px;
   display: inline-block;
+}
+
+.navbar.navbar-custom li:first-child {
+  margin-left:100px;
 }
 
 .navbar.navbar-custom li:last-child {
@@ -917,7 +920,7 @@
 /* resources page */
 .search {
   float: left;
-  width: 300px;
+  width: 25%;
   margin-left:auto;
   text-align: left;
   margin-top: 10px;
@@ -947,7 +950,7 @@
 .resources-articles {
   font-family: AvenirLTStd-Book;
   margin-right: auto;
-  width: 1050px;
+  width: 100%;
 }
 
 .articles-pics {
@@ -965,7 +968,7 @@
   display: inline-block;
   margin-left: auto;
   margin-right: auto;
-  width: 1440px;
+  width: 100%;
   height: 570px;
   overflow: visible;
   position: relative;
@@ -977,8 +980,9 @@
 
 .blog-section {
   float: right;
-  margin-right: 70px;
-  width: 450px;
+  margin-right: 5%;
+  margin-left: 2%;
+  width: 445px;
   height: 370px;
   background-color: #d3d3d3;
   background: rgba(255,255,255,0.9); 
@@ -1164,7 +1168,7 @@ input#s{
 
 /* create 5 columns for footer */
 .footer {
-  width: 1440px;
+  width: 100%;
   padding-top: 8px;
   padding-bottom: 20px;
   text-align: left;
@@ -1172,7 +1176,6 @@ input#s{
   padding-left: 0;
   margin-right:auto;
   padding-right:0;
-/*  background-color: #f3f5f6;*/
 }
 
 .rights-reserved {
@@ -1261,7 +1264,7 @@ ul, li{
 .footer:after {
   content: "";
   display: inline-block;
-  width: 1240px;
+  width: 88%;
   margin-left: 100px;
   margin-right: 200px;
   margin-top: 70px;
