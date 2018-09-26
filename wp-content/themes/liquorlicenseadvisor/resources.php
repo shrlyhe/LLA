@@ -52,23 +52,23 @@ get_header(); ?>
 
 		<div class="resources-articles">
 
-			<div class="col-sm-10 articles">
+			<div class="col-sm-12 articles">
 				<p class="imgp"><a href="https://liquorlicenseadvisor.dream.press/2018/08/30/what-is-a-liquor-license-and-what-does-it-do/"><img class="articles-pics" src="<?php echo get_stylesheet_directory_uri(); ?>/images/stock-pics/adult-bar-blur-696218.jpg" data-src="https://cdn10.bostonmagazine.com/wp-content/uploads/2016/12/liquor-licenses-boston-sm.jpg" /></a></p>
 
-				<h2 style="text-align:left; font-size:19px;">What’s a Liquor License? Everything You Need to Know</h2>
+				<h2>What’s a Liquor License? Everything You Need to Know</h2>
 			</div>
 
 
 			<div class="col-sm-10 articles">
 				<p class="imgp"><a href="https://liquorlicenseadvisor.dream.press/2018/08/30/the-process-of-buying-a-liquor-license-in-the-united-states/"><img class="articles-pics" src="<?php echo get_stylesheet_directory_uri(); ?>/images/stock-pics/alcohol-alcohol-bottles-bar-372959.jpg"  data-src="https://cdn10.bostonmagazine.com/wp-content/uploads/2016/12/liquor-licenses-boston-sm.jpg" /></a></p>
 
-				<h2 style="text-align: left; font-size: 19px;">The Process of Buying a Liquor License in the United States</h2>
+				<h2>The Process of Buying a Liquor License in the United States</h2>
 			</div>
 
 			<div class="col-sm-10 articles">
 				<p class="imgp"><a href="https://liquorlicenseadvisor.dream.press/2018/08/30/sell-a-liquor-license-price-and-value-of-liquor-licenses/"><img class="articles-pics" src="<?php echo get_stylesheet_directory_uri(); ?>/images/stock-pics/alcohol-alcoholic-bar-545058.jpg" data-src="https://cdn10.bostonmagazine.com/wp-content/uploads/2016/12/liquor-licenses-boston-sm.jpg" /></a></p>
 
-				<h2 style="text-align:left; font-size:19px;">Sell a Liquor License: Price and Value of Liquor Licenses</h2>
+				<h2>Sell a Liquor License: Price and Value of Liquor Licenses</h2>
 			</div>
 
 
@@ -76,13 +76,13 @@ get_header(); ?>
 
 				<p class="imgp"><a href="https://liquorlicenseadvisor.dream.press/2018/08/30/how-to-acquire-a-liquor-license-liquor-license-closing/"><img class="articles-pics" src="<?php echo get_stylesheet_directory_uri(); ?>/images/stock-pics/alcohol-ale-bar-159291.jpg" data-src="https://cdn10.bostonmagazine.com/wp-content/uploads/2016/12/liquor-licenses-boston-sm.jpg" /></a></p>
 
-				<h2 style="text-align:left; font-size:19px;">How To Acquire A Liquor License &amp; Liquor License Closing</h2>
+				<h2>How To Acquire A Liquor License &amp; Liquor License Closing</h2>
 			</div>
 
 			<div class="col-sm-10 articles">
 				<p class="imgp"><a href="https://liquorlicenseadvisor.dream.press/2018/08/30/how-much-does-a-liquor-license-cost-to-buy-or-renew-in-the-united-states/"><img class="articles-pics" src="<?php echo get_stylesheet_directory_uri(); ?>/images/stock-pics/alcohol-bar-bar-cafe-1324896.jpg"  data-src="https://cdn10.bostonmagazine.com/wp-content/uploads/2016/12/liquor-licenses-boston-sm.jpg" /></a></p>
 
-				<h2 style="text-align:left; font-size:19px;">How Much Does a Liquor License Cost to Buy or Renew in the United States?</h2>
+				<h2>How Much Does a Liquor License Cost to Buy or Renew in the United States?</h2>
 			</div>
 
 
@@ -90,7 +90,7 @@ get_header(); ?>
 			<div class="col-sm-10 articles">
 				<p class="imgp"><a href="https://liquorlicenseadvisor.dream.press/2018/08/30/what-type-of-liquor-license-do-i-need-for-my-business-or-venue/"><img class="articles-pics" src="<?php echo get_stylesheet_directory_uri(); ?>/images/stock-pics/alcohol-bar-beer-1005642.jpg"  data-src="https://cdn10.bostonmagazine.com/wp-content/uploads/2016/12/liquor-licenses-boston-sm.jpg" /></a></p>
 
-				<h2 style="text-align:left; font-size:19px;">What Type of Liquor License Do I Need for My Business or Venue?</h2>
+				<h2>What Type of Liquor License Do I Need for My Business or Venue?</h2>
 			</div>
 
 			
@@ -98,7 +98,7 @@ get_header(); ?>
 			<div class="col-sm-10 articles">
 				<p class="imgp"><a href="https://liquorlicenseadvisor.dream.press/2018/08/30/liquor-license-applications-in-florida-massachusetts-new-jersey-and-pennsylvania/"><img class="articles-pics" src="<?php echo get_stylesheet_directory_uri(); ?>/images/stock-pics/alcohol-bar-beer-1089932.jpg" data-src="https://cdn10.bostonmagazine.com/wp-content/uploads/2016/12/liquor-licenses-boston-sm.jpg" /></a></p>
 
-				<h2 style="text-align:left; font-size:19px;">Liquor License Applications in Florida, Massachusetts, New Jersey, and Pennsylvania</h2>
+				<h2>Liquor License Applications in Florida, Massachusetts, New Jersey, and Pennsylvania</h2>
 
 			</div>
 
