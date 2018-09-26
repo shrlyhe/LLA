@@ -28,7 +28,7 @@
     </head>
 
     <body>
-      <nav class="navbar navbar-custom">
+      <nav class="navbar navbar-default">
         <div class="container">
         <div class="row">
          <div class="blog-masthead">
