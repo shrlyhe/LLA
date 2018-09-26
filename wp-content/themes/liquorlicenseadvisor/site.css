@@ -559,6 +559,7 @@
   width: 100%;
   white-space: nowrap;
   box-shadow: none;
+  margin: 0;
 }
 
 .navbar.navbar-default li {
@@ -571,7 +572,7 @@
   margin-left:100px;
 }
 
-.navbar.navbar-defaultli:last-child {
+.navbar.navbar-default li:last-child {
   margin-right: 100px;
 }
 
@@ -1411,34 +1412,44 @@ ul, li{
 @media (max-width: 600px) {
   .column-quote {
   float: center;
-  margin-right:auto;
-  width: 60%;
+  width: 80%;
   overflow: auto;
-  background-color: white;
-  padding: 2%;
+  background-color: none;
+  padding: 0;
   margin-left: 0;
-  margin-top: 75%;
+  margin-top: 100%;
   position: absolute;
-/*  margin-bottom: 50px;*/
 
 }
 .column-quote h3,
 .column-quote h2 {
-  font-size: 16px;
+  font-size: 18px;
 }
 
 .main {
   padding-bottom: 30px;
+  width: 100%;
+
+}
+
+#company-logos {
+  width: 100%;
+  height: 200px;
+  margin-left: 0;
+  margin-right: 0;
+  background: 100%;
+  margin-top: 2%;
+  margin-bottom: 1%;
 }
 
 #pic-dan {
-  width: 30%;
+  width: 37%;
   height: auto;
   border-radius: 90%;
-  margin-top: 40%;
+  margin-top: 55%;
   margin-left: 4%;
   margin-bottom: 15px;
-  float: left;
+  float: center;
   position: absolute;
 }
 
@@ -1617,13 +1628,14 @@ ul, li{
 
 .navbar.navbar-default li {
   padding-top: 0px;
-  margin-right: 20px;
+  margin-right: 0px;
 
 }
 
 #lla-logo { /* LLA logo image */
-  width: 230px;
-  height: 230px;
+  margin-top: 1%;
+  width: 200px;
+  height: auto;
   margin-left: 0px;
 }
 
