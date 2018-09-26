@@ -242,7 +242,7 @@
   width: 100%;
   border-bottom: 2px solid #A9A9A9;
 }
-
+/*
 .about-contact-divider:before {
   content: "";
   display: block;
@@ -250,7 +250,7 @@
   margin-left: 1%;
   border-bottom: 2px solid #A9A9A9;
 }
-
+*/
 .services h3 {
   font-weight: 500;
   font-size: 17px;
@@ -1466,7 +1466,8 @@ ul, li{
   font-size: 18px;
 }
 
-.about-overview {
+.about-overview,
+.services {
   width: 100%;
 }
 
@@ -1477,6 +1478,86 @@ ul, li{
   width: 100%;
 }
 
+.about-category {
+  float: left;
+  width: 100%;
+  padding-top: 15px;
+  padding-right: 5px;
+  padding-bottom: 45px;
+  text-align: left;
+  font-family: AvenirLTStd-Book;
+}
+
+.about-awards:before {
+  content: "";
+  display: none;
+}
+
+#team-last {
+  height:950px;
+}
+
+#offpremise-licensing {
+  width: 100%;
+  text-align: left;
+}
+
+#onpremise-licensing {
+  width: 100%;
+  text-align: left;
+}
+
+#valuation-licensing {
+  width: 100%;
+  text-align: left;
+}
+
+  .wpcf7 input[type="text"],
+  .wpcf7 input[type="email"],
+  .wpcf7 textarea {
+    background-color: #f1f1f1;
+    width: 100%; /* 100% */
+    font-size: 15px;
+    border: 6px solid #f1f1f1; 
+  }
+
+  .wpcf7 input[type="text"],
+  .wpcf7 input[type="email"] {
+    height: 38px;
+  }
+  .wpcf7 textarea {
+    height: 120px;
+  }
+
+  .wpcf7 input[type="submit"] {
+    background-color: #891b1b;
+    width: 100px;
+    float: center;
+    margin-left: 27%;
+    height: 35px;
+    color: white;
+  }
+
+  .about-contact-box {
+  float: center;
+  width: 78%;
+  height: 50%;
+  margin-left: 15%;
+  margin-bottom: 7%;
+  margin-top: 5%;
+  padding-bottom: 1%;
+  border: 2px solid #D3D3D3;
+
+}
+.begin-button {
+  width: 60%;
+  font-size: 15px;
+}
+.job { 
+  margin-top: 0px;
+  margin-bottom: 5%;
+  float: left;
+}
 
 .navbar.navbar-custom {
   font-family: DINPro-CondMedium;

@@ -36,10 +36,10 @@ get_header(); ?>
 
 
 			<!-- PEOPLE SECTION -->
-			<div class="about-awards col-sm-12" id="people">
+			<div class="about-awards col-sm-12">
 				<h1 class="about-header-meet">MEET THE TEAM</h1>
 			</div>
-			<div class="about-category col-sm-4">
+			<div class="about-category col-sm-12">
 				<img id="about-team-pics" src="<?php echo get_stylesheet_directory_uri(); ?>/images/about-dan.jpg"/>
 				<h3 id="people-name" style="color: #891b1b;">Dan Newcomb</h3>
 				<h2 style="color: #891b1b;">dan@LLAUSA.com</h2>
