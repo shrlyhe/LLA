@@ -501,6 +501,7 @@
   
   .wpcf7 input[type="text"],
   .wpcf7 input[type="email"],
+  .wpcf7 input[type="tel"],
   .wpcf7 textarea {
     background-color: #f1f1f1;
     width: 670px; /* 100% */
@@ -509,7 +510,8 @@
   }
 
   .wpcf7 input[type="text"],
-  .wpcf7 input[type="email"] {
+  .wpcf7 input[type="email"],
+  .wpcf7 input[type="tel"] {
     height: 38px;
   }
   .wpcf7 textarea {
