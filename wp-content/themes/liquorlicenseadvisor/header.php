@@ -33,7 +33,7 @@
         <div class="row">
          <div class="blog-masthead">
           <div class="contact-home-header">
-          <h3><i class="fa fa-envelope"></i><a style="color: white;"href="mailto:team@LLAUSA.com">team@LLAUSA.com</a> | <i class="fa fa-phone"></i>781.319.9800</h3>
+          <h3><i class="fa fa-envelope"></i><a style="color: white;"href="mailto:team@LLAUSA.com">team@LLAUSA.com</a> |<i class="fa fa-phone"></i>781.319.9800</h3>
            </div> 
 
            
