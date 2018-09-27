@@ -117,7 +117,7 @@
 
 .about-contact-box {
   float: center;
-  width: 67%;
+  width: 700px;
   height: 50%;
   margin-left: 15%;
   margin-bottom: 7%;
@@ -185,18 +185,18 @@
 }
 
 #offpremise-licensing {
-  width: 280px;
+  width: 30%;
   text-align: center;
 
 }
 
 #onpremise-licensing {
-  width: 470px;
+  width: 39%;
   text-align: center;
 
 }
 #valuation-licensing {
-  width: 300px;
+  width: 30%;
   text-align: center;
 }
 
@@ -475,7 +475,7 @@
     margin-bottom: 35px;
     padding-bottom: 3%;
     float:left;
-    width: 65%;
+    width: 680px;
     border: 2px solid #D3D3D3;
 
   }
@@ -495,7 +495,7 @@
 
   .wpcf7-response-output {
     font-family: AvenirLTStd-Book; 
-    width: 60%;
+    width: 183%;
     font-size: 15px;
   }
   
@@ -504,7 +504,7 @@
   .wpcf7 input[type="tel"],
   .wpcf7 textarea {
     background-color: #f1f1f1;
-    width: 670px; /* 100% */
+    width: 650px; /* 100% */
     font-size: 15px;
     border: 6px solid #f1f1f1; 
   }
@@ -620,8 +620,6 @@
   position: absolute;
   padding-bottom: 5px;
   margin-left: 210px;
-  background-color: white;
-  border-radius: 40%;
   z-index: 1;
 }
 
@@ -655,8 +653,9 @@
   height: 100%;
   overflow: none;
   padding-top: 3%;
-  padding-bottom: 1%;
-  text-align: center;
+  padding-bottom: 30px;
+  padding-left: 3%;
+  text-align: left;
   display: inline-block;
 
 }
@@ -787,12 +786,17 @@
 
 
 .top-row {
-  margin-left: 15%;
+  float: center;
+  justify-content: center;
+  text-align: center;
 
 }
 
 .bottom-row {
-  margin-bottom: 7%;
+  float: center;
+  justify-content: center;
+  text-align: center;
+  margin-bottom: 5%;
 }
 
 .get-started-button {
@@ -800,12 +804,13 @@
   font-size: 16px;
   color: white;
   text-align: center;
-  width: 250px;
+  width: 200px;
   margin-bottom: 1%;
   margin-top: 1%;
   font-size: 13px;
   height: 50px;
-  margin-right: 1%;
+  margin-right: auto;
+  margin-left:auto;
   border-color: #891b1b;
 }
 
@@ -1200,7 +1205,7 @@ input#s{
 
 .footer #footer-about {
   width: 200px;
-  margin-left: 90px;
+  margin-left: 80px;
 }
 
 .footer #footer-services {
@@ -1403,7 +1408,7 @@ ul, li{
 /*
 * MEDIA QUERIES
 */
- @media (min-width: 1050px) {
+ @media (min-width: 1300px) {
   .container {
     width: 100%;
     overflow: hidden;
@@ -1412,7 +1417,38 @@ ul, li{
   }
 }
 
-@media (max-width: 600px) {
+ @media (max-width: 1380px) and (min-width: 1000px) {
+
+
+.footer #footer-about {
+  width: 150px;
+  margin-left: 6%;
+}
+
+.footer #footer-services {
+  width: 210px;
+}
+
+.footer #footer-resources {
+  width: 240px;
+}
+.footer #footer-blog {
+  width: 220px;
+}
+.footer #footer-contact {
+  width: 250px;
+}
+.navbar.navbar-default li:last-child {
+  margin-right: 0px;
+}
+.navbar.navbar-default li {
+  margin-right: 25px;
+}
+
+}
+
+
+@media (max-width: 700px) {
   .column-quote {
   float: center;
   width: 80%;
@@ -1432,7 +1468,6 @@ ul, li{
 .main {
   padding-bottom: 30px;
   width: 100%;
-
 }
 
 #company-logos {
@@ -1506,6 +1541,10 @@ ul, li{
   font-family: AvenirLTStd-Book;
 }
 
+#about-team-pics {
+  width: 300px;
+}
+
 .about-awards:before {
   content: "";
   display: none;
@@ -1559,16 +1598,18 @@ ul, li{
     color: white;
   }
 
-  .about-contact-box {
-  float: center;
-  width: 78%;
+.about-contact-box {
+  width: 100%;
   height: 55%;
-  margin-left: 15%;
+  margin-left: 0;
   margin-bottom: 7%;
   margin-top: 5%;
   padding-bottom: 3%;
   border: 2px solid #D3D3D3;
 
+}
+#bbs {
+  width: 100%;
 }
 .begin-button {
   width: 60%;
@@ -1612,7 +1653,10 @@ ul, li{
 
 .message-box {
   padding-bottom: 3%;
+  width: 100%;
 }
+
+
 
 .social-media {
   padding-bottom: 30px;
@@ -1644,6 +1688,8 @@ ul, li{
   height: auto;
   margin-left: 0px;
 }
+
+
 
 
 }

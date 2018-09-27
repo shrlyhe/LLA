@@ -4,8 +4,9 @@
 
     <div class="col-sm-12 main">
       <div class="descriptor">
-        <a href="<?php echo get_page_link(46); ?>" style="color:white;text-decoration: none;"><button type="button" class="license-buy">BUY A LICENSE</a></button>
-        <a href="<?php echo get_page_link(14); ?>" style="color:white;text-decoration: none;"><button type="button" class="license-sell">SELL A LICENSE</a></button>
+        <a href="<?php echo get_page_link(46); ?>" style="color:white;text-decoration: none;"><button type="button" class="license-buy">BUY A LICENSE</button></a>
+
+        <a href="<?php echo get_page_link(14); ?>" style="color:white;text-decoration: none;"><button type="button" class="license-sell">SELL A LICENSE</button></a>
        
       </div>
       <div class="wrap">
@@ -22,32 +23,24 @@
     <div class="col-sm-12 client-review-title">
       <h2>CLIENT SUCCESS STORIES</h2>
     </div>
-    <div class="review-column" style="text-align: center;">
+    <div class="review-column" style="text-align: left;">
       <p>"I have worked with many brokers over the years and consider Dan and team to be the best of the best! Not only do they provide quick professional results, they stay with you throughout the process to ensure the deal moves smoothly and that both parties are satisfied. Without question, they have simplified a process that I used to consider stressful and burdensome."</p>
       <p style="text-align: right;">- Carrie Chadbourne<br>Bloomin' Brands, Inc.</p>
     </div>
 
 
     <div class="review-column">
-      <p style="text-align: center;"> "I recently hired Dan Newcomb and Atlantic License Brokers to facilitate what can only be described as an absurdly difficult all alcohol liquor license transfer.  I am not exaggerating when I say that I do not believe that anybody other than Dan and his team could have gotten this transaction completed and especially under the serious time constraints we faced.  Dan never gave up even when I was ready to myself.  If you want to hire somebody who knows the business, knows the players and knows how to get things done, you won't go wrong with Dan and his team at Atlantic." </p>
+      <p style="text-align: left;"> "I recently hired Dan Newcomb and Atlantic License Brokers to facilitate what can only be described as an absurdly difficult all alcohol liquor license transfer.  I am not exaggerating when I say that I do not believe that anybody other than Dan and his team could have gotten this transaction completed and especially under the serious time constraints we faced.  Dan never gave up even when I was ready to myself.  If you want to hire somebody who knows the business, knows the players and knows how to get things done, you won't go wrong with Dan and his team at Atlantic." </p>
       <p style="text-align: right;">- Joanne Audette, Esq.</p>
     </div>
 
 
 
     <div class="review-column">
-      <p style="text-align: center;"> "I have always found Dan Newcomb and his team to be knowledgeable, professional, efficient, and personable.  Yes, they maximize value for their clients, but they also prize the establishment and maintenance of long-term relationships and best practices within the liquor industry." </p>
+      <p style="text-align: left;"> "I have always found Dan Newcomb and his team to be knowledgeable, professional, efficient, and personable.  Yes, they maximize value for their clients, but they also prize the establishment and maintenance of long-term relationships and best practices within the liquor industry." </p>
       <p style="text-align: right;">- Gene Richard<br>Hurwitz, Richard
         & Sencabaugh LLP </p>
       </div>
-
-<!--       <div class="review-column">
-        <p style="text-align: center;"> "Dan and his team are the first – and usually only - stop when I have a client who is looking for a license or looking to sell.  They constantly review inventory in communities across the state, maintain contact with potential buyers and sellers and  stay focused on the goal of a successful license transfer from even before the offer is signed.  Their attention to detail, willingness to do any task and constant communication regarding upcoming milestones assist us in delivering the best possible result for our clients." </p>
-        <p style="text-align: right;">-  Joseph Devlin, Esq.</p>
-      </div>
-    </div> 
- -->
-
   </div>
 
   <div class="wrap">
