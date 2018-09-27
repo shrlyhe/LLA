@@ -34,6 +34,8 @@ get_header(); ?>
 				</ul>
 			</div>
 
+				<img id="company-logos" src="<?php echo get_stylesheet_directory_uri(); ?>/images/logos-about-page.png"/>  
+
 
 			<!-- PEOPLE SECTION -->
 			<div class="about-awards col-sm-12">
