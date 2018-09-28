@@ -314,7 +314,7 @@
   color: white;
   text-align: center;
   width: 38%;
-  margin-top: 50%;
+  margin-top: 45%;
   margin-right: 7%;
   height: 12%;
   border-color: #891b1b;
@@ -329,7 +329,7 @@
   width: 38%;
   padding: 0px;
   height: 12%;
-  margin-top: 40%;
+  margin-top: 45%;
   border-color: #891b1b;
   margin-right: 10%;
 
@@ -618,6 +618,7 @@
   position: absolute;
   padding-bottom: 5px;
   margin-left: 210px;
+  border-radius: 90%;
   z-index: 1;
 }
 
@@ -1408,7 +1409,7 @@ ul, li{
 */
  @media (min-width: 1300px) {
   .container {
-    width: 100%;
+    width: 1440px;
     overflow: hidden;
     display: block;
     margin: 0 auto;
