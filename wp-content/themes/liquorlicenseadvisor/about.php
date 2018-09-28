@@ -73,7 +73,7 @@ get_header(); ?>
 
 			<!-- CLIENTS SECTION -->
 			<div class="about-awards col-sm-12">
-				<h1 class="about-header-clients">REPRESENTATIVE CLIENTS</h1>
+				<h1 class="about-header">REPRESENTATIVE CLIENTS</h1>
 			</div>
 			<div class="about-category col-sm-4" id="offpremise-licensing">
 				<h3><u>Off Premise Licensing</u></h3>
@@ -92,9 +92,7 @@ get_header(); ?>
 
 			<div class="about-category col-sm-4" id="onpremise-licensing">
 				<h3><u>On Premise Licensing</u></h3>
-				<ul style="columns: 3;
-				-webkit-columns: 3;
-				-moz-columns: 3;">
+				<ul style="columns: 3;">
 				<li>Nordstroms</li>
 				<li>Dave & Buster’s</li>
 				<li>Bar Louie®</li>
