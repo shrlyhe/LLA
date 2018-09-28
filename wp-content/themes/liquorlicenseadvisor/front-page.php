@@ -25,7 +25,7 @@
     </div>
 
 
-      <div class="col-sm-12 about-contact-box">
+      <div class="col-sm-12">
         <?php if (have_posts()) : while (have_posts()) : the_post(); ?>
           <?php the_content(); ?>
         <?php endwhile; ?>
@@ -54,7 +54,7 @@
 
   <div class="wrap">
     <img id="company-logos" src="<?php echo get_stylesheet_directory_uri(); ?>/images/homepage-logos.png"/> 
- 
+ </div>
 
   <div class="get-started">
     <h2>GET STARTED</h2>

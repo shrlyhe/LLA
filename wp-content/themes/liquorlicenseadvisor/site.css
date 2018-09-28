@@ -786,14 +786,14 @@
 
 .top-row {
   float: center;
-  justify-content: center;
+/*  justify-content: center;*/
   text-align: center;
 
 }
 
 .bottom-row {
   float: center;
-  justify-content: center;
+ /* justify-content: center;*/
   text-align: center;
   margin-bottom: 5%;
 }
@@ -1409,7 +1409,7 @@ ul, li{
 */
  @media (min-width: 1300px) {
   .container {
-    width: 1440px;
+    width: 100%;
     overflow: hidden;
     display: block;
     margin: 0 auto;
@@ -1496,7 +1496,7 @@ ul, li{
 
 #company-logos {
   width: 100%;
-  height: 200px;
+  height: 300px;
   margin-left: 0;
   margin-right: 0;
   background: 100%;
