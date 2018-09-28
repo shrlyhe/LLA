@@ -23,7 +23,16 @@
     <div class="col-sm-12 client-review-title">
       <h2>CLIENT SUCCESS STORIES</h2>
     </div>
-    <div class="review-column" style="text-align: left;">
+
+
+      <div class="col-sm-12 about-contact-box">
+        <?php if (have_posts()) : while (have_posts()) : the_post(); ?>
+          <?php the_content(); ?>
+        <?php endwhile; ?>
+      <?php endif; ?>
+
+    </div>
+<!--     <div class="review-column" style="text-align: left;">
       <p>"I have worked with many brokers over the years and consider Dan and team to be the best of the best! Not only do they provide quick professional results, they stay with you throughout the process to ensure the deal moves smoothly and that both parties are satisfied. Without question, they have simplified a process that I used to consider stressful and burdensome."</p>
       <p style="text-align: right;">- Carrie Chadbourne<br>Bloomin' Brands, Inc.</p>
     </div>
@@ -41,7 +50,7 @@
       <p style="text-align: right;">- Gene Richard<br>Hurwitz, Richard
         & Sencabaugh LLP </p>
       </div>
-  </div>
+  </div> -->
 
   <div class="wrap">
     <img id="company-logos" src="<?php echo get_stylesheet_directory_uri(); ?>/images/homepage-logos.png"/> 

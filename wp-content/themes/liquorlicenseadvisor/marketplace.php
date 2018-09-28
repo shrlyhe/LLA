@@ -23,7 +23,7 @@ get_header(); ?>
 				<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
 				<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/iframe-resizer/3.5.5/iframeResizer.js"></script>
 
-				<iframe id="bbs" src="https://www.bizbuysell.com/brokerdirectory/Profile/ViewAllListings.aspx?J=b&I=35047&m_dmr=1" onload="$(window).scrollTop(0);"></iframe>
+				<iframe id="bbs" src="https://www.bizbuysell.com/brokerdirectory/Profile/ViewAllListings.aspx?J=b&I=35047&m_dmr=1" scrolling="no" style="border-style:none;width:100%;" onload="$(window).scrollTop(0);"></iframe>
 
 				<script type="text/javascript">
 					try { iFrameResize({},'#bbs'); } catch(e) {}
