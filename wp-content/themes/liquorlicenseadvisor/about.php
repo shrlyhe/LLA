@@ -33,6 +33,9 @@ get_header(); ?>
 					
 				</ul>
 			</div>
+			<div class="col-sm-12 about-header">
+				<h1>We're Proud Members Of...</h1>
+			</div>
 
 				<img id="company-logos" src="<?php echo get_stylesheet_directory_uri(); ?>/images/logos-about-page.png"/>  
 

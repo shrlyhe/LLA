@@ -52,7 +52,7 @@
       </div>
   </div> -->
 
-  <div class="wrap">
+  <div>
     <img id="company-logos" src="<?php echo get_stylesheet_directory_uri(); ?>/images/homepage-logos.png"/> 
  </div>
 
