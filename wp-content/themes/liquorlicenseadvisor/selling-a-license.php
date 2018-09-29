@@ -19,7 +19,7 @@ get_header(); ?>
 			</div>
 
 			<!-- SEARCH SECTION -->
-			<div class="col-sm-2 search">
+			<div class="col-sm-2 search-selling-license">
 				<h1> CATEGORIES </h1>
 				<a href="<?php echo get_page_link(254); ?>"><h2> Liquor License Basics </h2></a>
 				<a href="<?php echo get_page_link(261); ?>"><h2> Buying a License </h2></a>

@@ -936,7 +936,25 @@
   text-align: left;
   margin-top: 10px;
   height: 1000px;
+}
 
+.search-license-basics {
+  float: left;
+  width: 25%;
+  margin-left:auto;
+  text-align: left;
+  margin-top: 10px;
+  height: 600px;
+}
+.search-buying-license,
+.search-selling-license,
+.search-license-specifics {
+  float: left;
+  width: 25%;
+  margin-left:auto;
+  text-align: left;
+  margin-top: 10px;
+  height: 400px;
 }
 
 .blog-search {
