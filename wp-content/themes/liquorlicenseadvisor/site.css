@@ -785,15 +785,11 @@
 
 
 .top-row {
-  float: center;
-/*  justify-content: center;*/
   text-align: center;
 
 }
 
 .bottom-row {
-  float: center;
- /* justify-content: center;*/
   text-align: center;
   margin-bottom: 5%;
 }
@@ -804,8 +800,8 @@
   color: white;
   text-align: center;
   width: 200px;
-  margin-bottom: 1%;
-  margin-top: 1%;
+  margin-bottom: 10px;
+  margin-top: 10px;
   font-size: 13px;
   height: 50px;
   margin-right: auto;

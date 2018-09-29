@@ -34,7 +34,7 @@ get_header(); ?>
 				<h3>1 Snow Rd #3 <br>
 					Marshfield MA 02050<br>
 					781.319.9800<br>
-					<a style="color:black;" href="mailto:team@LLAUSA.com">team@LLAUSA.com</a><br>
+					<a style="color:black;" href="mailto:team@llausa.com">team@llausa.com</a><br>
 				</h3>
 			</div>
 
