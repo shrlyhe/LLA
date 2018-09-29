@@ -45,7 +45,7 @@
            </div>
            <div class="header">
             <ul class="nav navbar-nav">
-              <li><?php wp_list_pages( '&title_li=&exclude=21,23,25,27,29,51,53,55, 247&sort_column=menu_order' ); ?></li>
+              <li><?php wp_list_pages( '&title_li=&exclude=21,23,25,27,29,51,53,55, 247, 255&sort_column=menu_order' ); ?></li>
             </ul>
           </div>
         </div>
