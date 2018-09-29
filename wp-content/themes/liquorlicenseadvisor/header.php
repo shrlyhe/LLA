@@ -28,6 +28,8 @@
     </head>
 
     <body>
+     <div class="container">
+        <div class="row">
       <nav class="navbar navbar-default">
         <div class="container">
         <div class="row">
