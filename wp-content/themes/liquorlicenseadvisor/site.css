@@ -966,11 +966,16 @@
 
 }
 
-.search h1 {
+.search h1,
+.search-license-basics h1,
+.search-buying-license h1,
+.search-selling-license h1,
+.search-license-specifics h1 {
   font-size: 25px;
   font-weight: 500;
   padding-top: 3%;
 } 
+
 .search h2 {
   color:  #808080;
   padding-top: 1%;
@@ -1680,9 +1685,14 @@ ul, li{
   margin-bottom: 5%;
   float: left;
 }
-.search {
+.search,
+.search-license-basics,
+.search-buying-license,
+.search-selling-license,
+.search-license-specifics {
   display: none;
 }
+
 
 .articles-pics {
   width:300px;
