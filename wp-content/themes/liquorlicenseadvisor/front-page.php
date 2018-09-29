@@ -53,8 +53,8 @@
   </div> -->
 
   <div>
-    <img id="company-logos" src="<?php echo get_stylesheet_directory_uri(); ?>/images/homepage-logos.png"/> 
- </div>
+    <img id="company-logos" /> 
+  </div>
 
   <div class="get-started">
     <h2>GET STARTED</h2>
