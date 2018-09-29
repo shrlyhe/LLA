@@ -73,7 +73,7 @@ get_header(); ?>
 
 			<!-- CLIENTS SECTION -->
 			<div class="about-awards col-sm-12">
-				<h1 class="about-header">REPRESENTATIVE CLIENTS</h1>
+				<h1 id="about-header-representative">REPRESENTATIVE CLIENTS</h1>
 			</div>
 			<div class="about-category col-sm-4" id="offpremise-licensing">
 				<h3><u>Off Premise Licensing</u></h3>
