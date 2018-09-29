@@ -957,15 +957,6 @@
   height: 400px;
 }
 
-.blog-search {
-  margin-top:20px;
-  float: left;
-  width: 300px;
-  margin-left:auto;
-  text-align: left;
-
-}
-
 .search h1,
 .search-license-basics h1,
 .search-buying-license h1,
@@ -976,11 +967,16 @@
   padding-top: 3%;
 } 
 
-.search h2 {
+.search h2,
+.search-license-basics h2,
+.search-buying-license h2,
+.search-selling-license h2,
+.search-license-specifics h2 {
   color:  #808080;
   padding-top: 1%;
   font-size: 18px;
 }
+
 .resources-articles {
   font-family: AvenirLTStd-Book;
   margin-right: auto;
