@@ -148,7 +148,7 @@ get_header(); ?>
 		<div class="get-in-touch">
 			<div class="about-awards col-sm-12" id="">
 				<h1 class="about-header-meet">GET IN TOUCH</h1>
-				<h2>If you have initial questions about <a style="font-weight:bold; color: black;"<?php echo get_page_link(8); ?>">our services</a> or <a style="font-weight:bold; color: black;"href="<?php echo get_page_link(46); ?>">current listings</a>, we'd love to hear from you.</h2>
+				<h2>If you have initial questions about <a style="font-weight:bold; color: black;"href="<?php echo get_page_link(8); ?>">our services</a> or <a style="font-weight:bold; color: black;"href="<?php echo get_page_link(46); ?>">current listings</a>, we'd love to hear from you.</h2>
 			</div>
 			
 
