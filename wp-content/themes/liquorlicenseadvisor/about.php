@@ -27,6 +27,7 @@ get_header(); ?>
 					<h3><li><a href="<?php echo get_page_link(21); ?>" style="color:black">License Attorneys</a></li></h3>
 					<h3><li><a href="<?php echo get_page_link(23); ?>" style="color:black">License Professionals</a></li></h3>
 					<h3><li><a href="<?php echo get_page_link(27); ?>" style="color:black">Franchise Developers</a></li></h3>
+					<h3><li><a href="<?php echo get_page_link(); ?>" style="color:black">Landlords</a></li></h3>
 					<h3><li><a href="<?php echo get_page_link(55); ?>" style="color:black">Lenders</a></li></h3>
 					<h3><li><a href="<?php echo get_page_link(29); ?>" style="color:black">Liquor Store Owners</a></li></h3>
 					<h3><li><a href="<?php echo get_page_link(53); ?>" style="color:black">Restaurant Owners</a></li></h3>
