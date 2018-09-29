@@ -1,7 +1,7 @@
 <?php 
 
 /** Template Name: Liquor License Basics Page
- * 
+ * description: Liquor License Basics page for LLA
  */
 
 get_header(); ?>
