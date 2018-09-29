@@ -21,26 +21,26 @@ get_header(); ?>
 			<!-- SEARCH SECTION -->
 			<div class="col-sm-2 search">
 				<h1> CATEGORIES </h1>
-				<a href=#><h2> Liquor License Basics </h2></a>
-				<a href=#><h2> Buying a License </h2></a>
-				<a href=#><h2> Selling a License </h2></a>
-				<a href=#><h2> Liquor License Specifics</h2></a>
+				<a href="<?php echo get_page_link(254); ?>"><h2> Liquor License Basics </h2></a>
+				<a href="<?php echo get_page_link(261); ?>"><h2> Buying a License </h2></a>
+				<a href="<?php echo get_page_link(263); ?>"><h2> Selling a License </h2></a>
+				<a href="<?php echo get_page_link(266); ?>"><h2> Liquor License Specifics</h2></a>
 			</div>
 
 
 
-		<div class="resources-articles">
+			<div class="resources-articles">
 
 
-			<div class="col-sm-10 articles">
-				<p class="imgp"><a href="https://liquorlicenseadvisor.dream.press/2018/08/30/the-process-of-buying-a-liquor-license-in-the-united-states/"><img class="articles-pics" src="<?php echo get_stylesheet_directory_uri(); ?>/images/stock-pics/alcohol-alcohol-bottles-bar-372959.jpg"  data-src="https://cdn10.bostonmagazine.com/wp-content/uploads/2016/12/liquor-licenses-boston-sm.jpg" /></a></p>
+				<div class="col-sm-10 articles">
+					<p class="imgp"><a href="https://liquorlicenseadvisor.dream.press/2018/08/30/the-process-of-buying-a-liquor-license-in-the-united-states/"><img class="articles-pics" src="<?php echo get_stylesheet_directory_uri(); ?>/images/stock-pics/alcohol-alcohol-bottles-bar-372959.jpg"  data-src="https://cdn10.bostonmagazine.com/wp-content/uploads/2016/12/liquor-licenses-boston-sm.jpg" /></a></p>
 
-				<a href="https://liquorlicenseadvisor.dream.press/2018/08/30/the-process-of-buying-a-liquor-license-in-the-united-states/" style="color:black;"><h2>The Process of Buying a Liquor License in the United States</a></h2>
-			</div>		
+					<a href="https://liquorlicenseadvisor.dream.press/2018/08/30/the-process-of-buying-a-liquor-license-in-the-united-states/" style="color:black;"><h2>The Process of Buying a Liquor License in the United States</a></h2>
+				</div>		
 
+			</div>
 		</div>
 	</div>
-</div>
 
 
 </div>

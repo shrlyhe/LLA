@@ -21,12 +21,11 @@ get_header(); ?>
 			<!-- SEARCH SECTION -->
 			<div class="col-sm-2 search">
 				<h1> CATEGORIES </h1>
-				<a href=#><h2> Liquor License Basics </h2></a>
-				<a href=#><h2> Buying a License </h2></a>
-				<a href=#><h2> Selling a License </h2></a>
-				<a href=#><h2> Liquor License Specifics</h2></a>
+				<a href="<?php echo get_page_link(254); ?>"><h2> Liquor License Basics </h2></a>
+				<a href="<?php echo get_page_link(261); ?>"><h2> Buying a License </h2></a>
+				<a href="<?php echo get_page_link(263); ?>"><h2> Selling a License </h2></a>
+				<a href="<?php echo get_page_link(266); ?>"><h2> Liquor License Specifics</h2></a>
 			</div>
-
 
 			<!-- ARTICLES SECTION -->	
 <!-- 			<div class="resources-articles">
