@@ -18,7 +18,7 @@ get_header(); ?>
 
 		<div class="col-sm-8 services">
 
-			<h1>FRANCHISE DEVELOPERS</h1>
+			<h1>FRANCHISE DEVELOPER</h1>
 
 
 			<h3> When a franchise developer has to secure a liquor license for a franchisee, they can turn to us to help them identify which license type they need. Many developers are in the tricky situation of needing both a lease and a liquor license, and the question is, which comes first? We can help them coordinate that process and budget correctly for their license. We also work with franchise developers to create a realistic timeline so both landlords and license sellers are satisfied. </h3>
@@ -39,7 +39,7 @@ get_header(); ?>
 
 					<a href="<?php echo get_page_link(27); ?>" style="color:white"><button type="button" class="specific">FRANCHISE DEVELOPER</button></a>
 
-					<a href="<?php echo get_page_link(); ?>" style="color:white"><button type="button" class="specific">LANDLORD</button></a>
+				<!-- 	<a href="<?php echo get_page_link(); ?>" style="color:white"><button type="button" class="specific">LANDLORD</button></a> -->
 
 					<a href="<?php echo get_page_link(55); ?>" style="color:white"><button type="button" class="specific">LENDER</button></a>
 

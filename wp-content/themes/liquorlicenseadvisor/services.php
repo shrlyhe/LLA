@@ -41,7 +41,7 @@ get_header(); ?>
 
 					<a href="<?php echo get_page_link(27); ?>" style="color:white"><button type="button" class="specific">FRANCHISE DEVELOPER</button></a>
 
-					<a href="<?php echo get_page_link(); ?>" style="color:white"><button type="button" class="specific">LANDLORD</button></a>
+				<!-- 	<a href="<?php echo get_page_link(); ?>" style="color:white"><button type="button" class="specific">LANDLORD</button></a> -->
 
 					<a href="<?php echo get_page_link(55); ?>" style="color:white"><button type="button" class="specific">LENDER</button></a>
 

@@ -18,7 +18,7 @@ get_header(); ?>
 
 		<div class="col-sm-8 services">
 
-			<h1>LIQUOR STORE OWNERS</h1>
+			<h1>LIQUOR STORE OWNER</h1>
 
 
 			<h3> Most liquor store owners come to us when they’re looking to expand their ventures because we have an intimate knowledge of the current market and the plethora of unique challenges that arise from owning a liquor store in particular states or municipalities.</h3>

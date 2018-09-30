@@ -18,7 +18,7 @@ get_header(); ?>
 
 		<div class="col-sm-8 services">
 
-			<h1>LICENSE ATTORNEYS</h1>
+			<h1>LICENSE ATTORNEY</h1>
 
 
 			<h3> Over the years, we’ve worked with many attorneys who have leaned on our expertise of the detailed processes of liquor licensing to create deals quickly and efficiently.
@@ -47,7 +47,7 @@ get_header(); ?>
 
 					<a href="<?php echo get_page_link(27); ?>" style="color:white"><button type="button" class="specific">FRANCHISE DEVELOPER</button></a>
 
-					<a href="<?php echo get_page_link(); ?>" style="color:white"><button type="button" class="specific">LANDLORD</button></a>
+				<!-- 	<a href="<?php echo get_page_link(); ?>" style="color:white"><button type="button" class="specific">LANDLORD</button></a> -->
 
 					<a href="<?php echo get_page_link(55); ?>" style="color:white"><button type="button" class="specific">LENDER</button></a>
 

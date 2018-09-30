@@ -18,7 +18,7 @@ get_header(); ?>
 
 		<div class="col-sm-8 services">
 
-			<h1>LENDERS</h1>
+			<h1>LENDER</h1>
 
 
 			<h3> Lenders come to us for our consulting services, where we help them understand the market value of their licenses on an annual basis. We work closely with them to assess license values and identify various valuations. <br><br> Our connections with lenders are mutually beneficial for both the lenders themselves and the clients we help who are securing liquor licenses. </h3>
@@ -39,7 +39,7 @@ get_header(); ?>
 
 					<a href="<?php echo get_page_link(27); ?>" style="color:white"><button type="button" class="specific">FRANCHISE DEVELOPER</button></a>
 
-					<a href="<?php echo get_page_link(); ?>" style="color:white"><button type="button" class="specific">LANDLORD</button></a>
+				<!-- 	<a href="<?php echo get_page_link(); ?>" style="color:white"><button type="button" class="specific">LANDLORD</button></a> -->
 
 					<a href="<?php echo get_page_link(55); ?>" style="color:white"><button type="button" class="specific">LENDER</button></a>
 
