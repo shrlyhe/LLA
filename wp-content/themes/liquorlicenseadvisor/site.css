@@ -1492,22 +1492,22 @@ ul, li{
 }
 
 .footer #footer-about {
-  width: 140px;
+  width: 15%;
   margin-left: 0;
 }
 
 .footer #footer-services {
-  width: 180px;
+  width: 17%;
 }
 
 .footer #footer-resources {
-  width: 240px;
+  width: 20%;
 }
 .footer #footer-blog {
-  width: 200px;
+  width: 20%;
 }
 .footer #footer-contact {
-  width: 200px;
+  width: 20%;
 }
 .footer:after {
   content: "";
