@@ -1654,6 +1654,7 @@ ul, li{
 
 #about-team-pics {
   width: 300px;
+  margin:0 auto;
 }
 
 .about-awards:before {
