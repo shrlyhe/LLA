@@ -9,7 +9,7 @@
   <meta name="author" content="">
 
 
-  <title>LLA</title>
+  <title>Liquor License Advisor</title>
   <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet">
   <link href='http://fonts.googleapis.com/css?family=Lato:400,700' rel='stylesheet' type='text/css'>
   <link href="<?php echo get_bloginfo( 'template_directory' );?>/site.css" rel="stylesheet">

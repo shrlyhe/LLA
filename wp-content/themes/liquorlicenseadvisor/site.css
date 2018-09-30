@@ -822,12 +822,15 @@
 
 .top-row {
   text-align: center;
+  margin:0 auto;
 
 }
 
 .bottom-row {
   text-align: center;
   margin-bottom: 5%;
+  margin-left:auto;
+  margin-right:auto;
 }
 
 .get-started-button {
@@ -835,7 +838,7 @@
   font-size: 16px;
   color: white;
   text-align: center;
-  width: 200px;
+  width: 213px;
   margin-bottom: 10px;
   margin-top: 10px;
   font-size: 13px;
