@@ -34,7 +34,7 @@ get_header(); ?>
 					
 				</ul>
 			</div>
-			<div class="col-sm-12 about-header">
+			<div class="col-sm-12 about-header-members">
 				<h1>We're Proud Members Of...</h1>
 			</div>
 

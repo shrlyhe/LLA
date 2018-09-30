@@ -70,6 +70,13 @@
   text-decoration: underline;
 }
 
+.about-header-members {
+  float:center;
+  margin-top: 1%;
+  margin-bottom: -10px;
+  text-decoration: underline;
+}
+
 .about-header-meet,
 .about-header-clients {
   float:center;
@@ -98,7 +105,7 @@
   margin-top:10px;
   margin-left:auto;
   margin-right: auto;
-  margin-bottom: 50px;
+  margin-bottom: 20px;
   text-align: left;
   float: left;
   width: 62%;
@@ -1681,6 +1688,11 @@ ul, li{
   content: "";
   display: none;
 }
+
+.about-header-members {
+  margin-bottom: 2%;
+}
+
 
 
 #team-last {
