@@ -1753,7 +1753,7 @@ ul, li{
   border: 2px solid #D3D3D3;
 
 }
-#bbs {
+.marketplace #bbs {
   width: 100%;
   border-style: none;
 }
