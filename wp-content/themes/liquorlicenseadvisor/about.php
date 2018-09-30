@@ -38,7 +38,7 @@ get_header(); ?>
 				<h1>We're Proud Members Of...</h1>
 			</div>
 
-				<img id="company-logos" src="<?php echo get_stylesheet_directory_uri(); ?>/images/logos-about-page.png"/>  
+				<img id="company-logos-members" />  
 
 
 			<!-- PEOPLE SECTION -->

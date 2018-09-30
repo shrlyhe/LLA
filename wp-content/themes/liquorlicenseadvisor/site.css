@@ -694,6 +694,18 @@
   content:url("images/homepage-logos.png");
 }
 
+#company-logos-members {
+  width: 100%;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+  background: 100%;
+  margin-top: 2%;
+  margin-bottom: 1%;
+  border-right: 1px solid white;
+  content:url("images/logos-about-page.png");
+}
+
 #hilton-logo {
   height: 100px;
   width: 130px;
@@ -1567,6 +1579,17 @@ ul, li{
   content:url("images/homepage-logos-mobile.png");
 }
 
+#company-logos-members {
+  width: 100%;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+  background: 100%;
+  margin-top: 2%;
+  margin-bottom: 1%;
+  content:url("images/logos-about-page.png");
+}
+
 #pic-dan {
   width: 30%;
   height: auto;
@@ -1623,9 +1646,7 @@ ul, li{
   width: 100%;
   padding-top: 15px;
   padding-right: 5px;
-  padding-bottom: 45px;
-  text-align: left;
-  font-family: AvenirLTStd-Book;
+  padding-bottom: 10%;
 }
 
 #about-team-pics {
@@ -1637,8 +1658,10 @@ ul, li{
   display: none;
 }
 
+
 #team-last {
-  height:950px;
+  margin-bottom: 3%;
+  height: 960px;
 }
 
 #offpremise-licensing {
@@ -1699,14 +1722,21 @@ ul, li{
   border-style: none;
 }
 .begin-button {
-  width: 60%;
+  width: 100%;
   font-size: 15px;
+  margin-left:auto;
+  margin-right: auto;
 }
+
 .job { 
   margin-top: 0px;
   margin-bottom: 5%;
-  float: left;
+  text-align: center;
+  margin-right: auto;
+  margin-left:auto;
+  width: 100%;
 }
+
 .search,
 .search-license-basics,
 .search-buying-license,
