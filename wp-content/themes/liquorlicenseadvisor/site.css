@@ -1324,8 +1324,8 @@ ul, li{
   margin-right: 200px;
   margin-top: 70px;
   border-bottom: 2px solid #D3D3D3;
-
 }
+
 .fa {
   padding: 20px;
   padding: 10px 9px 0px 9px;
@@ -1473,27 +1473,42 @@ ul, li{
 
  @media (max-width: 1380px) {
 
+  .container {
+    width: 100%;
+    overflow: hidden;
+    display: block;
+    margin: 0 auto;
+  }
+
 #lla-logo { /* LLA logo image */
   margin-left: 0px;
 }
 
 .footer #footer-about {
-  width: 150px;
+  width: 140px;
   margin-left: 0;
 }
 
 .footer #footer-services {
-  width: 210px;
+  width: 180px;
 }
 
 .footer #footer-resources {
   width: 240px;
 }
 .footer #footer-blog {
-  width: 220px;
+  width: 200px;
 }
 .footer #footer-contact {
-  width: 250px;
+  width: 200px;
+}
+.footer:after {
+  content: "";
+  display: inline-block;
+  width: 100%;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 70px;
 }
 .navbar.navbar-default li:last-child {
   margin-right: 0px;
@@ -1501,6 +1516,11 @@ ul, li{
 .navbar.navbar-default li {
   margin-right: 25px;
 }
+
+.social-media {
+  padding-left: 0px;
+}
+
 
 }
 
