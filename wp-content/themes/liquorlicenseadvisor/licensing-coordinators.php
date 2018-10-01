@@ -34,24 +34,20 @@ get_header(); ?>
 		<div class="col-sm-4 job">
 			<div class="services-buttons">
 				<h2>WHAT YOU DO</h2>
-<!-- 
-					<a href="<?php echo get_page_link(51); ?>" style="color:white"><button type="button" class="specific">LICENSING BASICS</button></a> -->
 
-					
 					<a href="<?php echo get_page_link(21); ?>" style="color:white"><button type="button" class="specific">LIQUOR LICENSING ATTORNEY</button></a>
 
-					<a href="<?php echo get_page_link(23); ?>" style="color:white"><button type="button" class="specific">LICENSE PROFESSIONAL</button></a>
+					<a href="<?php echo get_page_link(23); ?>" style="color:white"><button type="button" class="specific">LICENSE COORDINATOR & MANAGER</button></a>
 
 
 					<a href="<?php echo get_page_link(27); ?>" style="color:white"><button type="button" class="specific">FRANCHISE DEVELOPER</button></a>
 
-				<!-- 	<a href="<?php echo get_page_link(); ?>" style="color:white"><button type="button" class="specific">LANDLORD</button></a> -->
 
 					<a href="<?php echo get_page_link(55); ?>" style="color:white"><button type="button" class="specific">LENDER</button></a>
 
 					<a href="<?php echo get_page_link(29); ?>" style="color:white"><button type="button" class="specific">LIQUOR STORE OWNER</button></a>
 
-					<a href="<?php echo get_page_link(53); ?>" style="color:white"><button type="button" class="specific">RESTAURANT OWNER</button></a>
+					<a href="<?php echo get_page_link(53); ?>" style="color:white"><button type="button" class="specific">RESTAURANT, BAR, HOTEL OWNER</button></a>
 
 			</div>
 
