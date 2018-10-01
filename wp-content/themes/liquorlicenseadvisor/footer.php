@@ -47,7 +47,7 @@
         <div class="social-media">
           <a href="https://twitter.com/LiquorAdvisor" target="_blank" class="fa fa-twitter"></a>
           <a href="https://www.facebook.com/Liquor-License-Advisor-282320729178768/" target="_blank" class="fa fa-facebook"></a>
-          <a href="https://www.linkedin.com/company/atlantic-license-brokers/" target="_blank" class="fa fa-linkedin"></a>
+          <a href="https://www.linkedin.com/company/atlantic-license-brokers/" target="_blank" class="fa fa-linkedin"></a> 
           <h3 class="rights-reserved">2018 Liquor License Advisor USA All rights reserved<br>This website is designed by <a href="https://www.roguesunday.com/" target="_blank">Rogue Sunday</a></h3>
         </div>
 
