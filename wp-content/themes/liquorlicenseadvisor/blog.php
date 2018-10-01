@@ -19,9 +19,10 @@ get_header(); ?>
 			<div class="blog-section">
 
 				<div class="blog-section-inner">
-					<h2>How Can I Tell If a Liquor License Is Fake?</h2>
-					<h3>Whether you’re looking into buying or selling a liquor license for the first time or dealing with your millionth sale, there’s always one question in the back of your mind: How can you know if a liquor license is real or fake? We get it: Buying and selling a liquor license can be tough—and often there’s a lot of money on the table, particularly if you’re in a state with a quota.</h3>
-					<a href="https://liquorlicenseadvisor.dream.press/2018/08/29/how-can-i-tell-if-a-liquor-license-is-fake/"><button type="button" class="read-more-button">READ MORE</button></a>
+					<h2>3 Ways a Liquor License Broker Makes an Attorney’s Job Easier</h2>
+					<h3>Over our many years of business, we’ve worked with numerous attorneys to make their journey through the liquor licensing process easier.
+Attorneys who are new to what we do often ask why it’s necessary to have a liquor license broker; what they often find, however, is that our services go far beyond just finding a buyer or seller. </h3>
+					<a href="https://liquorlicenseadvisor.dream.press/2018/08/29/3-ways-a-liquor-license-broker-makes-an-attorneys-job-easier/"><button type="button" class="read-more-button">READ MORE</button></a>
 				</div>
 			</div>
 		</div> 
