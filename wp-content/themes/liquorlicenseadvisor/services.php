@@ -16,15 +16,12 @@ get_header(); ?>
 		</div>
 			<div class="col-sm-8 services">
 			<h1>WHAT WE DO</h1>
-				<h3> When you need to buy or sell a liquor license, we’re here to troubleshoot and solve the problems that others don’t necessarily have the time or the expertise to work through. Not only are we fluent in the ins and outs of licensing lingo, transaction processes, fees, and more, but we can also offer additional help understanding complex licensing areas like quotas and zoning.
-					<br><br>
-
-					Often, we collaborate with a number of stakeholders including attorneys, licensing coordinators and managers, franchise developers, food and beverage establishment owners, liquor store owners, lenders, and others to streamline and simplify the process. Whether they want to buy or sell a license, our clients come back to us time and again for our creative problem-solving, ever-expanding expertise, and reliability, all within the context of a particular state and municipality’s licensing laws.
-					<br><br>
-
-					Building on years of experience in the world of liquor licensing, we pride ourselves on being knowledgeable and resourceful. We will leave no stone unturned when it comes to securing you the licensing deal you want and need.
-					<br><br>
-				</h3>
+				<h3> When you need to buy or sell a liquor license, we’re here to provide you with an easy to understand, step-by-step process to assist you in learning more about liquor licenses. Not only will our team provide you with current liquor license market data and values to help you establish a realistic budget, but we will also coach you through the process of aquiring or selling a license, the precise timing and the anticipated challenges that can expect along the way. You see, we have been through this more than a thousand times!
+				<br><br>
+				Look, there is a lot at stake here! If you've never bought or sold a liquor license, you're going to need advice on how to proceed. Feeling confused and concerned about liquor license prices is the normal reaction we expect from some of our new clients. Our team will give it to you straight and even refer you to an attorney who specializes in liquor licensing (a must have) where you can get the legal assistance that you require.
+				<br><br>
+				Our team's knowledge and experience from decades of assisting people pull off their dream of opening a restaurant, bar, or liquor store will leave you feeling even more confident as you move your project forward. 
+				<br><br></h3>
 				<a href="<?php echo get_page_link(14); ?>"><button type="button" class="begin-button" style="color:black">NEED HELP? CONNECT WITH LIQUOR LICENSE ADVISOR NOW</button></a>
 			</div>
 
