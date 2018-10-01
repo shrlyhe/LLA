@@ -153,6 +153,8 @@
 
 .about-service {
   margin-top: 10px;
+  margin-left: auto;
+  margin-right: auto;
   padding-left: 12%;
   float: center;
   width: 38%;
@@ -175,6 +177,8 @@
 .about-service h2 {
   font-size: 18px;
   font-weight: 700;
+  margin-left: 15%;
+/*  text-align: center;*/
 }
 
 .about-category {
@@ -855,6 +859,20 @@ font-size: 18px;
   width: 213px;
   margin-bottom: 10px;
   margin-top: 10px;
+  font-size: 13px;
+  height: 50px;
+  margin-right: auto;
+  margin-left:auto;
+  border-color: #891b1b;
+}
+
+.get-started-button-about {
+  background-color:#891b1b;
+  font-size: 18px;
+  color: white;
+  text-align: center;
+  width: 213px;
+  margin-top: 5px;
   font-size: 13px;
   height: 50px;
   margin-right: auto;

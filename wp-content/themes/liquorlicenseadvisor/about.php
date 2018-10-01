@@ -28,13 +28,15 @@ get_header(); ?>
 			<div class="col-sm-2 about-service">
 				<h2>WHO YOU ARE</h2>
 				<ul>
-					<h3><li><a href="<?php echo get_page_link(21); ?>" style="color:black">License Attorney</a></li></h3>
-					<h3><li><a href="<?php echo get_page_link(23); ?>" style="color:black">License Professional</a></li></h3>
-					<h3><li><a href="<?php echo get_page_link(27); ?>" style="color:black">Franchise Developer</a></li></h3>
+ <!--  <a href="<?php echo get_page_link(55); ?>" ><button type="button" class="get-started-button">LENDERS</button></a> -->
+
+					<h3><li><a href="<?php echo get_page_link(21); ?>" style="color:black"><button type="button" class="get-started-button-about">License Attorney</button></a></li></h3>
+					<h3><li><a href="<?php echo get_page_link(23); ?>" style="color:black"><button type="button" class="get-started-button-about">License Professional</button></a></li></h3>
+					<h3><li><a href="<?php echo get_page_link(27); ?>" style="color:black"><button type="button" class="get-started-button-about">Franchise Developer</button></a></li></h3>
 				<!-- 	<h3><li><a href="<?php echo get_page_link(); ?>" style="color:black">Landlord</a></li></h3> -->
-					<h3><li><a href="<?php echo get_page_link(55); ?>" style="color:black">Lender</a></li></h3>
-					<h3><li><a href="<?php echo get_page_link(29); ?>" style="color:black">Liquor Store Owner</a></li></h3>
-					<h3><li><a href="<?php echo get_page_link(53); ?>" style="color:black">Restaurant Owner</a></li></h3>
+					<h3><li><a href="<?php echo get_page_link(55); ?>" style="color:black"><button type="button" class="get-started-button-about">Lender</button></a></li></h3>
+					<h3><li><a href="<?php echo get_page_link(29); ?>" style="color:black"><button type="button" class="get-started-button-about">Liquor Store Owner</button></a></li></h3>
+					<h3><li><a href="<?php echo get_page_link(53); ?>" style="color:black"><button type="button" class="get-started-button-about">Restaurant Owner</button></a></li></h3>
 					
 				</ul>
 			</div>
