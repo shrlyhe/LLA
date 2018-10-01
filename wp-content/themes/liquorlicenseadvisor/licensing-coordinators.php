@@ -21,7 +21,7 @@ get_header(); ?>
 			<h1>CORPORATE LICENSING MANAGER</h1>
 
 
-			<h3>Whether you company is a national restaurant chain operating in a quota state or a retail brand operating across the US, you can expect quick, professional results from our team!  We understand the pressure your under and the demands that the CEO, CFO, Operations, Legal and Construction have on your dwindling department.  They want answers yesterday and results today.  As your department’s resources are continuously strapped, the demand for results are increasing.
+			<h3>Whether your company is a national restaurant chain operating in a quota state or a retail brand operating across the US, you can expect quick, professional results from our team!  We understand the pressure your under and the demands that the CEO, CFO, Operations, Legal and Construction have on your dwindling department.  They want answers yesterday and results today.  As your department’s resources are continuously strapped, the demand for results are increasing.
 			<br><br>  
 			Liquor License Advisor has been assisting corporate clients by providing market values, license availability, brokerage services and strategy for more than 2 decades.  Our systems, processes and vast network of brokers and attorneys provide you with the resources that you need to support your company’s liquor license objectives.  Whether you need data to support a store closing in Massachusetts, or market values to determine a budget on a new location in Pennsylvania, New Jersey or Florida, or a quote for compiling a chain market valuation report for year end, our team will own the project from start to finish!  
 			<br><br>
