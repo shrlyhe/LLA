@@ -18,16 +18,16 @@ get_header(); ?>
 
 		<div class="col-sm-8 services">
 
-			<h1>LICENSE ATTORNEY</h1>
+			<h1>LIQUOR LICENSING ATTORNEY</h1>
 
 
-			<h3> Over the years, we’ve worked with many attorneys who have leaned on our expertise of the detailed processes of liquor licensing to create deals quickly and efficiently.
+			<h3> Our team understands the demands put on your by your liquor licensing clients! We have worked on thousands of liquor license transactions with many of the top licensing attorneys in the country. More often than not, they call us early on to provide current market value and license availability information so as to be better prepared for their next call with the client. Our commitment to deliver accurate information in a timely manner is why we continue to be a valuable resource for the best attorneys. 
 			<br><br>
-
-			In partnering with attorneys, we act as a valuable resource to help them to make decisions and give their clients answers in addition to ensuring that every step of buying or selling a license goes smoothly. For many of the attorneys we work with, this includes providing insights on municipal systems, making sure all parties are aware of liquor license-specific laws, and finding solutions to overcome legal challenges.
+			Solving your client's liquor licensing challenge is where we add the most value. Whether your client is looking to license a retail liquor store or a national restaurant chain headed to bankruptcy, we can provide liquor license intelligence and creative solutions to satisfy your client's needs. 
 			<br><br>
-
-			In addition, for bankruptcy attorneys who are in charge of license assets, we can act as a strong partner to help you liquidate liquor licenses. Instead of going through the hassle of an auction, we can identify a willing, qualified buyer.
+			Attorneys trust us to do complete work from start to finish. Each transation that we are engaged is diligently pursued by our team of professionals to ensure that the transaction is completed within the prescribed timeline. Our coordinators manage a process to keep everyone informed of next steps, due dates and the status of each transaction. Often times, we are designated as POA to resolve tax and other issues that come up frequently. Whatever the challenge, our resourcefulness, experience, and ability to get things done will keep the transaction moving towards closing.
+			<br><br>
+			A list of attorney references are available. Call us today!
 			<br><br>
 			</h3>
 			<a href="<?php echo get_page_link(14); ?>"><button type="button" class="begin-button" style="color:black">NEED HELP? CONNECT WITH LIQUOR LICENSE ADVISOR NOW</button></a>
@@ -40,7 +40,7 @@ get_header(); ?>
 					<a href="<?php echo get_page_link(51); ?>" style="color:white"><button type="button" class="specific">LICENSING BASICS</button></a> -->
 
 					
-					<a href="<?php echo get_page_link(21); ?>" style="color:white"><button type="button" class="specific">LICENSE ATTORNEY</button></a>
+					<a href="<?php echo get_page_link(21); ?>" style="color:white"><button type="button" class="specific">LIQUOR LICENSING ATTORNEY</button></a>
 
 					<a href="<?php echo get_page_link(23); ?>" style="color:white"><button type="button" class="specific">LICENSE PROFESSIONAL</button></a>
 

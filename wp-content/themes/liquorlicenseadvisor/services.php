@@ -34,7 +34,7 @@ get_header(); ?>
 <!-- 
 					<a href="<?php echo get_page_link(51); ?>" style="color:white"><button type="button" class="specific">LICENSING BASICS</button></a> -->
 
-					<a href="<?php echo get_page_link(21); ?>" style="color:white"><button type="button" class="specific">LICENSE ATTORNEY</button></a>
+					<a href="<?php echo get_page_link(21); ?>" style="color:white"><button type="button" class="specific">LIQUOR LICENSING ATTORNEY</button></a>
 
 					<a href="<?php echo get_page_link(23); ?>" style="color:white"><button type="button" class="specific">LICENSE PROFESSIONAL</button></a>
 
