@@ -21,7 +21,11 @@ get_header(); ?>
 			<h1>LIQUOR STORE OWNER</h1>
 
 
-			<h3> Most liquor store owners come to us when they’re looking to expand their ventures because we have an intimate knowledge of the current market and the plethora of unique challenges that arise from owning a liquor store in particular states or municipalities.</h3>
+			<h3>Liquor store owners come to us when they want to sell one of their existing stores or buy a new store to grow their business and support their family.  Whether it is a full liquor store, a convenience store or an interest in one of our “store inside a store” programs with one of our supermarket/retail partners, we are experts in the process and understand the economics of liquor stores.  Locating stores for sale through our network is a program that we offer to some of our clients on a “fee based” project basis.  We’re not cheap, but our clients realize the value in having us develop a strategy and searching the market identifying the right store.
+			<br><br>
+			When you are ready to sell, you call on us to provide a comprehensive marketing program that will result in the sale of your store at the highest possible price, to a buyer that will be approved by the local licensing board and the ABCC.  We have buyers ready to buy now! 
+			<br><br>
+			If you are considering selling your liquor store or liquor license, connect with Liquor License Advisor to discuss the price that buyers will pay you!</h3>
 			<a href="<?php echo get_page_link(14); ?>"><button type="button" class="begin-button" style="color:black">NEED HELP? CONNECT WITH LIQUOR LICENSE ADVISOR NOW</button></a>
 		</div>
 
