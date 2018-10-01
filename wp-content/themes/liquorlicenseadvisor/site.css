@@ -503,6 +503,10 @@
     border: 2px solid #D3D3D3;
 
   }
+
+  .contact-box-mobile {
+    display: none;
+  }
   .contact-box-info {
     width: 280px;
     float: right;
@@ -1687,6 +1691,11 @@ ul, li{
 
 }
 
+.blog-section,
+.blog-main {
+  display:none;
+}
+
 
 #about-team-pics {
   width: 100%;
@@ -1763,6 +1772,22 @@ ul, li{
   border: 2px solid #D3D3D3;
 
 }
+
+.contact-box-info {
+  display: none;
+
+}
+
+  .contact-box-mobile {
+    display: inline;
+    width: 280px;
+    float: right;
+  }
+
+  .contact-box-mobile h3 {
+    font-size: 17px;
+
+  }
 .marketplace #bbs {
   width: 100%;
   border-style: none;
