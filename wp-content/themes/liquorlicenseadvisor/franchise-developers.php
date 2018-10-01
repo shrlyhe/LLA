@@ -21,7 +21,7 @@ get_header(); ?>
 			<h1>FRANCHISE DEVELOPER</h1>
 
 
-			<h3> When a franchise developer has to secure a liquor license for a franchisee, they can turn to us to help them identify which license type they need. Many developers are in the tricky situation of needing both a lease and a liquor license, and the question is, which comes first? We can help them coordinate that process and budget correctly for their license. We also work with franchise developers to create a realistic timeline so both landlords and license sellers are satisfied. </h3>
+			<h3> Franchise developers turn to Liquor License Advisor to quickly identify available license, and determine timelines and budgets that fit the requirement of ther brand. Our team stragegizes with franchise development teams to determine timelines that satisfy their lease contigencies and provide referrals to attorneys that specialize in liquor licensing so we can get the franchise open on time. Securing a liquor license for a franchisee while satisfying a lease contigency is difficult in any market, but to be able to pull it off in a quota state or a hot market like Boston, Short Hills or Buck's County requires a strategic approach and a team that knows how to get it done, even in a challenging environment. We have worked on projects for most franchise systems in restaurant, hotel and retail, including Marriott, Hilton, 7-Eleven, and Taco Bell. <br><br>If your company is growing through franchising and is in need of a liquor license strategy, connect with Liquor License Advisor to schedule a strategy call. </h3>
 			<a href="<?php echo get_page_link(14); ?>"><button type="button" class="begin-button" style="color:black">NEED HELP? CONNECT WITH LIQUOR LICENSE ADVISOR NOW</button></a>
 		</div>
 
