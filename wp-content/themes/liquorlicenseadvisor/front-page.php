@@ -12,8 +12,8 @@
       <div class="wrap">
         <img id="pic-dan" src="<?php echo get_stylesheet_directory_uri(); ?>/images/pic-dan.jpg"/> 
         <div class="column-quote">
-         <h3> "I’ve been on every side of liquor licensing—from being a franchise owner myself to advising prominent companies and brands for over 15 years. I know from first-hand experience that the liquor licensing system can be confusing, because it is so different in every municipality, county, and state. Liquor License Advisor knows where to look for answers, and we’re committed to getting creative and thinking big about streamlining the licensing process to make it simple and straightforward." </h3>
-         <h2>- Dan Newcomb, Founder</h2>
+         <h3> "Over the last two decades we have been providing our clients and their attorneys with answers regarding market values, availability and the marketability of their liquor licenses. The licensing system is confusing, and different in every municipality, county, and state. Liquor License Advisor knows where to look for answers, who to connect with and how to creatively work within the existing system to get our clients the intended result that they desire." </h3>
+         <h2>- Dan Newcomb, Founder, CEO</h2>
        </div>
      </div>
 
