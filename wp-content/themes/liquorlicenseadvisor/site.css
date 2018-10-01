@@ -715,6 +715,9 @@ font-size: 18px;
   margin-bottom: 1%;
   border-right: 1px solid white;
   content:url("images/logos-about-page.png");
+  background-image: url("images/logos-about-page.png");
+ background-repeat: no-repeat;
+ background-size:100%;
 }
 
 #hilton-logo {
