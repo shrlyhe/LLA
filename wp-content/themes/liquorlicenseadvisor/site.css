@@ -182,7 +182,7 @@
   width: 33%;
   padding-top: 15px;
   padding-right: 5px;
-  padding-bottom: 45px;
+  padding-bottom: 35px;
   text-align: left;
   font-family: AvenirLTStd-Book;
 }
@@ -1678,6 +1678,21 @@ ul, li{
   padding-right: 5px;
   padding-bottom: 10%;
 }
+
+.about-blog {
+  float: left;
+  width: 375px;
+  padding-top: 15px;
+  padding-right: 5px;
+  padding-bottom: 10%;
+
+}
+
+/*.articles {
+  float: left;
+  width: 375px;
+  margin-bottom: 20px;
+}*/
 
 #about-team-pics {
   width: 300px;
