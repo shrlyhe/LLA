@@ -20,7 +20,7 @@ get_header(); ?>
 				<br><br>
 				Look, there is a lot at stake here! If you've never bought or sold a liquor license, you're going to need advice on how to proceed. Feeling confused and concerned about liquor license prices is the normal reaction we expect from some of our new clients. Our team will give it to you straight and even refer you to an attorney who specializes in liquor licensing (a must have) where you can get the legal assistance that you require.
 				<br><br>
-				Our team's knowledge and experience from decades of assisting people pull off their dream of opening a restaurant, bar, or liquor store will leave you feeling even more confident as you move your project forward. 
+				Our team's knowledge and experience from decades of assisting people pull off their dream of opening a restaurant, bar, or liquor store will leave you feeling even more confident as you move your project forward. Reach out to one of our team members today to start gathering the information that you’ll need to make smart decisions!
 				<br><br></h3>
 				<a href="<?php echo get_page_link(14); ?>"><button type="button" class="begin-button" style="color:black">NEED HELP? CONNECT WITH LIQUOR LICENSE ADVISOR NOW</button></a>
 			</div>
