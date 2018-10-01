@@ -45,10 +45,10 @@
         </ul>
         </div>
         <div class="social-media">
-          <a href="https://twitter.com/LiquorAdvisor" class="fa fa-twitter"></a>
-          <a href="https://www.facebook.com/Liquor-License-Advisor-282320729178768/" class="fa fa-facebook"></a>
-          <a href="https://www.linkedin.com/company/atlantic-license-brokers/" class="fa fa-linkedin"></a>
-          <a href="#" class="fa fa-youtube"></a>
+          <a href="https://twitter.com/LiquorAdvisor" target="_blank" class="fa fa-twitter"></a>
+          <a href="https://www.facebook.com/Liquor-License-Advisor-282320729178768/" target="_blank" class="fa fa-facebook"></a>
+          <a href="https://www.linkedin.com/company/atlantic-license-brokers/" target="_blank" class="fa fa-linkedin"></a>
+          <a href="https://www.youtube.com/" target="_blank" class="fa fa-youtube"></a>
           <h3 class="rights-reserved">2018 Liquor License Advisor USA All rights reserved</h3>
         </div>
 
