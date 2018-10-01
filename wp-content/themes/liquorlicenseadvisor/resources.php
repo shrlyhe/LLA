@@ -90,7 +90,7 @@ get_header(); ?>
 			
 
 			<div class="col-sm-10 articles">
-				<p class="imgp"><a href="https://liquorlicenseadvisor.coms/2018/08/30/liquor-license-applications-in-florida-massachusetts-new-jersey-and-pennsylvania/"><img class="articles-pics" src="<?php echo get_stylesheet_directory_uri(); ?>/images/stock-pics/alcohol-bar-beer-1089932.jpg" data-src="https://cdn10.bostonmagazine.com/wp-content/uploads/2016/12/liquor-licenses-boston-sm.jpg" /></a></p>
+				<p class="imgp"><a href="https://liquorlicenseadvisor.com/2018/08/30/liquor-license-applications-in-florida-massachusetts-new-jersey-and-pennsylvania/"><img class="articles-pics" src="<?php echo get_stylesheet_directory_uri(); ?>/images/stock-pics/alcohol-bar-beer-1089932.jpg" data-src="https://cdn10.bostonmagazine.com/wp-content/uploads/2016/12/liquor-licenses-boston-sm.jpg" /></a></p>
 
 				<h2><a href="https://liquorlicenseadvisor.com/2018/08/30/liquor-license-applications-in-florida-massachusetts-new-jersey-and-pennsylvania/" style="color:black;">Liquor License Applications in Florida, Massachusetts, New Jersey, and Pennsylvania</a></h2>
 

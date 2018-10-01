@@ -19,10 +19,9 @@ get_header(); ?>
 			<div class="blog-section">
 
 				<div class="blog-section-inner">
-					<h2>3 Ways a Liquor License Broker Makes an Attorney’s Job Easier</h2>
-					<h3>Over our many years of business, we’ve worked with numerous attorneys to make their journey through the liquor licensing process easier.
-Attorneys who are new to what we do often ask why it’s necessary to have a liquor license broker; what they often find, however, is that our services go far beyond just finding a buyer or seller. </h3>
-					<a href="https://liquorlicenseadvisor.dream.press/2018/08/29/3-ways-a-liquor-license-broker-makes-an-attorneys-job-easier/"><button type="button" class="read-more-button">READ MORE</button></a>
+					<h2>What Does “Public Need” for a Liquor License Mean?</h2>
+					<h3>Did you know that sometimes, in order to get a liquor license for a location not previously licensed, you have to demonstrate “public need?” Several factors go into assessing public need, and it’s good to keep them in mind. The “public need” standard is one way for local licensing authorities to ensure liquor licenses are placed in neighborhoods where there aren’t already an abundance of bars.  </h3>
+					<a href="https://liquorlicenseadvisor.com/2018/10/01/what-does-public-need-for-a-liquor-license-mean/"><button type="button" class="read-more-button">READ MORE</button></a>
 				</div>
 			</div>
 		</div> 
