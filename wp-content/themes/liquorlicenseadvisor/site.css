@@ -1665,10 +1665,7 @@ ul, li{
 }
 
 .about-service {
-  margin-top: 0px;
-  margin-left: auto;
-  float: center;
-  width: 100%;
+  display: none;
 }
 
 .about-category {
@@ -1723,6 +1720,7 @@ ul, li{
 #onpremise-licensing {
   width: 100%;
   text-align: left;
+  height: 500px;
 }
 
 #valuation-licensing {
