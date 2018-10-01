@@ -18,13 +18,14 @@ get_header(); ?>
 
 		<div class="col-sm-8 services">
 
-			<h1>FOOD & BEVERAGE ESTABLISHMENT OWNER</h1>
+			<h1>Restaurant, Bar, Hotel Owner</h1>
 
 
-			<h3> We’ve assisted many restaurant and bar owners in buying and selling liquor licenses. We ensure that they’re not only up to state and county board standards but also confirm that they have all of the necessary information to undergo the process. 
+			<h3> Liquor Licenses for restaurants, bars, hotels and other foodservice establishments are in high demand and short supply! In quota states, the balance between supply and demand can be the difference between a valuable, appreciating asset and a worthless peice of paper. Constant calls to reform the liquor license laws and remove quotas altogether threaten to devalue your license similar to the effect that Uber has had on taxi cab medallions in some of the major cities. We can advise you as to the best time to sell your license to maximize the highest price.
 			<br><br>
-
-			Additionally, we offer consulting services where we review food and beverage establishment owners’ assets annually and report market value for their licenses, helping them make key business decisions.
+			Our clients are always getting top dollar for their license! Our team has a vast network of brokers, attorneys and other restauranteurs that require licenses and are willing to pay. Not only do you get a great price for your license, but you get a team who has seen it all-tax issues, wholesaler problems, even landlord challenges. Our proven system assures that you avoid all of the mistakes common with the sale of liquor licenses. We have the knowledge, experience and relationships to assist in clearing your license so that you can close the transaction quickly and get paid.   
+			<br><br>
+			If you are considering selling your liquor license, or just want to get an idea of the value of your license, connect with our team to schedule a confidential license review with one of our top advisors.
  			</h3>
 			<a href="<?php echo get_page_link(14); ?>"><button type="button" class="begin-button" style="color:black">NEED HELP? CONNECT WITH LIQUOR LICENSE ADVISOR NOW</button></a>
 		</div>
