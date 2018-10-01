@@ -18,7 +18,7 @@ get_header(); ?>
 
 		<div class="col-sm-8 services">
 
-			<h1>Restaurant, Bar, Hotel Owner</h1>
+			<h1>RESTAURANT, BAR, HOTEL OWNER</h1>
 
 
 			<h3> Liquor Licenses for restaurants, bars, hotels and other foodservice establishments are in high demand and short supply! In quota states, the balance between supply and demand can be the difference between a valuable, appreciating asset and a worthless peice of paper. Constant calls to reform the liquor license laws and remove quotas altogether threaten to devalue your license similar to the effect that Uber has had on taxi cab medallions in some of the major cities. We can advise you as to the best time to sell your license to maximize the highest price.
