@@ -361,16 +361,13 @@
  */
 
 
- .sell-license-buttons { /* LLA descriptor/tagline box */
+ .sell-license-buttons { 
    text-align: right;
-   width: 57%;
+   width: 100%;
    padding: 0px;
-   height: 55vh;
    font-family: DINPro-CondMedium;
-   float: right;
-   margin-right: 20px;
+   float: left;
    position: relative;
-
  }
 
  .sell-license-buttons h3 {
