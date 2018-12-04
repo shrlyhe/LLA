@@ -16,7 +16,7 @@ get_header(); ?>
 				<h3>Some sort of paragraph that welcomes the visitor to the website and makes them feel comfortable then explains the options available on this page (inquiry form and ready to sell form).</h3>
 
 				<div class="descriptor">
-				<a href="<?php echo get_page_link(46); ?>" style="color:white;text-decoration: none;"><button type="button" class="license-sell">INQUIRE</button></a>
+				<a href="<?php echo get_page_link(46); ?>" style="color:white;text-decoration: none;"><button type="button" class="sell">INQUIRE</button></a>
 
 					<a href="<?php echo get_page_link(14); ?>" style="color:white;text-decoration: none;"><button type="button" class="license-buy">UPLOAD LICENSE</button></a>
 
