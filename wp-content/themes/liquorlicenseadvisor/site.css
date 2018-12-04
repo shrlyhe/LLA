@@ -178,7 +178,7 @@
   font-size: 18px;
   font-weight: 700;
   margin-left: 15%;
-/*  text-align: center;*/
+  /*  text-align: center;*/
 }
 
 .about-category {
@@ -356,45 +356,6 @@
 
 }
 
-/*
- * Sell a license page (inquire & upload license)
- */
- .sell-license-buttons { /* LLA descriptor/tagline box */
-   text-align: right;
-   width: 100%;
-   padding: 0px;
-   font-family: DINPro-CondMedium;
-   float: right;
-   position: relative;
- }
-
- .sell-license-buttons h3 {
-  font-size: 30px;
-  font-weight: 700;
-}
-
-.inquire { /* sell license buttons */
-  background-color:#891b1b;
-  font-size: 16px;
-  color: white;
-  text-align: center;
-  width: 38%;
-  height: 15%;
-  border-color: #891b1b;
-}
-
-.upload { /* sell license buttons */
-  margin:0;
-  background-color:#891b1b;
-  color: white;
-  font-size: 16px;
-  text-align: center;
-  width: 300%;
-  padding: 0px;
-  height: 12%;
-  border-color: #891b1b;
-  margin-right: 10%;
-}
 
 
 
@@ -600,6 +561,46 @@ font-size: 18px;
     color: white;
   }
 
+  /*
+ * Sell a license page (inquire & upload license)
+ */
+ .sell-license-buttons { /* LLA descriptor/tagline box */
+   text-align: right;
+   width: 100%;
+   padding: 0px;
+   font-family: DINPro-CondMedium;
+   float: right;
+   position: relative;
+ }
+
+ .sell-license-buttons h3 {
+  font-size: 30px;
+  font-weight: 700;
+}
+
+.inquire { /* sell license buttons */
+  background-color:#891b1b;
+  font-size: 16px;
+  color: white;
+  text-align: center;
+  width: 38%;
+  height: 15%;
+  border-color: #891b1b;
+}
+
+.upload { /* sell license buttons */
+  margin:0;
+  background-color:#891b1b;
+  color: white;
+  font-size: 16px;
+  text-align: center;
+  width: 300%;
+  padding: 0px;
+  height: 12%;
+  border-color: #891b1b;
+  margin-right: 10%;
+}
+
 
 /*
  * Masthead for nav
@@ -761,8 +762,8 @@ font-size: 18px;
   border-right: 1px solid white;
   content:url("images/logos-about-page.png");
   background-image: url("images/logos-about-page.png");
- background-repeat: no-repeat;
- background-size:100%;
+  background-repeat: no-repeat;
+  background-size:100%;
 }
 
 #hilton-logo {
