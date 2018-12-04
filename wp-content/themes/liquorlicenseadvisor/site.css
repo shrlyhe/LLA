@@ -376,7 +376,7 @@
   font-weight: 700;
 }
 
-.license-inquire { /* sell license buttons */
+#license-inquire { /* sell license buttons */
   background-color:#891b1b;
   font-size: 16px;
   color: white;
@@ -388,7 +388,7 @@
   border-color: #891b1b;
 }
 
-.license-upload { /* sell license buttons */
+#license-upload { /* sell license buttons */
   margin:0;
   background-color:#891b1b;
   color: white;
