@@ -356,6 +356,49 @@
 
 }
 
+/*
+ * Sell a license page (inquire & upload license)
+ */
+
+
+ .sell-license-buttons { /* LLA descriptor/tagline box */
+   text-align: right;
+   width: 57%;
+   padding: 0px;
+   height: 55vh;
+   font-family: DINPro-CondMedium;
+   float: right;
+   margin-right: 20px;
+   position: relative;
+
+ }
+
+ .sell-license-buttons h3 {
+  font-size: 30px;
+  font-weight: 700;
+}
+
+.license-inquire { /* sell license buttons */
+  background-color:#891b1b;
+  font-size: 16px;
+  color: white;
+  text-align: center;
+  width: 38%;
+  height: 12%;
+  border-color: #891b1b;
+}
+
+.license-upload { /* sell license buttons */
+  margin:0;
+  background-color:#891b1b;
+  color: white;
+  font-size: 16px;
+  text-align: center;
+  width: 38%;
+  padding: 0px;
+  border-color: #891b1b;
+}
+
 
 /* 
  * services page
