@@ -72,42 +72,6 @@
         </div>
         </div>
 
-
-
-
-
-
-
-<!-- 
-
-
-        <nav class="navbar navbar-default">
-          <div class="container">
-            <div class="row">
-             <div class="blog-masthead">
-              <div class="contact-home-header">
-                <h3><i class="fa fa-envelope"></i><a style="color: white;"href="mailto:team@llausa.com">team@llausa.com</a> |<i class="fa fa-phone"></i>781.319.9800</h3>
-              </div> 
-
-
-            </div>
-
-            <div class="logo-div">
-             <a href="<?php echo get_bloginfo( 'wpurl' );?>"><img id="lla-logo"  src="<?php echo get_stylesheet_directory_uri(); ?>/images/LLA-logo.png"/></a>
-           </div>
-           <div class="header">
-            <ul class="nav navbar-nav">
-              <li><?php wp_list_pages( '&title_li=&exclude=61,63,65,67,69,51,53,55,247,254,261,263,266&sort_column=menu_order' ); ?></li>
-            </ul>
-          </div>
-        </div>
-
-
-      </div>
-      
-
-    </nav> -->
-
   </body>
   </html>
 

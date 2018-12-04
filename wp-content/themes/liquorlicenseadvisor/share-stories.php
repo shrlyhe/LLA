@@ -11,10 +11,19 @@ get_header(); ?>
 	<div class="row">
 
 		<div class="wrap">
-			<div class="col-sm-12 marketplace-button">
-				<h1><a href="<?php echo get_page_link(46); ?>">CLICK HERE TO SEE OUR CURRENT LISTINGS</a></h1>
+			<div class="wrap container-outer">
+    <div class="col-sm-12 client-review-title">
+      <h2>CLIENT SUCCESS STORIES</h2>
+    </div>
 
-			</div>
+
+      <div class="col-sm-12">
+        <?php if (have_posts()) : while (have_posts()) : the_post(); ?>
+          <?php the_content(); ?>
+        <?php endwhile; ?>
+      <?php endif; ?>
+
+    </div>
 
 			<div class="col-sm-12 contact-info">
 				<h3> If you’re ready to take the next steps in securing or selling your liquor license, or just want more information on our resources and services, we’ve got you covered. Our mission is to deliver the resources you need and results you want in a manner that’s quick and easy--and that starts here.<br><br><b>
