@@ -383,18 +383,17 @@
   border-color: #891b1b;
 }
 
-.license-buy { /* sell license buttons */
+.upload { /* sell license buttons */
   margin:0;
   background-color:#891b1b;
   color: white;
   font-size: 16px;
   text-align: center;
-  width: 38%;
+  width: 300%;
   padding: 0px;
   height: 12%;
   border-color: #891b1b;
   margin-right: 10%;
-
 }
 
 

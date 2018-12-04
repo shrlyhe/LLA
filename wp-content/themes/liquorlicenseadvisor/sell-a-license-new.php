@@ -18,7 +18,7 @@ get_header(); ?>
 			<!-- 	<div class="sell-license-buttons"> -->
 				<a href="<?php echo get_page_link(46); ?>" style="color:white;text-decoration: none;"><button type="button" class="inquire">INQUIRE</button></a>
 
-					<a href="<?php echo get_page_link(14); ?>" style="color:white;text-decoration: none;"><button type="button" class="license-buy">UPLOAD LICENSE</button></a>
+					<a href="<?php echo get_page_link(14); ?>" style="color:white;text-decoration: none;"><button type="button" class="upload">UPLOAD LICENSE</button></a>
 
 			<!-- 	</div> -->
 
