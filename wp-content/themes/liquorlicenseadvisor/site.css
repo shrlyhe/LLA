@@ -583,8 +583,8 @@ font-size: 18px;
   font-size: 16px;
   color: white;
   text-align: center;
-  width: 38%;
-  height: 15%;
+  width: 50%;
+  height: 30%;
   border-color: #891b1b;
 }
 
@@ -594,11 +594,10 @@ font-size: 18px;
   color: white;
   font-size: 16px;
   text-align: center;
-  width: 300%;
+  width: 50%;
   padding: 0px;
-  height: 12%;
+  height: 30%;
   border-color: #891b1b;
-  margin-right: 10%;
 }
 
 
