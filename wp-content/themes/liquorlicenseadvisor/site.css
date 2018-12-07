@@ -1668,6 +1668,13 @@ ul, li{
 
 }
 
+ .upload,
+ .inquire {
+  width: 100%;
+  margin-left: 0;
+  margin-right: 0;
+ }
+
 .blog-masthead h3 {
   font-size: 12px;
   float: center;
