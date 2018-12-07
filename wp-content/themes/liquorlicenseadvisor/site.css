@@ -564,40 +564,45 @@ font-size: 18px;
   /*
  * Sell a license page (inquire & upload license)
  */
- .sell-license-buttons { /* LLA descriptor/tagline box */
-   text-align: right;
-   width: 100%;
-   padding: 0px;
-   font-family: DINPro-CondMedium;
-   float: right;
-   position: relative;
- }
 
- .sell-license-buttons h3 {
-  font-size: 30px;
-  font-weight: 700;
-}
-
-.inquire { /* sell license buttons */
-  background-color:#891b1b;
-  font-size: 16px;
-  color: white;
-  text-align: center;
-  width: 50%;
-  height: 30%;
-  border-color: #891b1b;
-}
-
-.upload { /* sell license buttons */
-  margin:0;
-  background-color:#891b1b;
-  color: white;
-  font-size: 16px;
-  text-align: center;
-  width: 50%;
+ .sell-button-div {
+  text-align: left;
+  width: 100%;
   padding: 0px;
-  height: 30%;
+  height: 55vh;
+  font-family: DINPro-CondMedium;
+  float: left;
+  margin-right: 0px;
+  position: relative;
+
+}
+
+
+.inquire { 
+  background-color:#891b1b;
+  font-size: 16px;
+  color: white;
+  text-align: center;
+  width: 30%;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  height: 15%;
   border-color: #891b1b;
+}
+
+.upload { 
+ margin:0;
+ background-color:#891b1b;
+ color: white;
+ font-size: 16px;
+ text-align: center;
+ width: 30%;
+ padding: 0px;
+ height: 15%;
+ margin-top: 5%;
+ margin-bottom: 5%;
+ border-color: #891b1b;
+ margin-left: 10%;
 }
 
 
