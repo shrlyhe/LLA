@@ -26,6 +26,7 @@ get_header(); ?>
 					<?php endif; ?>
 				</div>
 			</div> 
+			</div>
 
 			<div>
 				<h3>For questions or concerns please call us at 781.319.9800 or use our <a style="font-weight:bold; color: black;" href="<?php echo get_page_link(14); ?>">online contact form</a>.</h3>
