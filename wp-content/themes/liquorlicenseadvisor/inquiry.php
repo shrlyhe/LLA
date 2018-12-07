@@ -15,11 +15,11 @@ get_header(); ?>
 				<h1>INQUIRY FORM</h1>
 				<br>
 				<h3>Some sort of paragraph that welcomes the visitor to the website and makes them feel comfortable then explains the options available on this page (inquiry form and ready to sell form).</h3>
-				
+
 
 
 				<div class="contact-overall">
-					<div class="col-sm-12 message-inquiry">
+				<div class="col-sm-12 message-box">
 						<?php if (have_posts()) : while (have_posts()) : the_post(); ?>
 							<?php the_content(); ?>
 						<?php endwhile; ?>
