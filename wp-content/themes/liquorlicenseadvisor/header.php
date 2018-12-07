@@ -62,7 +62,7 @@
             <!-- Navbar Menu -->
             <ul class="nav navbar-nav navbar-right header">
               <li>
-                <?php wp_list_pages( '&title_li=&exclude=21,23,25,27,29,51,53,55,247,254,261,263,266&sort_column=menu_order' ); ?>
+                <?php wp_list_pages( '&title_li=&exclude=21,23,25,27,29,51,53,55,247,254,261,263,266,335&sort_column=menu_order' ); ?>
               </li>
             </ul>
 

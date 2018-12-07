@@ -605,6 +605,16 @@ font-size: 18px;
  margin-left: 10%;
 }
 
+.message-inquiry {
+  margin-right: 0;
+  margin-bottom: 35px;
+  padding-bottom: 3%;
+  float:left;
+  width: 100%;
+  border: 2px solid #D3D3D3;
+
+}
+
 
 /*
  * Masthead for nav
@@ -1668,12 +1678,12 @@ ul, li{
 
 }
 
- .upload,
- .inquire {
+.upload,
+.inquire {
   width: 100%;
   margin-left: 0;
   margin-right: 0;
- }
+}
 
 .blog-masthead h3 {
   font-size: 12px;
