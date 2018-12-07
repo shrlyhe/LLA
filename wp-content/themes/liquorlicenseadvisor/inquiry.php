@@ -19,7 +19,7 @@ get_header(); ?>
 
 
 				<div class="contact-overall">
-				<div class="col-sm-12 message-box">
+					<div class="col-sm-12 message-box">
 						<?php if (have_posts()) : while (have_posts()) : the_post(); ?>
 							<?php the_content(); ?>
 						<?php endwhile; ?>
@@ -27,8 +27,9 @@ get_header(); ?>
 				</div>
 			</div> 
 
-
-			<h3>For questions or concerns please call us at 781.319.9800 or use our <a style="font-weight:bold; color: black;" href="<?php echo get_page_link(14); ?>">online contact form</a>.</h3>
+			<div>
+				<h3>For questions or concerns please call us at 781.319.9800 or use our <a style="font-weight:bold; color: black;" href="<?php echo get_page_link(14); ?>">online contact form</a>.</h3>
+			</div>
 
 		</div>
 	</div>
