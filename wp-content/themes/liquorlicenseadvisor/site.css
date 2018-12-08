@@ -590,21 +590,21 @@ font-size: 18px;
   }
 
 /*  submit your stories form*/
-  #wpcf7-f162-p154-o1 input[type="text"],
-  #wpcf7-f162-p154-o1 input[type="email"],
-  #wpcf7-f162-p154-o1 input[type="tel"],
-  #wpcf7-f162-p154-o1 textarea {
+  #wpcf7-f345-p154-o1 input[type="text"],
+  #wpcf7-f345-p154-o1 input[type="email"],
+  #wpcf7-f345-p154-o1 input[type="tel"],
+  #wpcf7-f345-p154-o1 textarea {
     background-color: #f1f1f1;
     width: 100%; 
     font-size: 15px;
     border: 6px solid #f1f1f1; 
   }
 
-  #wpcf7-f162-p154-o1 label {
+  #wpcf7-f345-p154-o1 label {
     width: 100%;
   }
 
-  #wpcf7-f162-p154-o1 input[type="submit"] {
+  #wpcf7-f345-p154-o1 input[type="submit"] {
     background-color: #891b1b;
     width: 230px;
     float: right;
