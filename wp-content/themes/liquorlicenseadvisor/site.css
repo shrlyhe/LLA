@@ -539,17 +539,17 @@ font-size: 18px;
 
   .one-half { width: 8%; }
 
-  #wpcf7-f151-p152-o1 input[type="text"],
-  #wpcf7-f151-p152-o1 input[type="email"],
-  #wpcf7-f151-p152-o1 input[type="tel"],
-  #wpcf7-f151-p152-o1 textarea {
+  #wpcf7-f343-p341-o1 input[type="text"],
+  #wpcf7-f343-p341-o1 input[type="email"],
+  #wpcf7-f343-p341-o1 input[type="tel"],
+  #wpcf7-f343-p341-o1 textarea {
     background-color: #f1f1f1;
     width: 820px; 
     font-size: 15px;
     border: 6px solid #f1f1f1; 
   }
 
-  #wpcf7-f151-p152-o1 input[type="number"] {
+  #wpcf7-f343-p341-o1 input[type="number"] {
     background-color: #f1f1f1;
     width: 20%; 
     font-size: 15px;
@@ -557,7 +557,7 @@ font-size: 18px;
 
   }
 
-   #wpcf7-f151-p152-o1 input[type="submit"] {
+   #wpcf7-f343-p341-o1 input[type="submit"] {
       background-color: #891b1b;
       width: 230px;
       float: right;
@@ -1871,16 +1871,16 @@ ul, li{
 .wpcf7 input[type="email"],
 .wpcf7 input[type="tel"],
 .wpcf7 textarea,
-#wpcf7-f151-p152-o1 input[type="text"],
-#wpcf7-f151-p152-o1 input[type="email"],
-#wpcf7-f151-p152-o1 input[type="tel"],
-#wpcf7-f151-p152-o1 textarea {
+#wpcf7-f343-p341-o1 input[type="text"],
+#wpcf7-f343-p341-o1 input[type="email"],
+#wpcf7-f343-p341-o1 input[type="tel"],
+#wpcf7-f343-p341-o1 textarea {
   background-color: #f1f1f1;
   width: 100%; /* 100% */
   font-size: 15px;
   border: 6px solid #f1f1f1; 
 }
-#wpcf7-f151-p152-o1 input[type="number"] {
+#wpcf7-f343-p341-o1 input[type="number"] {
   width: 67%;
 }
 
@@ -1895,7 +1895,7 @@ ul, li{
 }
 
 .wpcf7 input[type="submit"],
- #wpcf7-f151-p152-o1 input[type="submit"] {
+ #wpcf7-f343-p341-o1 input[type="submit"] {
   background-color: #891b1b;
   width: 100px;
   float: right;
