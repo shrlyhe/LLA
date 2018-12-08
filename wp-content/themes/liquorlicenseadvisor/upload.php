@@ -1,7 +1,7 @@
 <?php 
 
-/** Template Name: Inquiry Form
- * description: Inquiry form for "Sell a License" page
+/** Template Name: Upload License Form
+ * description: Upload license form for "Sell a License" page
  */
 
 get_header(); ?>
@@ -12,7 +12,7 @@ get_header(); ?>
 		<div class="wrap">
 
 			<div class="contact-header">
-				<h1>INQUIRY FORM</h1>
+				<h1>UPLOAD LICENSE</h1>
 				<br>
 				<h3>Some sort of paragraph that welcomes the visitor to the website and makes them feel comfortable then explains the options available on this page (inquiry form and ready to sell form).</h3><br><br>
 
