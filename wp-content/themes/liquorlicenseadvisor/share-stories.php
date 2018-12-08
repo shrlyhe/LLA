@@ -13,7 +13,6 @@ get_header(); ?>
 		<div class="wrap">
 			
 			<div class="col-sm-12 client-testimonial-title">
-				<br><br>
 				<h2>CLIENT TESTIMONIALS</h2>
 			</div>
 
