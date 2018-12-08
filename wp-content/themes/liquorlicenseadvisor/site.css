@@ -507,7 +507,15 @@ font-size: 18px;
     float:left;
     width: 680px;
     border: 2px solid #D3D3D3;
+  }
 
+  .message-box-upload-license {
+    margin-right: 0;
+    margin-bottom: 35px;
+    padding-bottom: 3%;
+    float:left;
+    width: 80%;
+    border: 2px solid #D3D3D3;
   }
 
   .contact-box-mobile {
@@ -525,6 +533,11 @@ font-size: 18px;
 
   .contact-overall {
     width: 100%;
+  }
+
+  /*upload license contact form*/
+  .wpcf7-f151-p152-o1 {
+
   }
 
   .wpcf7-response-output {
