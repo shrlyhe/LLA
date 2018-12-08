@@ -11,9 +11,9 @@ get_header(); ?>
 	<div class="row">
 
 		<div class="wrap">
-			<div class="wrap container-outer">
-    <div class="col-sm-12 client-review-title">
-      <h2>CLIENT SUCCESS STORIES</h2>
+			
+    <div class="col-sm-12 client-testimonial-title">
+      <h2>CLIENT TESTIMONIALS</h2>
     </div>
 
 
@@ -25,20 +25,20 @@ get_header(); ?>
 
     </div>
 
-			<div class="col-sm-12 contact-info">
+	<!-- 		<div class="col-sm-12 contact-info">
 				<h3> If you’re ready to take the next steps in securing or selling your liquor license, or just want more information on our resources and services, we’ve got you covered. Our mission is to deliver the resources you need and results you want in a manner that’s quick and easy--and that starts here.<br><br><b>
 				</h3>
-			</div>
+			</div> -->
 
-			<div class="contact-box-mobile">
+	<!-- 		<div class="contact-box-mobile">
 			<h3>1 Snow Rd #3 <br>
 					Marshfield MA 02050<br>
 					781.319.9800<br>
 					<a style="color:black;" href="mailto:team@llausa.com">team@llausa.com</a><br><br><br>
 				</h3>
 			</div>
-
-			<div class="contact-overall">
+ -->
+<!-- 			<div class="contact-overall">
 				<div class="col-sm-12 message-box">
 						<?php if (have_posts()) : while (have_posts()) : the_post(); ?>
 								<?php the_content(); ?>
@@ -55,7 +55,7 @@ get_header(); ?>
 				</h3>
 			</div>
 
-			</div>
+			</div> -->
 
 
 		</div>
