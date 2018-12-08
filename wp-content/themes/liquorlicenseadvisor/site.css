@@ -1587,8 +1587,7 @@ ul, li{
   margin-bottom: 5px;
   font-size: 17px;
 }
-.client-review-title, 
-.client-testimonial-title {
+.client-review-title {
   margin-bottom: 1%;
   margin-right: auto;
   margin-left: auto;
@@ -1596,6 +1595,14 @@ ul, li{
   width: 100%;
 }
 
+.client-testimonial-title {
+  margin-top: 10%;
+  margin-bottom: 1%;
+  margin-right: auto;
+  margin-left: auto;
+  float: left;
+  width: 100%;
+}
 .client-review-title h2,
 .client-testimonial-title h2 {
   font-size: 25px;
