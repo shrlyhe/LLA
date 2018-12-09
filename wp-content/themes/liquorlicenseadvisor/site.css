@@ -1701,6 +1701,33 @@ ul, li{
 
 }
 
+#company-logos {
+  width: 100%;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+  background: 100%;
+  margin-top: 2%;
+  margin-bottom: 1%;
+  border-right: 1px solid white;
+  content:url("images/homepage-logos.png");
+}
+
+#company-logos-members {
+  width: 100%;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+  background: 100%;
+  margin-top: 2%;
+  margin-bottom: 1%;
+  border-right: 1px solid white;
+  content:url("images/logos-about-page.png");
+  background-image: url("images/logos-about-page.png");
+  background-repeat: no-repeat;
+  background-size:100%;
+}
+
 .top-row {
   margin-left: 5px;
 
