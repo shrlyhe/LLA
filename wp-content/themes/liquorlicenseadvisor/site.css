@@ -773,7 +773,7 @@ ul.nav li.dropdown:hover ul.dropdown-menu {
   display: inline-block;
   width: 100%;
   margin: 0 auto;
-  margin-bottom: 40px;
+  margin-bottom: 60px;
   border-bottom: 2px solid black;
   -webkit-box-shadow:0px 2px 2px #696969;
   -moz-box-shadow:0px 2px 2px #696969;
@@ -785,7 +785,8 @@ ul.nav li.dropdown:hover ul.dropdown-menu {
   text-decoration: none;
 }
 
-.nav.navbar-nav {
+.nav.navbar-nav,
+.dropdown-menu {
   box-shadow: none;
 
 }
