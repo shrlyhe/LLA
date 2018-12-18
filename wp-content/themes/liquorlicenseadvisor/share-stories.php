@@ -11,6 +11,12 @@ get_header(); ?>
 	<div class="row">
 
 		<div class="wrap">
+			<div class="contact-header">
+
+				<h1>SHARE YOUR SUCCESS STORIES</h1>
+				<br>
+				<h3>Our results speak for themselves. Click through our client testimonials and <a style="font-weight:bold; color: black;" href="<?php echo get_page_link(14); ?>">contact us</a> if you're interested in working together on your liquor licensing needs.</h3>
+			</div>
 			
 			<div class="col-sm-12 client-testimonial-title">
 				<br><br>
