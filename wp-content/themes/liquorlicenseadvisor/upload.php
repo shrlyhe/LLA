@@ -14,7 +14,7 @@ get_header(); ?>
 			<div class="contact-header">
 				<h1>UPLOAD LICENSE</h1>
 				<br>
-				<h3>Some sort of paragraph that welcomes the visitor to the website and makes them feel comfortable then explains the options available on this page (inquiry form and ready to sell form).</h3><br><br>
+				<h3 style="font-size: 18px;">Some sort of paragraph that welcomes the visitor to the website and makes them feel comfortable then explains the options available on this page (inquiry form and ready to sell form).</h3><br><br>
 
 
 
