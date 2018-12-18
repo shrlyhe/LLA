@@ -1830,19 +1830,25 @@ ul, li{
 .wpcf7 input[type="text"],
 .wpcf7 input[type="email"],
 .wpcf7 input[type="tel"],
-.wpcf7 textarea,
+.wpcf7 textarea {
+  background-color: #f1f1f1;
+  width: 100%; 
+  font-size: 15px;
+  border: 6px solid #f1f1f1; 
+}
+
+#wpcf7-f343-p341-o1 input[type="number"] {
+  width: 67%;
+}
 #wpcf7-f343-p341-o1 input[type="text"],
 #wpcf7-f343-p341-o1 input[type="email"],
 #wpcf7-f343-p341-o1 input[type="tel"],
 #wpcf7-f343-p341-o1 textarea {
-  background-color: #f1f1f1;
-  width: 100%; /* 100% */
-  font-size: 15px;
-  border: 6px solid #f1f1f1; 
-}
-#wpcf7-f343-p341-o1 input[type="number"] {
-  width: 67%;
-}
+    background-color: #f1f1f1;
+    width: 100%; 
+    font-size: 15px;
+    border: 6px solid #f1f1f1; 
+  }
 
 
 .wpcf7 input[type="text"],
