@@ -19,7 +19,7 @@ get_header(); ?>
 			</div>
 			
 			<div class="col-sm-12 client-testimonial-title">
-				<br><br>
+				<br><br><br><br>
 				<h2>CLIENT TESTIMONIALS</h2>
 			</div>
 
