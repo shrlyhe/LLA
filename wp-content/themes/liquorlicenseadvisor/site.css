@@ -701,6 +701,24 @@ font-size: 18px;
 
 
 /*
+ * Login page
+ */
+
+ #wpmem_reg label {
+  font-family: AvenirLTStd-Book;
+  font-size: 15px;
+}
+
+.login-page-box {
+  margin-right: auto;
+  margin-left: 20%;
+  margin-bottom: 10%;
+  width: 60%;
+  border: 2px solid #D3D3D3;
+}
+
+
+/*
  * Masthead for nav
  */
 
@@ -1845,11 +1863,11 @@ ul, li{
 #wpcf7-f343-p341-o1 input[type="email"],
 #wpcf7-f343-p341-o1 input[type="tel"],
 #wpcf7-f343-p341-o1 textarea {
-    background-color: #f1f1f1;
-    max-width: 100%; 
-    font-size: 15px;
-    border: 6px solid #f1f1f1; 
-  }
+  background-color: #f1f1f1;
+  max-width: 100%; 
+  font-size: 15px;
+  border: 6px solid #f1f1f1; 
+}
 
 
 .wpcf7 input[type="text"],
