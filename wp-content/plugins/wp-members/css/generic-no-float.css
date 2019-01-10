@@ -70,7 +70,7 @@ see https://rocketgeek.com/tips-and-tricks/load-a-custom-stylesheet/
 }
 #wp-members .err {
 	width:100%;
-    padding: 5px;
+	padding: 5px;
 	font-family: inherit;
 	border: 1px solid #ccc;
 	border-radius: 3px;
@@ -81,7 +81,7 @@ see https://rocketgeek.com/tips-and-tricks/load-a-custom-stylesheet/
 #wpmem_reg, 
 #wpmem_login {
 	color: rgb(43, 43, 43);
-	font-family: Arial,sans-serif;
+	font-family: AvenirLTStd-Book;
 	font-size: 16px;
 	font-weight: 400;
 	line-height: 1.5;
@@ -119,6 +119,13 @@ see https://rocketgeek.com/tips-and-tricks/load-a-custom-stylesheet/
 	margin: 0px;
 	max-width: 100%;
 	vertical-align: baseline;
+
+	background-color: #891b1b;
+	/*  width: 100px;*/
+ /* float: right;
+  margin-left: 0;
+  height: 35px;*/
+  color: white;
 }
 
 #wpmem_reg input:focus,
@@ -145,7 +152,8 @@ see https://rocketgeek.com/tips-and-tricks/load-a-custom-stylesheet/
 }
 #wpmem_reg legend, 
 #wpmem_login legend {
-	font-size: 24px;
+	font-family: AvenirLTStd-Book;
+	font-size: 18px;
 	line-height: 1;
 	font-weight: 700;
 	margin-bottom: 10px;
@@ -178,8 +186,9 @@ see https://rocketgeek.com/tips-and-tricks/load-a-custom-stylesheet/
 #wpmem_reg .div_url,
 #wpmem_reg .div_number,
 #wpmem_reg .div_date { 
-	width:74%;
+	width:100%;
 	margin:0 0 14px 0;
+	background-color: #f1f1f1;
 }
 #wpmem_login input[type="checkbox"] {
 	margin: 12px 2px;
@@ -240,7 +249,7 @@ see https://rocketgeek.com/tips-and-tricks/load-a-custom-stylesheet/
 /* Buttons */
 
 #wpmem_reg .button_div, #wpmem_login .button_div {
-	width:74%;
+	width:90%;
 	/* height:55px; */
 	padding: 6px 0;
 	text-align: right;
