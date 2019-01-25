@@ -712,6 +712,51 @@ font-size: 18px;
   border: 2px solid #D3D3D3;
 }
 
+
+/*
+ * Client portal home page
+ */
+
+ .client-portal-specific {
+  width: 33%;
+  margin-bottom: 10%;
+  float: left;
+  text-align: left;
+  font-family: AvenirLTStd-Book;
+ }
+
+ .client-portal-specific h3 {
+  width: 70%;
+  text-align: center;
+  /*font-size: 20px;*/
+ }
+
+ .client-portal-button {
+  margin:0;
+  color: black;
+  font-size: 16px;
+  text-align: center;
+  width: 35%;
+  padding: 2%;
+  height: 10%;
+  margin-top: 5%;
+  border-color: black;
+
+ }
+
+ .client-portal-steps {
+ 
+ }
+
+ .client-portal-steps h1 {
+  padding-top: 5%;
+ }
+ .client-portal-steps h3 {
+  padding: 5%;
+  font-size: 16px;
+ }
+
+
 /* Error and Dialog Messages */
 
 #wpmem_msg, 
