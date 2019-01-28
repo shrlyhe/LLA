@@ -21,9 +21,9 @@ get_header(); ?>
 			<div>
 				<div class="client-portal-specific">
 					<h3>Restaurant All Alcoholic Beverages</h3>
-					<a href="<?php echo get_page_link(46); ?>"><button type="button" class="client-portal-button">BUY</button></a>
+					<a href="<?php echo get_page_link(361); ?>"><button type="button" class="client-portal-button">BUY</button></a>
 
-					<a href="<?php echo get_page_link(14); ?>"><button type="button" class="client-portal-button">SELL</button></a>
+					<a href="<?php echo get_page_link(361); ?>"><button type="button" class="client-portal-button">SELL</button></a>
 				</div>
 				<div class="client-portal-specific">
 					<h3>Restaurant Wine and Malt Beverages</h3>
