@@ -39,7 +39,7 @@ get_header(); ?>
 			</div>  
 
 			<div class="contact-box-info">
-				<h3>1 Snow Rd #3 <br>
+				<h3>2036 Ocean St., Suite 1 <br>
 					Marshfield MA 02050<br>
 					781.319.9800<br>
 					<a style="color:black;" href="mailto:team@llausa.com">team@llausa.com</a><br>

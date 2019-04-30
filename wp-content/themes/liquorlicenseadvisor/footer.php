@@ -35,7 +35,7 @@
           </li>
           <li class="col-sm-2 footer-header" id="footer-contact">CONTACT
           <ul class="footer-options">
-              <li><a style="text-decoration: none; text-align: left;">1 Snow Rd #3<br>Marshfield MA 02050</a>
+              <li><a style="text-decoration: none; text-align: left;">2036 Ocean St., Suite 1<br>Marshfield MA 02050</a>
               <li><a style="text-decoration: none;">781.319.9800</a>
               <li><a href="mailto:team@llausa.com">team@llausa.com</a>
             </ul>
